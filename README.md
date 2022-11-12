@@ -120,6 +120,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## `CREADO POR OFC-YOVANI` 
-<a href="https://github.com/OFC-YOVANI"><img src="https://github.com/OFC-YOVANI" width="250" height="250" alt="YOVANI"/></a>
+<a href="https://github.com/OFC-YOVANI"><img src="https://i.imgur.com/lkch77g.jpg" width="250" height="250" alt="YOVANI"/></a>
   
 `HADES-BOT-MD - By YOVANI`
