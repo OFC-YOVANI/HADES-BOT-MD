@@ -20,12 +20,12 @@ let texto1 = `┌「𝙸𝙽𝚂𝚃𝙰𝙻𝙰𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 �
 ├❏git clone https://github.com/OFC-YOVANI/HADES-BOT-MD.git
 ├❏cd HADES-BOT-MD
 ├❏npm install
-├❏pkg install yarn
 ├❏npm update
-├❏yarn
-├❏npm install
 ├❏npm start
 └────ׂ─ׂ─ׂ─ׂ───
+
+
+
 ┌「𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝙲𝙸𝙾𝙽 」─
 ├❏Si el termux se cierra para volver activar escribe:
 ├❏cd HADES-BOT-MD
