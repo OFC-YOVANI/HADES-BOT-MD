@@ -37,23 +37,35 @@
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
-cd && termux-setup-storage
+pkg update && pkg upgrade
 ```
 
 ```bash
-apt-get update -y && apt-get upgrade -y
+pkg install git -y
 ```
 
 ```bash
-pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
+pkg install nodejs -y
 ```
 
 ```bash
-git clone https://github.com/OFC-YOVANI/HADES-BOT-MD.git && cd OFC-HADES-BOT-MD
+pkg install ffmpeg -y
 ```
 
 ```bash
-yarn install
+pkg install imagemagick -y
+```
+
+```bash
+termux-setup-storage
+```
+
+```bash
+git clone https://github.com/OFC-YOVANI/HADES-BOT-MD.git
+```
+
+```bash
+cd HADES-BOT-MD
 ```
 
 ```bash
@@ -76,7 +88,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mystic-termux
+> cd HADES-BOT-MD 
 > npm start
 ```
 
@@ -85,17 +97,17 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mystic-termux
-> rm -rf MysticSession
+> cd HADES-BOT-MD 
+> rm -rf Hades-Session
 > npm start
 ```
 
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
+<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/OFC-YOVANI/HADES-BOT-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
 - Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
 - Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
 - Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
-- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/eC9TfKICpcY)
+- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/Gn-ESCcdFGw)
 - Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
 
 ### `—◉ 📝 NOTAS 📝`
