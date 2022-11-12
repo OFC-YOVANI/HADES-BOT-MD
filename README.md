@@ -85,8 +85,12 @@ npm start
 ```
 
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️`
+```
+
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+```
+
 ```bash
 > cd HADES-BOT-MD 
 ```
