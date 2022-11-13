@@ -22,7 +22,7 @@ conn.sendHydrated(m.chat, `╭─────°.♡.°‧─────\n│⫷
 }
 handler.help = ['addgb <@user>']
 handler.tags = ['hadescoins']
-handler.command = ['añadirhadescoins', 'añadirhades', 'añadircoins', 'dargatacoins', 'darhades', 'darcoins'] 
+handler.command = ['añadirhadescoins', 'añadirhades', 'añadircoins', 'darhadescoins', 'darhades', 'darcoins'] 
 handler.group = true
 handler.botAdmin = true
 handler.rowner = true
