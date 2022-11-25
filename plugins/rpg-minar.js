@@ -7,7 +7,7 @@ global.db.data.users[m.sender].limit += d * 1
 let time = global.db.data.users[m.sender].lastdiamantes + 600000
 if (new Date - global.db.data.users[m.sender].lastdiamantes < 600000) throw `ʏᴀ ʜᴀs ᴍɪʀᴀᴅᴏ ᴅɪᴀᴍᴀɴᴛᴇs ᴇsᴘᴇʀᴀ${msToTime(time - new Date())} ᴘᴀʀᴀ ᴠᴏʟᴠᴇʀ ᴀ ᴍɪɴᴀʀ ⛏️`
 
-conn.sendHydrated(m.chat, `${minar} ${d} 𝙳𝙸𝙰𝙼𝙰𝙽𝚃𝙴𝚂`, wm, pp, md, '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, `${minar} ${d} 𝙳𝙸𝙰𝙼𝙰𝙽𝚃𝙴𝚂`, wm, pp, 'https://github.com/OFC-YOVANI/HADES-BOT-MD.git', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['⚔️️ʜᴀᴅᴇs-ᴄᴏɪɴs', `.minar3`]
 ], m,)
 global.db.data.users[m.sender].lastdiamantes = new Date * 1  
