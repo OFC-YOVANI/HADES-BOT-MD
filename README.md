@@ -106,7 +106,7 @@ npm start
 ```
 
 ```bash
-> rm -rf Hades-Session
+> rm -rf session.data.json
 ```
 
 ```bash
