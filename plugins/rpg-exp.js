@@ -7,7 +7,7 @@ global.db.data.users[m.sender].exp = xp * 1
 let time = global.db.data.users[m.sender].lastmiming + 600000
 if (new Date - global.db.data.users[m.sender].lastmiming < 600000) throw `🧿ʏᴀ ʜᴀs ᴍɪɴᴀᴅᴀ ᴇxᴘᴇʀɪᴇɴᴄɪᴀ ᴛɪᴇɴᴇs ǫᴜᴇ ᴇsᴘᴇʀᴀʀ${msToTime(time - new Date())}ᴘᴀʀᴀ ᴠᴏʟᴠᴇʀ ᴏʙᴛᴇɴᴇʀ ᴇxᴘᴇʀɪᴇɴᴄɪᴀ🧿`  
 
-conn.sendHydrated(m.chat, `*${minar} ${xp} 𝐗𝐏`, wm, pp, md, '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, `*${minar} ${xp} 𝐗𝐏`, wm, pp, 'https://github.com/OFC-YOVANI/HADES-BOT-MD.git', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['💎ᴅɪᴀᴍᴀɴᴛᴇs️', `.minar`]
 ], m,)
 global.db.data.users[m.sender].lastmiming = new Date * 1  
