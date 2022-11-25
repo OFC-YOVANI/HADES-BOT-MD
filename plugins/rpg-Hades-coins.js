@@ -7,7 +7,7 @@ global.db.data.users[m.sender].money += hades * 1
 let time = global.db.data.users[m.sender].lastcoins + 600000
 if (new Date - global.db.data.users[m.sender].lastcoins < 600000) throw `✴️ʏᴀ ʜᴀs ᴍɪʀᴀᴅᴏ ⚔️ʜᴀᴅᴇs-ᴄᴏɪɴs ᴇsᴘᴇʀᴀ ᴘᴀʀᴀ ᴠᴏʟᴠᴇʀ ᴀ ᴍɪɴᴀʀ${msToTime(time - new Date())} ᴘᴀʀᴀ ᴠᴏʟᴠᴇʀ ᴀ ᴍɪɴᴀʀ⚔️`  
 
-conn.sendHydrated(m.chat, `*${minar} ${hades} ʜᴀᴅᴇs-ᴄᴏɪɴs`, wm, pp, md, '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, `*${minar} ${hades} ʜᴀᴅᴇs-ᴄᴏɪɴs`, wm, pp, 'https://github.com/OFC-YOVANI/HADES-BOT-MD.git', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['🧿ᴇxᴘᴇʀɪᴇɴᴄɪᴀ🧿', `.minar2`]
 ], m,)
 global.db.data.users[m.sender].lastcoins = new Date * 1  
