@@ -78,7 +78,7 @@ global.ig = 'https://www.instagram'
 global.hadesig = ig
 
 global.md = 'https://github.com/OFC-YOVANI/HADES-BOT-MD.git'
-global.hadesbot = md
+global.hades = md
 
 global.nn = 'https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'
 global.nngrupo = nn
