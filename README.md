@@ -76,9 +76,7 @@ npm install
 npm update
 ```
 
-```bash
-npm install
-```
+
 
 ```bash
 npm start
