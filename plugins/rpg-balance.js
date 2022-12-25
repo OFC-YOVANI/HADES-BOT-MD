@@ -21,7 +21,7 @@ m.reply(`
 
 📌 Ejemplo : .transfer exp 65 @5212411719888
 
-💎Ejemplo : .diamante 39 @5212411719888
+💎Ejemplo : .transfer limit 39 @5212411719888
 
 └──────────────`)
 }
