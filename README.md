@@ -137,6 +137,6 @@ npm start
   
 `HADES-BOT-MD - By YOVANI`
 
-```
+
 ## Colaborador 
 [![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21)
