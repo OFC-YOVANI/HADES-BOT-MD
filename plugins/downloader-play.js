@@ -27,6 +27,7 @@ let buttonMessage = { "document": { url: "https://wa.me/5212411719888" }, "fileN
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 } catch {
 try {
+{await m.reply('⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱')}
 let vid2 = await (await fetch(`https://api.lolhuman.xyz/api/ytsearch?apikey=${lolkeysapi}&query=${text}`)).json()
 let { videoId, title, views, published, thumbnail } = await vid2.result[0]
 const url = 'https://www.youtube.com/watch?v=' + videoId
