@@ -136,3 +136,7 @@ npm start
 <a href="https://github.com/OFC-YOVANI"><img src="https://i.imgur.com/lkch77g.jpg" width="250" height="250" alt="YOVANI"/></a>
   
 `HADES-BOT-MD - By YOVANI`
+
+```
+## Colaborador 
+[![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21)
