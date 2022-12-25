@@ -25,7 +25,7 @@
 
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/OFC-YOVANI/HADES-BOT-MD)](https://repl.it/github/OFC-YOVANI/HADES-BOT-MD)
+[![Run on Repl.it](https://repl.it/badge/github/OFC-YOVANI/HADES-BOT-MD)](https://repl.it/github/OFC-YOVANI/HADES-BOT-MD) 
 
 ### `—◉ 💥 ACTIVAR EN KOYEB 💥`
 
