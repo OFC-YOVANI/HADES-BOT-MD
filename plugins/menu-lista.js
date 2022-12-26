@@ -31,6 +31,7 @@ rows: [
      {title: "│💵│ᴄᴏᴍᴘʀᴀʀ", description: "ᴘᴜᴇᴅᴇs ᴄᴏᴍᴘʀᴀʀ ᴘʀᴇᴍɪᴜᴍ", rowId: `${usedPrefix}comprar`},
      {title: "│🌀│ʀᴇᴄᴏᴍᴘᴇɴsᴀ", description: "ʀᴇᴄᴏᴍᴘᴇɴsᴀ ᴅɪᴀʀɪᴀ ᴄᴏғғᴇʀ", rowId: `${usedPrefix}coffer`},
      {title: "│🍁│ʟɪsᴛᴘʀᴇᴍ", description: "ʟɪsᴛᴘʀᴇᴍ ʟɪsᴛᴀ ᴅᴇ ᴜsᴜᴀʀɪᴏs", rowId: `${usedPrefix}.listprem`},
+     {title: "│👹│ʟɪsᴛᴀ ᴅᴇ ʙɪɴᴀʀɪᴏs", description: "sᴇʟᴇᴄᴄɪᴏɴᴀ ʟᴀ ᴄᴀɴᴛɪᴅᴀᴅ ǫᴜᴇ ǫᴜɪᴇʀᴇs ᴇɴᴠɪᴀʀ", rowId: `${usedPrefix}virus`},
      {title: "│📑│ʟɪsᴛᴀᴘʀᴇᴍɪᴜᴍ", description: "ʟɪsᴛᴀᴘʀᴇᴍɪᴜᴍ ʟɪsᴛᴀ ᴅᴇ ᴜsᴜᴀʀɪᴏs", rowId: `${usedPrefix}listapremium`},
      {title: "│⬆️│ᴘᴀsᴇ ᴘʀᴇᴍɪᴜᴍ", description: "ᴍᴇɴᴜ ᴅᴇ ᴄᴏᴍᴘʀᴀs", rowId: `${usedPrefix}pase premium`},
      {title: "│🏹│ᴄᴀᴢᴀ", description: "ᴄᴀᴢᴀᴅᴏʀ ᴄᴀᴢᴀ", rowId: `${usedPrefix}caza`},
