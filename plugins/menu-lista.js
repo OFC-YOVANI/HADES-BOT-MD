@@ -20,10 +20,11 @@ const sections = [
 {
 title: `𝙻𝙸𝚂𝚃𝙰 𝙳𝙴𝙻 𝙼𝙴𝙽𝚄`,
 rows: [  
-     {title: "┌─「☘️𝐍𝐔𝐌𝐄𝐑𝐎 𝐎𝐅𝐈𝐂𝐈𝐀𝐋𝐄𝐒 𝐃𝐄 𝐘𝐎𝐕𝐀𝐍𝐈☘️─」"},
      {title: "│🤴│ᴄʀᴇᴀᴅᴏʀ ᴅᴇʟ ʙᴏᴛ", description: "ɴᴜᴍᴇʀᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ ʏᴏᴠᴀɴɪ", rowId: `${usedPrefix}owner`},
      {title: "│⛄│ᴄʀᴇᴀᴅᴏʀ ᴅᴇʟ ʙᴏᴛ2", description: "ɴᴜᴍᴇʀᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ ʏᴏᴠᴀɴɪ", rowId: `${usedPrefix}yovani`},
-     {title: "┌─「🌸𝐎𝐏𝐂𝐈𝐎𝐍𝐄𝐒 𝐕𝐀𝐑𝐈𝐀𝐃𝐀𝐒🌺─」"}, 
+     ]},{  
+     title: hades3 + '🌸𝐎𝐏𝐂𝐈𝐎𝐍𝐄𝐒 𝐕𝐀𝐑𝐈𝐀𝐃𝐀𝐒🌺' + hades4,
+     rows: [
      {title: "│🧬│ᴄᴏʀᴏɴᴀ ᴠɪʀᴜs", description: "ᴍᴇxɪᴄᴏ", rowId: `${usedPrefix}covid19`},
      {title: "│💌│ᴰᴼᴺᴬᶜᴵᴼᴺ", description: "ᴬᵖᵃʸᵒ ᵖᵃʳᵃ ᴴᵃᵈᵉˢ⁻ᴮᵒᵗ", rowId: `${usedPrefix}donar`},
      {title: "│⚔️│ᴍɪɴᴀʀ ʜᴀᴅᴇs-ᴄᴏɪɴs", description: "ᴘᴏɴᴛᴇ ᴀ ᴍɪɴᴀʀ ᴘᴀʀᴀ ɢᴀɴᴀʀ ʜᴀᴅᴇs-ᴄᴏɪɴs", rowId: `${usedPrefix}minar3`},
@@ -31,13 +32,13 @@ rows: [
      {title: "│💵│ᴄᴏᴍᴘʀᴀʀ", description: "ᴘᴜᴇᴅᴇs ᴄᴏᴍᴘʀᴀʀ ᴘʀᴇᴍɪᴜᴍ", rowId: `${usedPrefix}comprar`},
      {title: "│🌀│ʀᴇᴄᴏᴍᴘᴇɴsᴀ", description: "ʀᴇᴄᴏᴍᴘᴇɴsᴀ ᴅɪᴀʀɪᴀ ᴄᴏғғᴇʀ", rowId: `${usedPrefix}coffer`},
      {title: "│🍁│ʟɪsᴛᴘʀᴇᴍ", description: "ʟɪsᴛᴘʀᴇᴍ ʟɪsᴛᴀ ᴅᴇ ᴜsᴜᴀʀɪᴏs", rowId: `${usedPrefix}.listprem`},
-     {title: "│👹│ʟɪsᴛᴀ ᴅᴇ ʙɪɴᴀʀɪᴏs", description: "sᴇʟᴇᴄᴄɪᴏɴᴀ ʟᴀ ᴄᴀɴᴛɪᴅᴀᴅ ǫᴜᴇ ǫᴜɪᴇʀᴇs ᴇɴᴠɪᴀʀ", rowId: `${usedPrefix}virus`},
      {title: "│📑│ʟɪsᴛᴀᴘʀᴇᴍɪᴜᴍ", description: "ʟɪsᴛᴀᴘʀᴇᴍɪᴜᴍ ʟɪsᴛᴀ ᴅᴇ ᴜsᴜᴀʀɪᴏs", rowId: `${usedPrefix}listapremium`},
      {title: "│⬆️│ᴘᴀsᴇ ᴘʀᴇᴍɪᴜᴍ", description: "ᴍᴇɴᴜ ᴅᴇ ᴄᴏᴍᴘʀᴀs", rowId: `${usedPrefix}pase premium`},
      {title: "│🏹│ᴄᴀᴢᴀ", description: "ᴄᴀᴢᴀᴅᴏʀ ᴄᴀᴢᴀ", rowId: `${usedPrefix}caza`},
      {title: "│🌀│ᴍɪɴᴀʀ ᴇxᴘᴇʀɪᴇɴᴄɪᴀ", description: "ᴘᴏɴᴛᴇ ᴀ ᴍɪɴᴀʀ ᴘᴀʀᴀ ɢᴀɴᴀʀ ᴇxᴘᴇʀɪᴇɴᴄɪᴀ", rowId: `${usedPrefix}minar2`},
      {title: "│🤖│ᴇsᴛᴀᴅᴏ ᴅᴇʟ ʙᴏᴛ", description: "ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ ᴅᴇʟ ʙᴏᴛ", rowId: `${usedPrefix}Estado`},
      {title: "│📑│sᴇ ʜᴀ ᴜɴɪᴅᴏ ᴀ", description: "ʟɪsᴛᴀ ᴅᴏɴᴅᴇ sᴇ ᴇɴᴄᴜᴇɴᴛʀᴀ ᴇʟ ʙᴏᴛ", rowId: `${usedPrefix}grouplist`},
+     {title: "│👹│ʟɪsᴛᴀ ᴅᴇ ʙɪɴᴀʀɪᴏs", description: "sᴇʟᴇᴄᴄɪᴏɴᴀ ʟᴀ ᴄᴀɴᴛɪᴅᴀᴅ ǫᴜᴇ ǫᴜɪᴇʀᴇs ᴇɴᴠɪᴀʀ", rowId: `${usedPrefix}virus`},
      {title: "│🏓│ɢʀᴜᴘᴏs ᴏғɪᴄɪᴀʟᴇs", description: "ᴇɴʟᴀᴄᴇs ᴅᴇ ʟᴏs ɢʀᴜᴘᴏs ᴅᴇ ʜᴀᴅᴇs", rowId: `${usedPrefix}grupos`},
      {title: "│⏱️│ʜᴏʀᴀʀɪᴏ", description: "ʜᴏʀᴀʀɪᴏ ᴅᴇ ᴍᴇxɪᴄᴏ", rowId: `${usedPrefix}horario`},
      {title: "│🧿│ᴘᴀɢɪɴᴀs ᴅᴇ ɢɪᴛ", description: "ɢɪᴛ ᴏғɪᴄɪᴀʟ ᴅᴇ ʜᴀᴅᴇs ʏ ᴍɪᴋᴜ", rowId: `${usedPrefix}sc`},
@@ -50,7 +51,9 @@ rows: [
      {title: "│⚖️│ᴛᴜ ɴᴜᴍᴇʀᴏ ᴅᴇ sᴇʀɪᴇ", description: "sᴏʟᴏ ᴛᴇ ᴍᴀɴᴅᴀ sɪ ᴇsᴛᴀs ʀᴇɢɪsᴛʀᴀᴅᴏ", rowId: `${usedPrefix}myns`},
      {title: "│👩‍🏫│ᴠᴇʀɪғɪᴄᴀ ᴛᴜ ᴘᴇʀғɪʟ", description: "ᴛᴇ ᴍᴏsᴛʀᴀʀᴀ ᴛᴜ ғᴏʀᴍᴀᴄɪᴏɴ", rowId: `${usedPrefix}perfil`},
      {title: "│💻│ʀᴇɢɪsᴛʀᴀʀsᴇ", description: "ᴛᴇ ɴᴇᴄᴇsɪᴛᴏ ᴇɴ ᴍɪ ʙᴀsᴇ ᴅᴇ ᴅᴀᴛᴏs", rowId: `${usedPrefix}Reg`},
-     {title: "┌─「🍁𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐏𝐀𝐑𝐀 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐘 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑🍁─」"},
+     ]},{
+     title: hades5 + '🍁𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐏𝐀𝐑𝐀 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐘 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑🍁' + hades6, 
+     rows: [
      {title: "│🍀│ᴀᴄᴛɪᴠᴀʀ ᴡᴇʟᴄᴏᴍᴇ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}welcome`},
      {title: "│🍀│ᴅᴇsᴀᴄᴛɪᴠᴀʀ ᴡᴇʟᴄᴏᴍᴇ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}enable welcome`},
      {title: "│🌐│ᴀᴄᴛɪᴠᴀʀ ᴘᴜʙʟɪᴄ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}enable public`},
@@ -89,7 +92,9 @@ rows: [
      {title: "│📵│ᴅᴇsᴀᴄᴛɪᴠᴀʀ ᴀɴᴛɪᴘʀɪᴠᴀᴅᴏ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}disable antiprivado`},
      {title: "│🗝️️│ᴜɴʙᴀɴᴄʜᴀᴛ", description: "ᴅᴇsʙᴀɴᴇᴀʀ ɢʀᴜᴘᴏ", rowId: `${usedPrefix}unbanchat`},
      {title: "│🔑│ʙᴀɴᴄʜᴀᴛ", description: "ʙᴀɴᴇᴀʀ ɢʀᴜᴘᴏ", rowId: `${usedPrefix}banchat`},
-     {title: "┌─「🌀𝐎𝐏𝐂𝐈𝐎𝐍𝐄𝐒 𝐕𝐀𝐑𝐈𝐀𝐃𝐀𝐒🌀─」"},
+     ]},{
+     title: hades7 + '🌀𝐎𝐏𝐂𝐈𝐎𝐍𝐄𝐒 𝐕𝐀𝐑𝐈𝐀𝐃𝐀𝐒🌀' + hades8, 
+     rows: [
      {title: "│📊│ᴇɴᴄᴜᴇsᴛᴀ", description: "ᴄʀᴇᴀ ᴜɴᴀ ᴇɴᴄᴜᴇsᴛᴀ", rowId: `${usedPrefix}encuesta`},
      {title: "│📼│ǫᴜᴇᴍᴜsɪᴄᴀ", description: "ᴇᴛɪǫᴜᴇᴛᴀ ᴜɴ ᴀᴜᴅɪᴏ ᴏ ᴠɪᴅᴇᴏ ᴘᴀʀᴀ ᴇɴᴠɪᴀʀ ᴛᴜ ʀᴇsᴜʟᴛᴀᴅᴏ", rowId: `${usedPrefix}quemusica`},
      {title: "│📇│ᴄᴜᴇɴᴛᴀsᴏғɪᴄɪᴀʟᴇs", description: "ᴄᴜᴇɴᴛᴀs ᴏғɪᴄɪᴀʟᴇs", rowId: `${usedPrefix}cuentasoficiales`},    
@@ -99,7 +104,9 @@ rows: [
      {title: "│⛄│ǫᴜé ᴇs ᴜɴ ʙᴏᴛ ", description: "ᴛᴇ ɪɴғᴏʀᴍᴀʀá ᴘᴀʀᴀ ǫᴜé sɪʀᴠᴇ ʏ ᴅᴇ ǫᴜé ғᴏʀᴍᴀ ʟᴏ ᴘᴜᴇᴅᴇs ᴜsᴀʀ", rowId: `${usedPrefix}queesunbot`},
      {title: "│📝│ɪɴsᴛᴀʟᴀʀʙᴏᴛ", description: "ɪɴsᴛᴀʟᴀᴄɪóɴ ᴅᴇʟ ʙᴏᴛ ɪɴsᴛᴀʟᴀʀʙᴏᴛ", rowId: `${usedPrefix}instalarbot`},
      {title: "│🎧│ᴍᴇɴᴜ ᴀᴜᴅɪᴏs", description: "ᴍᴜᴇsᴛʀᴀ ʟᴀ ʟɪsᴛᴀ ᴅᴇ ᴀᴜᴅɪᴏs", rowId: `${usedPrefix}menu2`},
-     {title: "┌─「🏞️𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐀𝐍𝐈𝐌𝐄⛄─」"},
+     ]},{
+     title: hades9 + '🏞️𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐀𝐍𝐈𝐌𝐄⛄' + hades10, 
+     rows: [
      {title: "│🎋│ʜᴀᴅᴇs", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ʜᴀᴅᴇs", rowId: `${usedPrefix}hades`},
      {title: "│⛄│ᴀɴɴᴀ", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ᴀɴɴᴀ", rowId: `${usedPrefix}anna`},
      {title: "│🎑│ᴀsᴜɴᴀ", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ᴀsᴜɴᴀ", rowId: `${usedPrefix}asuna`},
@@ -143,7 +150,9 @@ rows: [
      {title: "│⛄️│ʟᴏʟɪᴠɪᴅ", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ʟᴏʟɪᴠɪᴅ", rowId: `${usedPrefix}lolivid`},
      {title: "│🎍│ᴡᴀɪғᴜ", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ᴡᴀɪғᴜ", rowId: `${usedPrefix}waifu`},
      {title: "│🎑│ʜᴀᴄᴋᴇʀ", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ʜᴀᴄᴋᴇʀ", rowId: `${usedPrefix}hacker`},
-     {title: "┌─「🎧𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀📽️─」"},
+     ]},{
+     title: hades11 + '🎧𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀📽' + hades12, 
+     rows: [
      {title: "│🗂️│ᴅᴏᴡɴʟᴏᴅᴇʀ ғᴀᴄᴇʙᴏᴏᴋ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ʟɪɴᴋs ғᴀᴄᴇʙᴏᴏᴋ", rowId: `${usedPrefix}facebook`},   {title: "│🗃️│ᴅᴏᴡɴʟᴏᴅᴇʀ ɢᴅʀɪᴠᴇ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ʟɪɴᴋs ɢᴅʀɪᴠᴇ", rowId: `${usedPrefix}gdrive`},
      {title: "│📁│ ᴅᴏᴡɴʟᴏᴅᴇʀ ɢɪᴛᴄʟᴏɴᴇ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ʟɪɴᴋs ɢɪᴛᴄʟᴏɴᴇ", rowId: `${usedPrefix}gitclone`},
      {title: "│🗂️│ ᴅᴏᴡɴʟᴏᴅᴇʀ ɪɴsᴛᴀɢʀᴀᴍ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ʟɪɴᴋs ɪɴsᴛᴀɢʀᴀᴍ", rowId: `${usedPrefix}Instagram`},
@@ -162,7 +171,9 @@ rows: [
      {title: "│🗂️│ᴅᴏᴡɴʟᴏᴅᴇʀ ᴛɪᴋᴛᴏᴋғᴏᴛᴏ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ʟɪɴᴋs ᴛɪᴋᴛᴏᴋғᴏᴛᴏ", rowId: `${usedPrefix}tiktokfoto`},
      {title: "│📁│ᴅᴏᴡɴʟᴏᴅᴇʀ sᴏᴜɴᴅᴄʟᴏᴜᴅ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ᴛÍᴛᴜʟᴏ sᴏᴜɴᴅᴄʟᴏᴜᴅ", rowId: `${usedPrefix}cover`},
      {title: "│🗃️│ᴅᴏᴡɴʟᴏᴅᴇʀ ʀɪɴɢᴛᴏɴᴇ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ᴛÍᴛᴜʟᴏ ʀɪɴɢᴛᴏɴᴇ", rowId: `${usedPrefix}ringtone`},
-     {title: "┌─「🎑𝐑𝐄𝐓𝐎𝐒 𝐘 𝐉𝐔𝐄𝐆𝐎𝐒🎑─」"},  
+     ]},{
+     title: hades13 + '🎑𝐑𝐄𝐓𝐎𝐒 𝐘 𝐉𝐔𝐄𝐆𝐎𝐒🎑' + hades14, 
+     rows: [
      {title: "│🔮│ғʀᴀsᴇs", description: "ᴄᴏᴍᴀɴᴅᴏs ᴘᴀʀᴀ ᴅɪᴠᴇʀᴛɪʀsᴇ ᴛᴇxᴛᴏ ғʀᴀsᴇs", rowId: `${usedPrefix}frases`},
      {title: "│🔮│ғʀᴀsᴇᴛᴇsᴛ", description: "ᴄᴏᴍᴀɴᴅᴏs ᴘᴀʀᴀ ᴅɪᴠᴇʀᴛɪʀsᴇ ᴛᴇxᴛᴏ ғʀᴀsᴇᴛᴇsᴛ", rowId: `${usedPrefix}frasetest`},
      {title: "│🔮│ɢᴀʏ2", description: "ᴄᴏᴍᴀɴᴅᴏs ᴘᴀʀᴀ ᴅɪᴠᴇʀᴛɪʀsᴇ ᴛᴇxᴛᴏ ɢᴀʏ2", rowId: `${usedPrefix}gay2`},
@@ -187,7 +198,9 @@ rows: [
      {title: "│🔮│ᴛᴏᴘɢᴀʏs", description: "ᴄᴏᴍᴀɴᴅᴏs ᴘᴀʀᴀ ᴅɪᴠᴇʀᴛɪʀsᴇ ᴛᴇxᴛᴏ ᴛᴏᴘɢᴀʏs", rowId: `${usedPrefix}`},
      {title: "│🔮│ᴠᴇʀᴅᴀᴅ", description: "ᴄᴏᴍᴀɴᴅᴏs ᴘᴀʀᴀ ᴅɪᴠᴇʀᴛɪʀsᴇ ᴛᴇxᴛᴏ ᴠᴇʀᴅᴀᴅ", rowId: `${usedPrefix}Verdad`},
      {title: "│🔮│ғᴏʟʟᴀʀ", description: "ᴄᴏᴍᴀɴᴅᴏs ᴘᴀʀᴀ ᴅɪᴠᴇʀᴛɪʀsᴇ ᴛᴇxᴛᴏ ғᴏʟʟᴀʀ", rowId: `${usedPrefix}Follar`},
-     {title: "┌─「☔𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 +18🔞─」"},  
+     ]},{
+     title: hades15 + '☔𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 +18🔞' + hades16, 
+     rows: [
      {title: "│☔│ɴsғᴡʟᴏʟɪ", description: "ᴄᴏᴍᴀɴᴅᴏs +18 ᴅᴇ ɴsғᴡʟᴏʟɪ", rowId: `${usedPrefix}nsfwloli`},
      {title: "│😈│ɴsғᴡғᴏᴏᴛ", description: "ᴄᴏᴍᴀɴᴅᴏs +18 ᴅᴇ ɴsғᴡғᴏᴏᴛ", rowId: `${usedPrefix}nsfwfoot`},
      {title: "│🔥│ɴsғᴡᴀss", description: "ᴄᴏᴍᴀɴᴅᴏs +18 ᴅᴇ ɴsғᴡᴀss", rowId: `${usedPrefix}nsfwass`},
@@ -222,7 +235,9 @@ rows: [
      {title: "│😈│ᴘᴀᴄᴋ", description: "ᴄᴏᴍᴀɴᴅᴏs +18 ᴅᴇ ᴘᴀᴄᴋ", rowId: `${usedPrefix}pack`},
      {title: "│🔥│ᴘᴀᴄᴋ2", description: "ᴄᴏᴍᴀɴᴅᴏs +18 ᴅᴇ ᴘᴀᴄᴋ2", rowId: `${usedPrefix}pack2`},
      {title: "│☔│ᴘᴀᴄᴋ3", description: "ᴄᴏᴍᴀɴᴅᴏs +18 ᴅᴇ ᴘᴀᴄᴋ3", rowId: `${usedPrefix}pack3`},
-     {title: "┌─「🍃𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐏𝐀𝐑𝐀 𝐃𝐈𝐒𝐓𝐎𝐑𝐒𝐈𝐎𝐍𝐀𝐑 𝐋𝐀 𝐕𝐎𝐙🍃─」"},
+     ]},{
+     title: hades17 + '🍃𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐏𝐀𝐑𝐀 𝐃𝐈𝐒𝐓𝐎𝐑𝐒𝐈𝐎𝐍𝐀𝐑 𝐋𝐀 𝐕𝐎𝐙🍃' + hades18, 
+     rows: [
      {title: "│🎤│ᴛᴛs", description: "ᴛᴛs", rowId: `${usedPrefix}tts`},
      {title: "│🎤│ᴛᴏᴠɪᴅᴇᴏ", description: "ᴛᴏᴠɪᴅᴇᴏ", rowId: `${usedPrefix}tovideo`}, 
      {title: "│🎤│ᴘᴛᴛ", description: "ʀᴇsᴘᴏɴᴅᴇ ᴀ ᴜɴ sᴛɪᴄᴋᴇʀ ᴘᴀʀᴀ ᴄᴏɴᴠᴇʀᴛɪʀʟᴏ ᴇɴ ᴠɪᴅᴇᴏ ᴘᴛᴛ", rowId: `${usedPrefix}ptt`},  
@@ -242,7 +257,9 @@ rows: [
      {title: "│🎤│ᴛᴜᴘᴀɪ", description: "  ᴇsᴄʀɪʙᴇ ᴇʟ ᴛᴇxᴛᴏ ᴘᴀʀᴀ ᴄᴏɴᴠᴇʀᴛɪʀ ʟᴀ ɴᴏᴛᴀ ᴅᴇ ᴠᴏᴢ ᴛᴜᴘᴀɪ", rowId: `${usedPrefix}tupai`},  
      {title: "│🎤│sǫᴜɪʀʀᴇʟ", description: "  ᴇsᴄʀɪʙᴇ ᴇʟ ᴛᴇxᴛᴏ ᴘᴀʀᴀ ᴄᴏɴᴠᴇʀᴛɪʀ ʟᴀ ɴᴏᴛᴀ ᴅᴇ ᴠᴏᴢ sǫᴜɪʀʀᴇʟ", rowId: `${usedPrefix}squirrel`},
      {title: "│🎤│ᴄʜɪᴘᴍᴜɴᴋ", description: "  ᴇsᴄʀɪʙᴇ ᴇʟ ᴛᴇxᴛᴏ ᴘᴀʀᴀ ᴄᴏɴᴠᴇʀᴛɪʀ ʟᴀ ɴᴏᴛᴀ ᴅᴇ ᴠᴏᴢ ᴄʜɪᴘᴍᴜɴᴋ", rowId: `${usedPrefix}chipmunk`},
-     {title: "┌─「💎𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐏𝐀𝐑𝐀 𝐋𝐀 𝐀𝐃𝐌𝐈𝐍𝐈 𝐎 𝐏𝐑𝐎𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎💎─」"},
+     ]},{
+     title: hades19 + '💎𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐏𝐀𝐑𝐀 𝐋𝐀 𝐀𝐃𝐌𝐈𝐍𝐈 𝐎 𝐏𝐑𝐎𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎💎' + hades20, 
+     rows: [
      {title: "│🔓│ᴀʙʀɪʀ ɢʀᴏᴜᴘ", description: "ᴇsᴛá ᴄᴏɴғɪɢᴜʀᴀᴄɪóɴ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴀ ᴘᴏʀ ᴜɴ ᴀᴅᴍɪɴɪsᴛʀᴀᴅᴏʀ ᴏ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ᴅᴇʟ ʙᴏᴛ ᴀʙʀɪʀ ɢʀᴏᴜᴘ", rowId: `${usedPrefix}group abrir`}, 
      {title: "│🔒│ᴄᴇʀʀᴀʀ ɢʀᴏᴜᴘ", description: "ᴇsᴛá ᴄᴏɴғɪɢᴜʀᴀᴄɪóɴ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴀ ᴘᴏʀ ᴜɴ ᴀᴅᴍɪɴɪsᴛʀᴀᴅᴏʀ ᴏ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ᴅᴇʟ ʙᴏᴛ ᴄᴇʀʀᴀʀ ɢʀᴏᴜᴘ", rowId: `${usedPrefix}group cerrar`},  
      {title: "│🕰️│ɢʀᴏᴜᴘᴛɪᴍᴇ", description: "ᴛɪᴇᴍᴘᴏ ᴅᴇ ᴄᴏɴғɪɢᴜʀᴀᴄɪóɴ ɢʀᴏᴜᴘᴛɪᴍᴇ", rowId: `${usedPrefix}grouptime`},          
@@ -264,7 +281,9 @@ rows: [
      {title: "│👥│ᴜɴᴡᴀʀɴ", description: "ᴇᴛɪǫᴜᴇᴛᴀ ᴀ ᴜɴᴀ ᴘᴇʀsᴏɴᴀ ᴜɴᴡᴀʀɴ", rowId: `${usedPrefix}unwarn`},
      {title: "│👥│ᴀᴅᴠᴇʀᴛɪʀ", description: "ᴇᴛɪǫᴜᴇᴛᴀ ᴀ ᴜɴᴀ ᴘᴇʀsᴏɴᴀ ᴀᴅᴠᴇʀᴛɪʀ", rowId: `${usedPrefix}advertir`},
      {title: "│🎲│ᴅᴀᴅᴏ", description: "ᴛᴇ ᴇɴᴠɪᴀʀᴀ sᴛɪᴄᴋᴇʀs ᴅᴇ ᴅᴀᴅᴏ", rowId: `${usedPrefix}dado`}, 
-     {title: "┌─「🥰𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒 𝐄𝐌𝐎𝐉𝐈𝐒 𝐘 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒😉─」"},
+     ]},{
+     title: hades21 + '🥰𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒 𝐄𝐌𝐎𝐉𝐈𝐒 𝐘 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒😉' + hades22, 
+     rows: [
      {title: "│🙃│ᴇᴍᴏᴊɪᴍɪx", description: "ᴄᴏɴᴠɪᴇʀᴛᴇ ᴇᴍᴏᴊɪs ᴇɴ sᴛɪᴄᴋᴇʀs  ᴇᴍᴏᴊɪᴍɪx", rowId: `${usedPrefix}emojimix`}, 
      {title: "│😘│ʙᴇsᴏ", description: "ᴇᴛɪǫᴜᴇᴛᴀ ᴀ ʟᴀ ᴘᴇʀsᴏɴᴀ ǫᴜᴇ ǫᴜɪᴇʀᴇs ʙᴇsᴀʀ", rowId: `${usedPrefix}beso`},  
      {title: "│😒│ᴘᴀᴛ", description: "ᴄᴀʀɪñᴏsᴀ ᴍᴀʟᴅɪᴛᴏ ʏ ᴍɪsᴍᴏ ᴘᴀᴛ", rowId: `${usedPrefix}pat`},
@@ -275,7 +294,9 @@ rows: [
      {title: "│🧩│ᴀᴛᴛᴘ", description: "ᴘᴏɴᴇʟᴇ sᴛɪᴄᴋᴇʀ ʏ ᴀɢʀᴇɢᴀ ᴜɴ ᴘᴀǫᴜᴇᴛᴇ ᴅᴇ ᴜɴ ɴᴏᴍʙʀᴇ ᴀᴛᴛᴘ", rowId: `${usedPrefix}attp`},  
      {title: "│👾│ᴛᴀᴋᴇ", description: "ᴘᴏɴᴇʟᴇ sᴛɪᴄᴋᴇʀ ʏ ᴀɢʀᴇɢᴀ ᴜɴ ᴘᴀǫᴜᴇᴛᴇ ᴅᴇ ᴜɴ ɴᴏᴍʙʀᴇ ᴛᴀᴋᴇ", rowId: `${usedPrefix}take`},
      {title: "│👾│ғᴇᴛᴄʜ", description: "ᴘᴏɴᴇʟᴇ sᴛɪᴄᴋᴇʀ ʏ ᴀɢʀᴇɢᴀ ᴜɴ ᴘᴀǫᴜᴇᴛᴇ ᴅᴇ ᴜɴ ɴᴏᴍʙʀᴇ ғᴇᴛᴄʜ", rowId: `${usedPrefix}fetch`}, 
-     {title: "┌─「🌆𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐁𝐔𝐒𝐐𝐔𝐄𝐃𝐀🧳─」"},
+     ]},{
+     title: hades23 + '🌆𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐁𝐔𝐒𝐐𝐔𝐄𝐃𝐀🧳' + hades24, 
+     rows: [
      {title: "│🔍│ᴀᴘᴋɢᴏᴏɢʟᴇ", description: "ʙúsᴄᴀʟᴀ ᴅᴇ ɢᴏᴏɢʟᴇ ᴅᴇ ᴀᴘᴋɢᴏᴏɢʟᴇ", rowId: `${usedPrefix}apkgoogle`},  
      {title: "│🔍│ɢᴏᴏɢʟᴇғ", description: "ʙúsᴄᴀʟᴀ ᴅᴇ ɢᴏᴏɢʟᴇ ᴅᴇ ɢᴏᴏɢʟᴇғ", rowId: `${usedPrefix}googlef`},     
      {title: "│🔍│ʟɪʀɪᴋ", description: "ʙúsᴄᴀʟᴀ ᴅᴇ ɢᴏᴏɢʟᴇ ᴅᴇ ʟɪʀɪᴋ", rowId: `${usedPrefix}lirik`},
@@ -284,7 +305,9 @@ rows: [
      {title: "│🔍│sᴛɪᴄᴋᴇʀsᴇᴀʀᴄʜ2", description: "ʙúsᴄᴀʟᴀ ᴅᴇ ɢᴏᴏɢʟᴇ ᴅᴇ sᴛɪᴄᴋᴇʀsᴇᴀʀᴄʜ2", rowId: `${usedPrefix}stickersearch2`},   
      {title: "│🔍│ᴡɪᴋɪ", description: "ʙúsᴄᴀʟᴀ ᴅᴇ ɢᴏᴏɢʟᴇ ᴅᴇ ᴡɪᴋɪ", rowId: `${usedPrefix}wiki`},  
      {title: "│🔍│ʏᴛs", description: "ʙúsᴄᴀʟᴀ ᴅᴇ ɢᴏᴏɢʟᴇ ᴅᴇ ʏᴛs", rowId: `${usedPrefix}yts`},
-     {title: "┌─「🌃𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐋𝐎𝐆𝐑𝐎𝐒🏕️─」"},
+     ]},{
+     title: hades25 + '🌃𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐋𝐎𝐆𝐑𝐎𝐒🏕️' + hades26, 
+     rows: [
      {title: "│☘️│ʙʟᴜʀ", description: "ᴄᴏɴᴠᴇʀᴛɪᴅᴏʀᴇs ᴅᴇ ᴍᴀᴋᴇʀ ʙʟᴜʀ", rowId: `${usedPrefix}blur`}, 
      {title: "│☘️│ʜᴏʀɴʏ", description: "ᴄᴏɴᴠᴇʀᴛɪᴅᴏʀᴇs ᴅᴇ ᴍᴀᴋᴇʀ ʜᴏʀɴʏ", rowId: `${usedPrefix}horny`},  
      {title: "│☘️│ɪᴛssᴏsᴛᴜᴘɪᴅ", description: "ᴄᴏɴᴠᴇʀᴛɪᴅᴏʀᴇs ᴅᴇ ᴍᴀᴋᴇʀ ɪᴛssᴏsᴛᴜᴘɪᴅ", rowId: `${usedPrefix}itssostupid`},          
