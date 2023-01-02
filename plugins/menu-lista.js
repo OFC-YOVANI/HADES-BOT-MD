@@ -9,8 +9,9 @@ let time = d.toLocaleTimeString(locale, {
       minute: 'numeric',
       second: 'numeric'
     })
-let _uptime = process.uptime() * 1000
-let uptime = clockString(_uptime)
+let _muptime
+if (process.send) {
+process.send('uptime')
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 wm = global.wm
 vs = global.vs
@@ -362,18 +363,18 @@ let d = isNaN(ms) ? '--' : Math.floor(ms / 86400000)
 
 function ucapan() {
   const time = moment.tz('America/Los_Angeles').format('HH')
-  let res = "🌉ʙᴜᴇɴᴀs ᴍᴀᴅʀᴜɢᴀᴅᴀs|ɢᴏᴏᴅ ᴇᴀʀʟʏ ᴍᴏʀɴɪɴɢ🌠"
+  let res = "🌉ʙᴜᴇɴᴀs ᴍᴀᴅʀᴜɢᴀᴅᴀs | ɢᴏᴏᴅ ᴇᴀʀʟʏ ᴍᴏʀɴɪɴɢ🌠"
   if (time >= 4) {
-    res = "🌇ʙᴜᴇɴᴏs ᴅíᴀs|ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ⛅"
+    res = "🌇ʙᴜᴇɴᴏs ᴅíᴀs | ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ⛅"
   }
   if (time >= 11) {
-    res = "🏙️ʙᴜᴇɴᴀs ᴛᴀʀᴅᴇs|ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ🌤️"
+    res = "🏙️ʙᴜᴇɴᴀs ᴛᴀʀᴅᴇs | ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ🌤️"
   }
   if (time >= 15) {
-    res = "🌆ʙᴜᴇɴᴀs ᴛᴀʀᴅᴇs|ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ🌥️"
+    res = "🌆ʙᴜᴇɴᴀs ᴛᴀʀᴅᴇs | ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ🌥️"
   }
   if (time >= 17) {
-    res = "🌃ʙᴜᴇɴᴀs ɴᴏᴄʜᴇs|ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ💫"
+    res = "🌃ʙᴜᴇɴᴀs ɴᴏᴄʜᴇs | ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ💫"
   }
   return res
 }
