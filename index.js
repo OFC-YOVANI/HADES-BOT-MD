@@ -20,7 +20,7 @@ gradient: ['red', 'magenta']})
 say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP HADES_BOT
 |< ================================================== >|
 [•]-SERVIDOR : PRIVADO
-[•]-BOT VERSION : 10.19.0
+[•]-BOT VERSION : 10.19.19
 [•]-ESTADO : ACTIVO
 [•]-Owner : YOVANI
 [•]-GRACIAS POR USAR LE BOT DE HADES 
