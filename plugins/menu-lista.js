@@ -16,9 +16,8 @@ wm = global.wm
 vs = global.vs
 let { exp, limit, level, money, role } = global.db.data.users[m.sender]
 let { min, xp, hades, max } = xpRange(level, global.multiplier)
-const sections = [  
-{
-title: `𝙻𝙸𝚂𝚃𝙰 𝙳𝙴𝙻 𝙼𝙴𝙽𝚄`,
+const sections = [{
+title: hades3 + '🤴𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🤴' + hades4,
 rows: [  
      {title: "│🤴│ᴄʀᴇᴀᴅᴏʀ ᴅᴇʟ ʙᴏᴛ", description: "ɴᴜᴍᴇʀᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ ʏᴏᴠᴀɴɪ", rowId: `${usedPrefix}owner`},
      {title: "│⛄│ᴄʀᴇᴀᴅᴏʀ ᴅᴇʟ ʙᴏᴛ2", description: "ɴᴜᴍᴇʀᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ ʏᴏᴠᴀɴɪ", rowId: `${usedPrefix}yovani`},
@@ -171,6 +170,7 @@ rows: [
      {title: "│🗂️│ᴅᴏᴡɴʟᴏᴅᴇʀ ᴛɪᴋᴛᴏᴋғᴏᴛᴏ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ʟɪɴᴋs ᴛɪᴋᴛᴏᴋғᴏᴛᴏ", rowId: `${usedPrefix}tiktokfoto`},
      {title: "│📁│ᴅᴏᴡɴʟᴏᴅᴇʀ sᴏᴜɴᴅᴄʟᴏᴜᴅ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ᴛÍᴛᴜʟᴏ sᴏᴜɴᴅᴄʟᴏᴜᴅ", rowId: `${usedPrefix}cover`},
      {title: "│🗃️│ᴅᴏᴡɴʟᴏᴅᴇʀ ʀɪɴɢᴛᴏɴᴇ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ᴛÍᴛᴜʟᴏ ʀɪɴɢᴛᴏɴᴇ", rowId: `${usedPrefix}ringtone`},
+     {title: "│🗃️│ᴅᴏᴡɴʟᴏᴅᴇʀ ᴍᴏᴅᴀᴘᴋ ʙʏ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ᴛÍᴛᴜʟᴏ ᴍᴏᴅᴀᴘᴋ", rowId: `${usedPrefix}modapk`},
      ]},{
      title: hades13 + '🎑𝐑𝐄𝐓𝐎𝐒 𝐘 𝐉𝐔𝐄𝐆𝐎𝐒🎑' + hades14, 
      rows: [
