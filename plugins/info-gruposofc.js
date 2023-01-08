@@ -27,17 +27,16 @@ let str = `┌「⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍」
 │◦➛🌹️ᩭ✎OFICIALES DEL BOT DE👩‍🏫✨
 │◦➛🍃️ᩭ✎𝐇𝐀𝐃𝐄𝐒 _𝐁𝐎𝐓 y miku bot 
 │◦➛📚️ᩭ✎ SOMOS UNA FAMILIA DE BOTS 
-│◦➛🌆ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃1 
+│◦➛🌆ᩭ✎🌹ᴴᴬᴰᴱˢ⁻ᴮᴼᵀ & ᴴᴬᵀˢᵁᴺᴱ⁻ᴹᴵᴷᵁ
 │◦➛🍀ᩭ✎https://chat.whatsapp.com/IxuWDHD2f7p1t9FliLUVx2
-│◦➛☘️ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃2 
-│◦➛✨ᩭ✎https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ
-│◦➛📚ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃3 
-│◦➛❤️ᩭ✎https://chat.whatsapp.com/KnpPbr8BN4VDLtwJFMNTtw
-│◦➛🌱ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃4 
-│◦➛📔ᩭ✎https://chat.whatsapp.com/BtzGZregRxzFswm0FgunHL
+│◦➛☘️ᩭ✎👁️‍🗨️☬►ۣۜ⛧ÊŜŤĂŜĨŜ►ۣۜ⛧☬👁️‍🗨️
+│◦➛✨ᩭ✎https://chat.whatsapp.com/LGvb0X9GJM0LXE6yvWIE6x
+│◦➛📚ᩭ✎🪀𝙴𝙽𝙻𝙰𝙲𝙴𝚂 𝙳𝙴 𝙷𝙰𝙳𝙴𝚂_𝙱𝙾𝚃🤖
+│◦➛❤️ᩭ✎https://chat.whatsapp.com/BiXnVAuO5ES8w7qhoXf2II
+│◦➛🌱ᩭ✎*❀⃔ൢ᭄𝐋𝐎𝐋𝐈_𝐁𝐎𝐓❀⃔ൢ᭄*
+│◦➛📔ᩭ✎https://chat.whatsapp.com/CFSvSOGCnuL3vk4Js1DWI2
 │◦➛🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈☘️ 
-╰────────────┈⊷
-`.trim()
+╰────────────┈⊷`.trim()
 let buttons = [
 { buttonId: '/menu', buttonText: { displayText: '𝐌𝐄𝐍𝐔' }, type: 1 },
 { buttonId: '/estado', buttonText: { displayText: '𝐄𝐒𝐓𝐀𝐃𝐎' }, type: 1 }]

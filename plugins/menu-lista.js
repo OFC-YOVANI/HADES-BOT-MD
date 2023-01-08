@@ -149,6 +149,8 @@ rows: [
      {title: "│⛄️│ʟᴏʟɪᴠɪᴅ", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ʟᴏʟɪᴠɪᴅ", rowId: `${usedPrefix}lolivid`},
      {title: "│🎍│ᴡᴀɪғᴜ", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ᴡᴀɪғᴜ", rowId: `${usedPrefix}waifu`},
      {title: "│🎑│ʜᴀᴄᴋᴇʀ", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ʜᴀᴄᴋᴇʀ", rowId: `${usedPrefix}hacker`},
+     {title: "│🎋│ɢᴀᴡʀɢᴜʀᴀ", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ɢᴀᴡʀɢᴜʀᴀ", rowId: `${usedPrefix}gawrgura`},
+     {title: "│⛄│ʜᴇʟᴀɪʟᴀ", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ʜᴇʟᴀɪʟᴀ", rowId: `${usedPrefix}helaila`},
      ]},{
      title: hades11 + '🎧𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀📽' + hades12, 
      rows: [
