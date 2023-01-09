@@ -17,12 +17,12 @@ vs = global.vs
 let { exp, limit, level, money, role } = global.db.data.users[m.sender]
 let { min, xp, hades, max } = xpRange(level, global.multiplier)
 const sections = [{
-title: hades3 + '🤴𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🤴' + hades4,
+title: comando + '🤴𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐂𝐑𝐄𝐀𝐃𝐎𝐑🤴' + comando2,
 rows: [  
      {title: "│🤴│ᴄʀᴇᴀᴅᴏʀ ᴅᴇʟ ʙᴏᴛ", description: "ɴᴜᴍᴇʀᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ ʏᴏᴠᴀɴɪ", rowId: `${usedPrefix}owner`},
      {title: "│⛄│ᴄʀᴇᴀᴅᴏʀ ᴅᴇʟ ʙᴏᴛ2", description: "ɴᴜᴍᴇʀᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ ʏᴏᴠᴀɴɪ", rowId: `${usedPrefix}yovani`},
      ]},{  
-     title: hades3 + '🌸𝐎𝐏𝐂𝐈𝐎𝐍𝐄𝐒 𝐕𝐀𝐑𝐈𝐀𝐃𝐀𝐒🌺' + hades4,
+     title: comando + '🌸𝐎𝐏𝐂𝐈𝐎𝐍𝐄𝐒 𝐕𝐀𝐑𝐈𝐀𝐃𝐀𝐒🌺' + comando2,
      rows: [
      {title: "│🧬│ᴄᴏʀᴏɴᴀ ᴠɪʀᴜs", description: "ᴍᴇxɪᴄᴏ", rowId: `${usedPrefix}covid19`},
      {title: "│💌│ᴰᴼᴺᴬᶜᴵᴼᴺ", description: "ᴬᵖᵃʸᵒ ᵖᵃʳᵃ ᴴᵃᵈᵉˢ⁻ᴮᵒᵗ", rowId: `${usedPrefix}donar`},
@@ -51,9 +51,9 @@ rows: [
      {title: "│👩‍🏫│ᴠᴇʀɪғɪᴄᴀ ᴛᴜ ᴘᴇʀғɪʟ", description: "ᴛᴇ ᴍᴏsᴛʀᴀʀᴀ ᴛᴜ ғᴏʀᴍᴀᴄɪᴏɴ", rowId: `${usedPrefix}perfil`},
      {title: "│💻│ʀᴇɢɪsᴛʀᴀʀsᴇ", description: "ᴛᴇ ɴᴇᴄᴇsɪᴛᴏ ᴇɴ ᴍɪ ʙᴀsᴇ ᴅᴇ ᴅᴀᴛᴏs", rowId: `${usedPrefix}Reg`},
      ]},{
-     title: hades5 + '🍁𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐏𝐀𝐑𝐀 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐘 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑🍁' + hades6, 
+     title: comando + '🍁𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐏𝐀𝐑𝐀 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐘 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑🍁' + comando2, 
      rows: [
-     {title: "│🍀│ᴀᴄᴛɪᴠᴀʀ ᴡᴇʟᴄᴏᴍᴇ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}welcome`},
+     {title: "│🍀│ᴀᴄᴛɪᴠᴀʀ ᴡᴇʟᴄᴏᴍᴇ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}enable welcome`},
      {title: "│🍀│ᴅᴇsᴀᴄᴛɪᴠᴀʀ ᴡᴇʟᴄᴏᴍᴇ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}enable welcome`},
      {title: "│🌐│ᴀᴄᴛɪᴠᴀʀ ᴘᴜʙʟɪᴄ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}enable public`},
      {title: "│🌐│ᴅᴇsᴀᴄᴛɪᴠᴀʀ ᴘᴜʙʟɪᴄ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}disable public`},
@@ -92,7 +92,7 @@ rows: [
      {title: "│🗝️️│ᴜɴʙᴀɴᴄʜᴀᴛ", description: "ᴅᴇsʙᴀɴᴇᴀʀ ɢʀᴜᴘᴏ", rowId: `${usedPrefix}unbanchat`},
      {title: "│🔑│ʙᴀɴᴄʜᴀᴛ", description: "ʙᴀɴᴇᴀʀ ɢʀᴜᴘᴏ", rowId: `${usedPrefix}banchat`},
      ]},{
-     title: hades7 + '🌀𝐎𝐏𝐂𝐈𝐎𝐍𝐄𝐒 𝐕𝐀𝐑𝐈𝐀𝐃𝐀𝐒🌀' + hades8, 
+     title: comando + '🌀𝐎𝐏𝐂𝐈𝐎𝐍𝐄𝐒 𝐕𝐀𝐑𝐈𝐀𝐃𝐀𝐒🌀' + comando2, 
      rows: [
      {title: "│📊│ᴇɴᴄᴜᴇsᴛᴀ", description: "ᴄʀᴇᴀ ᴜɴᴀ ᴇɴᴄᴜᴇsᴛᴀ", rowId: `${usedPrefix}encuesta`},
      {title: "│📼│ǫᴜᴇᴍᴜsɪᴄᴀ", description: "ᴇᴛɪǫᴜᴇᴛᴀ ᴜɴ ᴀᴜᴅɪᴏ ᴏ ᴠɪᴅᴇᴏ ᴘᴀʀᴀ ᴇɴᴠɪᴀʀ ᴛᴜ ʀᴇsᴜʟᴛᴀᴅᴏ", rowId: `${usedPrefix}quemusica`},
@@ -104,7 +104,7 @@ rows: [
      {title: "│📝│ɪɴsᴛᴀʟᴀʀʙᴏᴛ", description: "ɪɴsᴛᴀʟᴀᴄɪóɴ ᴅᴇʟ ʙᴏᴛ ɪɴsᴛᴀʟᴀʀʙᴏᴛ", rowId: `${usedPrefix}instalarbot`},
      {title: "│🎧│ᴍᴇɴᴜ ᴀᴜᴅɪᴏs", description: "ᴍᴜᴇsᴛʀᴀ ʟᴀ ʟɪsᴛᴀ ᴅᴇ ᴀᴜᴅɪᴏs", rowId: `${usedPrefix}menu2`},
      ]},{
-     title: hades9 + '🏞️𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐀𝐍𝐈𝐌𝐄⛄' + hades10, 
+     title: comando + '🏞️𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐀𝐍𝐈𝐌𝐄⛄' + comando2, 
      rows: [
      {title: "│🎋│ʜᴀᴅᴇs", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ʜᴀᴅᴇs", rowId: `${usedPrefix}hades`},
      {title: "│⛄│ᴀɴɴᴀ", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ᴀɴɴᴀ", rowId: `${usedPrefix}anna`},
@@ -152,7 +152,7 @@ rows: [
      {title: "│🎋│ɢᴀᴡʀɢᴜʀᴀ", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ɢᴀᴡʀɢᴜʀᴀ", rowId: `${usedPrefix}gawrgura`},
      {title: "│⛄│ʜᴇʟᴀɪʟᴀ", description: "ɪᴍᴀɢᴇɴᴇs ᴅᴇ ᴀɴɪᴍᴇ ᴅᴇ ʜᴇʟᴀɪʟᴀ", rowId: `${usedPrefix}helaila`},
      ]},{
-     title: hades11 + '🎧𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀📽' + hades12, 
+     title: comando + '🎧𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀📽' + comando2, 
      rows: [
      {title: "│🗂️│ᴅᴏᴡɴʟᴏᴅᴇʀ ғᴀᴄᴇʙᴏᴏᴋ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ʟɪɴᴋs ғᴀᴄᴇʙᴏᴏᴋ", rowId: `${usedPrefix}facebook`},   {title: "│🗃️│ᴅᴏᴡɴʟᴏᴅᴇʀ ɢᴅʀɪᴠᴇ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ʟɪɴᴋs ɢᴅʀɪᴠᴇ", rowId: `${usedPrefix}gdrive`},
      {title: "│📁│ ᴅᴏᴡɴʟᴏᴅᴇʀ ɢɪᴛᴄʟᴏɴᴇ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ʟɪɴᴋs ɢɪᴛᴄʟᴏɴᴇ", rowId: `${usedPrefix}gitclone`},
@@ -174,7 +174,7 @@ rows: [
      {title: "│🗃️│ᴅᴏᴡɴʟᴏᴅᴇʀ ʀɪɴɢᴛᴏɴᴇ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ᴛÍᴛᴜʟᴏ ʀɪɴɢᴛᴏɴᴇ", rowId: `${usedPrefix}ringtone`},
      {title: "│🗃️│ᴅᴏᴡɴʟᴏᴅᴇʀ ᴍᴏᴅᴀᴘᴋ ʙʏ", description: "ᴅᴇsᴄᴀʀɢᴀs ᴄᴏɴ ᴛÍᴛᴜʟᴏ ᴍᴏᴅᴀᴘᴋ", rowId: `${usedPrefix}modapk`},
      ]},{
-     title: hades13 + '🎑𝐑𝐄𝐓𝐎𝐒 𝐘 𝐉𝐔𝐄𝐆𝐎𝐒🎑' + hades14, 
+     title: comando + '🎑𝐑𝐄𝐓𝐎𝐒 𝐘 𝐉𝐔𝐄𝐆𝐎𝐒🎑' + comando2, 
      rows: [
      {title: "│🔮│ғʀᴀsᴇs", description: "ᴄᴏᴍᴀɴᴅᴏs ᴘᴀʀᴀ ᴅɪᴠᴇʀᴛɪʀsᴇ ᴛᴇxᴛᴏ ғʀᴀsᴇs", rowId: `${usedPrefix}frases`},
      {title: "│🔮│ғʀᴀsᴇᴛᴇsᴛ", description: "ᴄᴏᴍᴀɴᴅᴏs ᴘᴀʀᴀ ᴅɪᴠᴇʀᴛɪʀsᴇ ᴛᴇxᴛᴏ ғʀᴀsᴇᴛᴇsᴛ", rowId: `${usedPrefix}frasetest`},
@@ -201,7 +201,7 @@ rows: [
      {title: "│🔮│ᴠᴇʀᴅᴀᴅ", description: "ᴄᴏᴍᴀɴᴅᴏs ᴘᴀʀᴀ ᴅɪᴠᴇʀᴛɪʀsᴇ ᴛᴇxᴛᴏ ᴠᴇʀᴅᴀᴅ", rowId: `${usedPrefix}Verdad`},
      {title: "│🔮│ғᴏʟʟᴀʀ", description: "ᴄᴏᴍᴀɴᴅᴏs ᴘᴀʀᴀ ᴅɪᴠᴇʀᴛɪʀsᴇ ᴛᴇxᴛᴏ ғᴏʟʟᴀʀ", rowId: `${usedPrefix}Follar`},
      ]},{
-     title: hades15 + '☔𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 +18🔞' + hades16, 
+     title: comando + '☔𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 +18🔞' + comando2, 
      rows: [
      {title: "│☔│ɴsғᴡʟᴏʟɪ", description: "ᴄᴏᴍᴀɴᴅᴏs +18 ᴅᴇ ɴsғᴡʟᴏʟɪ", rowId: `${usedPrefix}nsfwloli`},
      {title: "│😈│ɴsғᴡғᴏᴏᴛ", description: "ᴄᴏᴍᴀɴᴅᴏs +18 ᴅᴇ ɴsғᴡғᴏᴏᴛ", rowId: `${usedPrefix}nsfwfoot`},
@@ -238,7 +238,7 @@ rows: [
      {title: "│🔥│ᴘᴀᴄᴋ2", description: "ᴄᴏᴍᴀɴᴅᴏs +18 ᴅᴇ ᴘᴀᴄᴋ2", rowId: `${usedPrefix}pack2`},
      {title: "│☔│ᴘᴀᴄᴋ3", description: "ᴄᴏᴍᴀɴᴅᴏs +18 ᴅᴇ ᴘᴀᴄᴋ3", rowId: `${usedPrefix}pack3`},
      ]},{
-     title: hades17 + '🍃𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐏𝐀𝐑𝐀 𝐃𝐈𝐒𝐓𝐎𝐑𝐒𝐈𝐎𝐍𝐀𝐑 𝐋𝐀 𝐕𝐎𝐙🍃' + hades18, 
+     title: comando + '🍃𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐏𝐀𝐑𝐀 𝐃𝐈𝐒𝐓𝐎𝐑𝐒𝐈𝐎𝐍𝐀𝐑 𝐋𝐀 𝐕𝐎𝐙🍃' + comando2, 
      rows: [
      {title: "│🎤│ᴛᴛs", description: "ᴛᴛs", rowId: `${usedPrefix}tts`},
      {title: "│🎤│ᴛᴏᴠɪᴅᴇᴏ", description: "ᴛᴏᴠɪᴅᴇᴏ", rowId: `${usedPrefix}tovideo`}, 
@@ -260,7 +260,7 @@ rows: [
      {title: "│🎤│sǫᴜɪʀʀᴇʟ", description: "  ᴇsᴄʀɪʙᴇ ᴇʟ ᴛᴇxᴛᴏ ᴘᴀʀᴀ ᴄᴏɴᴠᴇʀᴛɪʀ ʟᴀ ɴᴏᴛᴀ ᴅᴇ ᴠᴏᴢ sǫᴜɪʀʀᴇʟ", rowId: `${usedPrefix}squirrel`},
      {title: "│🎤│ᴄʜɪᴘᴍᴜɴᴋ", description: "  ᴇsᴄʀɪʙᴇ ᴇʟ ᴛᴇxᴛᴏ ᴘᴀʀᴀ ᴄᴏɴᴠᴇʀᴛɪʀ ʟᴀ ɴᴏᴛᴀ ᴅᴇ ᴠᴏᴢ ᴄʜɪᴘᴍᴜɴᴋ", rowId: `${usedPrefix}chipmunk`},
      ]},{
-     title: hades19 + '💎𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐏𝐀𝐑𝐀 𝐋𝐀 𝐀𝐃𝐌𝐈𝐍𝐈 𝐎 𝐏𝐑𝐎𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎💎' + hades20, 
+     title: comando + '💎𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐏𝐀𝐑𝐀 𝐀𝐃𝐌𝐈𝐍𝐈 𝐎 𝐏𝐑𝐎𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎💎' + comando2, 
      rows: [
      {title: "│🔓│ᴀʙʀɪʀ ɢʀᴏᴜᴘ", description: "ᴇsᴛá ᴄᴏɴғɪɢᴜʀᴀᴄɪóɴ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴀ ᴘᴏʀ ᴜɴ ᴀᴅᴍɪɴɪsᴛʀᴀᴅᴏʀ ᴏ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ᴅᴇʟ ʙᴏᴛ ᴀʙʀɪʀ ɢʀᴏᴜᴘ", rowId: `${usedPrefix}group abrir`}, 
      {title: "│🔒│ᴄᴇʀʀᴀʀ ɢʀᴏᴜᴘ", description: "ᴇsᴛá ᴄᴏɴғɪɢᴜʀᴀᴄɪóɴ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴀ ᴘᴏʀ ᴜɴ ᴀᴅᴍɪɴɪsᴛʀᴀᴅᴏʀ ᴏ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ᴅᴇʟ ʙᴏᴛ ᴄᴇʀʀᴀʀ ɢʀᴏᴜᴘ", rowId: `${usedPrefix}group cerrar`},  
@@ -284,7 +284,7 @@ rows: [
      {title: "│👥│ᴀᴅᴠᴇʀᴛɪʀ", description: "ᴇᴛɪǫᴜᴇᴛᴀ ᴀ ᴜɴᴀ ᴘᴇʀsᴏɴᴀ ᴀᴅᴠᴇʀᴛɪʀ", rowId: `${usedPrefix}advertir`},
      {title: "│🎲│ᴅᴀᴅᴏ", description: "ᴛᴇ ᴇɴᴠɪᴀʀᴀ sᴛɪᴄᴋᴇʀs ᴅᴇ ᴅᴀᴅᴏ", rowId: `${usedPrefix}dado`}, 
      ]},{
-     title: hades21 + '🥰𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒 𝐄𝐌𝐎𝐉𝐈𝐒 𝐘 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒😉' + hades22, 
+     title: comando + '🥰𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒 𝐄𝐌𝐎𝐉𝐈𝐒 𝐘 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒😉' + comando2, 
      rows: [
      {title: "│🙃│ᴇᴍᴏᴊɪᴍɪx", description: "ᴄᴏɴᴠɪᴇʀᴛᴇ ᴇᴍᴏᴊɪs ᴇɴ sᴛɪᴄᴋᴇʀs  ᴇᴍᴏᴊɪᴍɪx", rowId: `${usedPrefix}emojimix`}, 
      {title: "│😘│ʙᴇsᴏ", description: "ᴇᴛɪǫᴜᴇᴛᴀ ᴀ ʟᴀ ᴘᴇʀsᴏɴᴀ ǫᴜᴇ ǫᴜɪᴇʀᴇs ʙᴇsᴀʀ", rowId: `${usedPrefix}beso`},  
@@ -297,7 +297,7 @@ rows: [
      {title: "│👾│ᴛᴀᴋᴇ", description: "ᴘᴏɴᴇʟᴇ sᴛɪᴄᴋᴇʀ ʏ ᴀɢʀᴇɢᴀ ᴜɴ ᴘᴀǫᴜᴇᴛᴇ ᴅᴇ ᴜɴ ɴᴏᴍʙʀᴇ ᴛᴀᴋᴇ", rowId: `${usedPrefix}take`},
      {title: "│👾│ғᴇᴛᴄʜ", description: "ᴘᴏɴᴇʟᴇ sᴛɪᴄᴋᴇʀ ʏ ᴀɢʀᴇɢᴀ ᴜɴ ᴘᴀǫᴜᴇᴛᴇ ᴅᴇ ᴜɴ ɴᴏᴍʙʀᴇ ғᴇᴛᴄʜ", rowId: `${usedPrefix}fetch`}, 
      ]},{
-     title: hades23 + '🌆𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐁𝐔𝐒𝐐𝐔𝐄𝐃𝐀🧳' + hades24, 
+     title: comando + '🌆𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐁𝐔𝐒𝐐𝐔𝐄𝐃𝐀🧳' + comando2, 
      rows: [
      {title: "│🔍│ᴀᴘᴋɢᴏᴏɢʟᴇ", description: "ʙúsᴄᴀʟᴀ ᴅᴇ ɢᴏᴏɢʟᴇ ᴅᴇ ᴀᴘᴋɢᴏᴏɢʟᴇ", rowId: `${usedPrefix}apkgoogle`},  
      {title: "│🔍│ɢᴏᴏɢʟᴇғ", description: "ʙúsᴄᴀʟᴀ ᴅᴇ ɢᴏᴏɢʟᴇ ᴅᴇ ɢᴏᴏɢʟᴇғ", rowId: `${usedPrefix}googlef`},     
@@ -308,7 +308,7 @@ rows: [
      {title: "│🔍│ᴡɪᴋɪ", description: "ʙúsᴄᴀʟᴀ ᴅᴇ ɢᴏᴏɢʟᴇ ᴅᴇ ᴡɪᴋɪ", rowId: `${usedPrefix}wiki`},  
      {title: "│🔍│ʏᴛs", description: "ʙúsᴄᴀʟᴀ ᴅᴇ ɢᴏᴏɢʟᴇ ᴅᴇ ʏᴛs", rowId: `${usedPrefix}yts`},
      ]},{
-     title: hades25 + '🌃𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐋𝐎𝐆𝐑𝐎𝐒🏕️' + hades26, 
+     title: comando + '🌃𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐃𝐄 𝐋𝐎𝐆𝐑𝐎𝐒🏕️' + comando2, 
      rows: [
      {title: "│☘️│ʙʟᴜʀ", description: "ᴄᴏɴᴠᴇʀᴛɪᴅᴏʀᴇs ᴅᴇ ᴍᴀᴋᴇʀ ʙʟᴜʀ", rowId: `${usedPrefix}blur`}, 
      {title: "│☘️│ʜᴏʀɴʏ", description: "ᴄᴏɴᴠᴇʀᴛɪᴅᴏʀᴇs ᴅᴇ ᴍᴀᴋᴇʀ ʜᴏʀɴʏ", rowId: `${usedPrefix}horny`},  
