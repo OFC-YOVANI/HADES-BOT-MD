@@ -58,7 +58,7 @@ rows: [
      title: comando + '🍁𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐏𝐀𝐑𝐀 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐘 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑🍁' + comando2, 
      rows: [
      {title: "│🍀│ᴀᴄᴛɪᴠᴀʀ ᴡᴇʟᴄᴏᴍᴇ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}enable welcome`},
-     {title: "│🍀│ᴅᴇsᴀᴄᴛɪᴠᴀʀ ᴡᴇʟᴄᴏᴍᴇ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}enable welcome`},
+     {title: "│🍀│ᴅᴇsᴀᴄᴛɪᴠᴀʀ ᴡᴇʟᴄᴏᴍᴇ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}disable welcome`},
      {title: "│🌐│ᴀᴄᴛɪᴠᴀʀ ᴘᴜʙʟɪᴄ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}enable public`},
      {title: "│🌐│ᴅᴇsᴀᴄᴛɪᴠᴀʀ ᴘᴜʙʟɪᴄ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}disable public`},
      {title: "│☔│ᴀᴄᴛɪᴠᴀʀ ᴍᴏᴅᴏʜᴏʀɴʏ", description: "sᴏʟᴏ ᴘᴜᴇᴅᴇ sᴇʀ ᴜsᴀᴅᴏ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴘᴏʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ", rowId: `${usedPrefix}enable modohorny`},
