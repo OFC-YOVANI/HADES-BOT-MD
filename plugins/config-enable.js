@@ -70,7 +70,15 @@ rows: [
 ]},{
 title: comando + 'ᴄᴏᴍᴀɴᴅᴏ ᴘᴀʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ' + comando2, 
 rows: [
-{title: "👎🏻 | 𝙰𝙽𝚃𝙸𝙰𝚁𝙰𝙱𝙴𝚂", description: "𝙰𝙻 𝙴𝙽𝚅𝙸𝙰𝚁 𝙼𝙴𝙽𝚂𝙰𝙹𝙴 𝚄𝙽 𝙽𝚄𝙼𝙴𝚁𝙾 𝙰𝚁𝙰𝙱𝙴, 𝙴𝙻 𝙱𝙾𝚃 𝙻𝙾 𝚂𝙰𝙲𝙰", rowId: `${usedPrefix + command} antiarabes`},  
+{title: "👎🏻 | 𝙰𝙽𝚃𝙸𝙰𝚁𝙰𝙱𝙴𝚂", description: "𝙰𝙻 𝙴𝙽𝚅𝙸𝙰𝚁 𝙼𝙴𝙽𝚂𝙰𝙹𝙴 𝚄𝙽 𝙽𝚄𝙼𝙴𝚁𝙾 𝙰𝚁𝙰𝙱𝙴, 𝙴𝙻 𝙱𝙾𝚃 𝙻𝙾 𝚂𝙰𝙲𝙰", rowId: `${usedPrefix + command} antiarabes`}, 
+]},{
+title: comando + 'ᴄᴏᴍᴀɴᴅᴏ ᴘᴀʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ' + comando2, 
+rows: [
+{title: "🤖 | 𝙼𝙾𝙳𝙴𝙹𝙰𝙳𝙸𝙱𝙾𝚃", description: "𝙰𝙲𝚃𝙸𝚅𝙰 𝙾 𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙿𝙰𝚁𝙰 𝚂𝚄𝙱 𝙱𝙾𝚃𝚂 (#𝚂𝙴𝚁𝙱𝙾𝚃 / #𝙹𝙰𝙳𝙸𝙱𝙾𝚃)", rowId: `${usedPrefix + command} modejadibot`}, 
+]},{
+title: comando + 'ᴄᴏᴍᴀɴᴅᴏ ᴘᴀʀ ᴀᴅᴍɪɴ ᴏ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ' + comando2, 
+rows: [
+{title: "👑 | 𝙼𝙾𝙳𝙾𝙰𝙳𝙼𝙸𝙽", description: "𝙴𝙻 𝙱𝙾𝚃 𝚂𝙾𝙻𝙾 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴𝚁𝙰 𝙰 𝙻𝙾𝚂 𝙰𝙳𝙼𝙸𝙽𝚂 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾", rowId: `${usedPrefix + command} modoadmin`},    
 ]}, ]
 let name = await conn.getName(m.sender)
 const listMessage = {
@@ -176,6 +184,14 @@ throw false
 }}
 chat.modohorny = isEnable          
 break
+case 'modoadmin':
+if (m.isGroup) {
+if (!(isAdmin || isOwner)) {
+global.dfail('admin', m, conn)
+throw false
+}}
+chat.modoadmin = isEnable          
+break    
 case 'autosticker':
 if (m.isGroup) {
 if (!(isAdmin || isOwner)) {
@@ -259,6 +275,14 @@ throw false
 }
 bot.antiPrivate = isEnable
 break
+case 'modejadibot':
+isAll = true
+if (!isROwner) {
+global.dfail('rowner', m, conn)
+throw false
+}
+bot.modejadibot = isEnable
+break        
 case 'antitoxic':
 if (m.isGroup) {
 if (!(isAdmin || isOwner)) {
@@ -288,10 +312,9 @@ if (!/[01]/.test(command)) return await conn.sendMessage(m.chat, listMessage)
 throw false
 }
 conn.sendButton(m.chat, `🧿𝐎𝐏𝐂𝐈𝐎𝐍: ${type} 
-🗡️𝐄𝐒𝐓𝐀𝐃𝐎: ${isEnable ? '𝙰𝙲𝚃𝙸𝚅𝙰𝙳𝙾' : '𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝙳𝙾'}
-⛄𝐏𝐀𝐑𝐀: ${isAll ? '𝙴𝚂𝚃𝙴 𝙱𝙾𝚃' : isUser ? '' : '𝙴𝚂𝚃𝙴 𝙲𝙷𝙰𝚃'}`, author, null, [[`${isEnable ? '❌ᴅᴇsᴀᴄᴛɪᴠᴀʀ❌️' : '✔️ᴀᴄᴛɪᴠᴀʀ✔️'}`, `${isEnable ? `#disable ${type}` : `#enable ${type}`}`]], m)}
+📍𝐄𝐒𝐓𝐀𝐃𝐎: ${isEnable ? '𝙰𝙲𝚃𝙸𝚅𝙰𝙳𝙾' : '𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝙳𝙾'}
+⛄𝐏𝐀𝐑𝐀: ${isAll ? '𝙴𝚂𝚃𝙴 𝙱𝙾𝚃' : isUser ? '' : '𝙴𝚂𝚃𝙴 𝙲𝙷𝙰𝚃'}`, wm2, null, [[`${isEnable ? '❌ᴅᴇsᴀᴄᴛɪᴠᴀʀ❌️' : '✔️ᴀᴄᴛɪᴠᴀʀ✔️️'}`, `${isEnable ? `#disable ${type}` : `#enable ${type}`}`]], m)}
 handler.help = ['en', 'dis'].map(v => v + 'able <option>')
 handler.tags = ['group', 'owner']
 handler.command = /^((en|dis)able|(tru|fals)e|(turn)?[01])$/i
-handler.limit = 1
 export default handler
