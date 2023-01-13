@@ -1,26 +1,49 @@
-import { youtubedl, youtubedlv2, youtubedlv3 } from '@bochilteam/scraper'
+let limit = 50
+import fs from 'fs'
 import fetch from 'node-fetch'
-let handler = async (m, { conn, args }) => {
-if (!args[0]) throw '*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃𝙴 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙼𝙰𝚂 𝙴𝙻 𝙴𝙽𝙻𝙰𝙲𝙴 / 𝙻𝙸𝙽𝙺 𝙳𝙴 𝚄𝙽 𝚅𝙸𝙳𝙴𝙾 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴*'
-await m.reply(`⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱`)
+import { youtubedl, youtubedlv2, youtubedlv3, youtubeSearch } from '@bochilteam/scraper';
+let handler = async (m, { conn, args, isPrems, isOwner, usedPrefix, command, text }) => {
+{await m.reply('⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱')}
+if (!args || !args[0]) throw `*_⚠️ Inserte el comando más el enlace de YouTube._*`
+await m.reply(global.wait)
+let chat = global.db.data.chats[m.chat]
+const isY = /y(es)/gi.test(args[1])
+let vid = (await youtubeSearch(text)).video[0]
+let { authorName, description, videoId, durationH, viewH, publishedTime } = vid
+const url = 'https://www.youtube.com/watch?v=' + videoId
+const { thumbnail, audio: _audio, title } = await youtubedl(args[0]).catch(async _ => await youtubedlv2(args[0])).catch(async _ => await youtubedlv3(args[0]))
+const limitedSize = (isPrems || isOwner ? 350 : limit) * 3074
+let audio, source, res, link, lastError, isLimit
+for (let i in _audio) {
 try {
-let q = '128kbps'
-let v = args[0]
-const yt = await youtubedl(v).catch(async _ => await youtubedlv2(v)).catch(async _ => await youtubedlv3(v))
-const dl_url = await yt.audio[q].download()
-const ttl = await yt.title
-const size = await yt.audio[q].fileSizeH
-await conn.sendFile(m.chat, dl_url, ttl + '.mp3', null, m, false, { mimetype: 'audio/mp4' })
-} catch {
-try {
-let lolhuman = await fetch(`https://api.lolhuman.xyz/api/ytaudio2?apikey=${lolkeysapi}&url=${args[0]}`)    
-let lolh = await lolhuman.json()
-let n = lolh.result.title || 'error'
-await conn.sendMessage(m.chat, { audio: { url: lolh.result.link }, fileName: `${n}.mp3`, mimetype: 'audio/mp4' }, { quoted: m })
-//await conn.sendFile(m.chat, lolh.result.link, `${n}.mp3`, null, m, false, { mimetype: 'audio/mp4' })    
-} catch {
-await conn.reply(m.chat, '*[❗] 𝙴𝚁𝚁𝙾𝚁 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰𝚁 𝙴𝙻 𝙰𝚄𝙳𝙸𝙾*', m)}
+audio = _audio[i]
+isLimit = limitedSize < audio.fileSizeH
+if (isLimit) continue
+link = await audio.download()
+if (link) res = await fetch(link)
+isLimit = res?.headers.get('content-length') && parseInt(res.headers.get('content-length')) < limitedSize
+if (isLimit) continue
+if (res) source = await res.arrayBuffer()
+if (source instanceof ArrayBuffer) break
+} catch (e) {
+audio = link = source = null
+lastError = e
 }}
-handler.command = /^fgmp3|dlmp3|getaud|yt(a|mp3)$/i
+if ((!(source instanceof ArrayBuffer) || !link || !res.ok) && !isLimit) throw '⚠️ *_Error, ' + (lastError || 'no fue posible descargar el audio._*')
+//conn.sendFile(m.chat, source, title + '.mp3', null, m, false, { contextInfo: { mimetype: 'audio/mp4', externalAdReply: { showAdAttribution: false, mediaType: 2, title: `${title}`, body: `${authorName}`, sourceUrl: `${url}`, thumbnailUrl: thumbnail }}})
+conn.sendMessage(m.chat, { audio: { url: link }, mimetype: "audio/mp4", fileName: title + '.mp3', quoted: m, contextInfo: {
+'forwardingScore': 200,
+'isForwarded': false,
+externalAdReply:{
+showAdAttribution: false,
+title: `${title}`,
+body: `${authorName}`,
+mediaType: 2, 
+sourceUrl: `${url}`,
+thumbnailUrl: thumbnail}}}, { quoted: m })
+}
+handler.help = ['mp3', 'a'].map(v => 'yt' + v + ` <url>`)
+handler.tags = ['downloader']
+handler.command = /^yt(a|mp3)$/i
 handler.limit = 4
 export default handler
