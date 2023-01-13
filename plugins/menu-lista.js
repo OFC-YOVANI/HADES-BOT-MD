@@ -37,6 +37,12 @@ rows: [
      {title: "│🐉│ʀᴏʙᴀʀ", description: "ʀᴏʙᴀʀ ᴇxᴘᴇʀɪᴇɴᴄɪᴀ", rowId: `${usedPrefix}`},
      {title: "│🎉│ʀᴇᴄᴏᴍᴘᴇɴsᴀ ᴅɪᴀʀɪᴀ", description: "ᴜɴ ᴘᴇǫᴜᴇÑᴏ ʀᴇɢᴀʟᴏ ᴅᴇʟ ʙᴏᴛ", rowId: `${usedPrefix}claim`},
      {title: "│📑│ᴛᴀʙʟᴀ ᴅᴇ ᴄᴀʟɪғɪᴄᴀᴄɪᴏɴᴇs", description: "ᴍɪʀᴀ ᴛᴜ ʀᴇsᴜʟᴛᴀᴅᴏ", rowId: `${usedPrefix}leaderboard`},
+      ]},{
+     title: comando + '⛄𝐉𝐀𝐃𝐈𝐁𝐎𝐓🧿' + comando2, 
+     rows: [
+     {title: "│🧿│sᴇʀʙᴏᴛ", description: "ᴛᴇ ᴘᴜᴇᴅᴇs ᴄᴏɴᴠᴇʀᴛɪʀ ᴛᴇᴍᴘᴏʀᴀʟᴍᴇɴᴛᴇ ᴇɴ ᴜɴ sᴜᴅ ʙᴏᴛs", rowId: `${usedPrefix}serbot`},
+     {title: "│📝│ʟɪsᴛᴀ ᴅᴇ ʙᴏᴛs", description: "ᴛᴇ ᴍᴜᴇsᴛʀᴀ ʟᴏs ᴜsᴜᴀʀɪᴏs ǫᴜᴇ ᴇsᴛáɴ ᴄᴏɴᴇᴄᴛᴀᴅᴏs ᴀʟ ʙᴏᴛ", rowId: `${usedPrefix}bots`},
+     {title: "│🗡️│sᴛᴏᴘ", description: "ᴇsᴛᴀ ᴏᴘᴄɪᴏɴ ᴇs ᴘᴀʀᴀ ᴅᴇᴊᴀʀ ᴅᴇ sᴇʀ ᴜɴ sᴜᴅ ʙᴏᴛ", rowId: `${usedPrefix}stop`},
      ]},{
      title: comando + '🧿𝐌𝐄𝐍𝐔𝐒  𝐃𝐄 𝐋𝐈𝐒𝐓𝐀📝' + comando2,
      rows: [
