@@ -131,7 +131,7 @@ npm start
 
 ## `COLABORADORES DEL BOT` 
 <a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="100" height="100" alt="BrunoSobrino"/></a>
-
+<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.grupos.jpg" width="100" height="100" alt="elrebelde21"/></a>
 
 ## `CREADO POR OFC-YOVANI` 
 <a href="https://github.com/OFC-YOVANI"><img src="https://i.imgur.com/lkch77g.jpg" width="250" height="250" alt="YOVANI"/></a>
