@@ -135,6 +135,8 @@ npm start
   
 `HADES-BOT-MD - By YOVANI`
 
-
-## Colaborador 
+## `Colaborador-BrunoSobrino` 
+<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="250" height="250" alt="BrunoSobrino"/></a>
+ 
+## Colaborador-Mario`
 [![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21)
