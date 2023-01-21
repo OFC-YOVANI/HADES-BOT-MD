@@ -129,14 +129,11 @@ npm start
 - EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
 - HADES-BOT-MD - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
 
+## `COLABORADORES DEL BOT` 
+<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="100" height="100" alt="BrunoSobrino"/></a>
+
 
 ## `CREADO POR OFC-YOVANI` 
 <a href="https://github.com/OFC-YOVANI"><img src="https://i.imgur.com/lkch77g.jpg" width="250" height="250" alt="YOVANI"/></a>
   
 `HADES-BOT-MD - By YOVANI`
-
-## `Colaborador-BrunoSobrino` 
-<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="250" height="250" alt="BrunoSobrino"/></a>
- 
-## Colaborador-Mario`
-[![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21)
