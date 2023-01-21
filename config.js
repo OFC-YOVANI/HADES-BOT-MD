@@ -1,1 +1,133 @@
-const _0x5841d4=_0x238b;(function(_0x186d84,_0x37286e){const _0x3621b0=_0x238b,_0x41dfaf=_0x186d84();while(!![]){try{const _0x4bdff1=-parseInt(_0x3621b0(0xdf))/0x1*(-parseInt(_0x3621b0(0xfa))/0x2)+parseInt(_0x3621b0(0xf8))/0x3*(-parseInt(_0x3621b0(0x107))/0x4)+-parseInt(_0x3621b0(0xd9))/0x5+-parseInt(_0x3621b0(0xf0))/0x6+-parseInt(_0x3621b0(0xea))/0x7*(parseInt(_0x3621b0(0x109))/0x8)+parseInt(_0x3621b0(0xf5))/0x9+-parseInt(_0x3621b0(0xef))/0xa*(-parseInt(_0x3621b0(0xe8))/0xb);if(_0x4bdff1===_0x37286e)break;else _0x41dfaf['push'](_0x41dfaf['shift']());}catch(_0x2e3c90){_0x41dfaf['push'](_0x41dfaf['shift']());}}}(_0x485f,0x85913));import _0x16fd84 from'fs';import{watchFile,unwatchFile}from'fs';import _0x745c3 from'chalk';import{fileURLToPath}from'url';global['owner']=[['5212411719888',_0x5841d4(0x120),!![]],['5212412377467',_0x5841d4(0x120),!![]],[_0x5841d4(0x11e),_0x5841d4(0x120),!![]],['56964787183',_0x5841d4(0xfb),!![]]],global['suittag']=[_0x5841d4(0x122)],global[_0x5841d4(0x10a)]=[],(global['prems']=['5212411719888'],global['prems']=[_0x5841d4(0x122)],global['APIs']={'amel':_0x5841d4(0xec),'bx':'https://bx-hunter.herokuapp.com','nrtm':_0x5841d4(0x11b),'xteam':_0x5841d4(0xde),'nzcha':_0x5841d4(0x11a),'bg':_0x5841d4(0x104),'fdci':'https://api.fdci.se','dzx':'https://api.dhamzxploit.my.id','bsbt':_0x5841d4(0xeb),'zahir':_0x5841d4(0xd2),'zeks':'https://api.zeks.me','hardianto':_0x5841d4(0xe6),'pencarikode':_0x5841d4(0xe0),'LeysCoder':_0x5841d4(0x123),'adiisus':'https://adiixyzapi.herokuapp.com','lol':_0x5841d4(0x103),'pencarikode':_0x5841d4(0xe0),'Velgrynd':_0x5841d4(0xe2),'rey':_0x5841d4(0x111),'hardianto':_0x5841d4(0xfc),'shadow':'https://api.reysekha.xyz','apialc':_0x5841d4(0xe7),'botstyle':_0x5841d4(0xf7),'neoxr':_0x5841d4(0xf3),'ana':'https://anabotofc.herokuapp.com/','kanx':'https://kannxapi.herokuapp.com/','dhnjing':'https://dhnjing.xyz'},global['APIKeys']={'https://api-alc.herokuapp.com':'ConfuMods','https://api.reysekha.xyz':_0x5841d4(0xe5),'https://melcanz.com':_0x5841d4(0xf2),'https://bx-hunter.herokuapp.com':'Ikyy69','https://api.xteam.xyz':_0x5841d4(0x117),'https://zahirr-web.herokuapp.com':_0x5841d4(0x100),'https://bsbt-api-rest.herokuapp.com':'benniismael','https://api.zeks.me':_0x5841d4(0xf9),'https://hardianto-chan.herokuapp.com':_0x5841d4(0x118),'https://pencarikode.xyz':'pais','https://leyscoders-api.herokuapp.com':_0x5841d4(0x129),'https://server-api-rey.herokuapp.com':_0x5841d4(0xe5),'https://api.lolhuman.xyz':_0x5841d4(0xd5),'https://botstyle-api.herokuapp.com':_0x5841d4(0x11c),'https://neoxr-api.herokuapp.com':_0x5841d4(0xf4),'https://anabotofc.herokuapp.com/':_0x5841d4(0x116)}),global[_0x5841d4(0x126)]=_0x5841d4(0xfe),global[_0x5841d4(0x10f)]=_0x5841d4(0x108),global['vs']='1.10.90',global[_0x5841d4(0x113)]=vs,global['gt']=_0x5841d4(0xfe),global['hadesbot']=gt,global['yt']=_0x5841d4(0xd7),global[_0x5841d4(0xf1)]=yt,global['ig']='https://www.instagram',global['hadesig']=ig,global['md']=_0x5841d4(0x110),global['botxdf']=md,global['nn']=_0x5841d4(0xee),global[_0x5841d4(0x114)]=nn,global['nnn']=_0x5841d4(0xd4),global[_0x5841d4(0x106)]=nnn,global[_0x5841d4(0xdd)]=_0x5841d4(0x124),global[_0x5841d4(0xe3)]=paypal,global['rg']=_0x5841d4(0xd1),global['resultado']=rg,global['ag']=_0x5841d4(0xdc),global['advertencia']=ag,global[_0x5841d4(0x119)]=_0x5841d4(0x105),global['informacion']=iig,global['fg']=_0x5841d4(0xd3),global[_0x5841d4(0xe4)]=fg,global['mg']='*❗ᴇsᴛᴇ\x20ᴄᴏᴍᴀɴᴅᴏ\x20ʟᴏ\x20ʜᴀ\x20ᴜsᴀᴅᴏ\x20ɪɴᴄᴏʀʀᴇᴄᴛᴀᴍᴇɴᴛᴇ*',global[_0x5841d4(0x115)]=mg,global[_0x5841d4(0xe9)]='*📩ˢᵁ\x20ᴿᴱᴾᴼᴿᵀᴱ\x20ᴴᴬ\x20ˢᴵᴰᴼ\x20ᴱᴺⱽᴵᴬᴰᴼ📩*',global[_0x5841d4(0x11f)]=eeg,global['eg']=_0x5841d4(0xd1),global[_0x5841d4(0xf6)]=eg,global['wm']=_0x5841d4(0xfd),global['igfg']=_0x5841d4(0xfe),global[_0x5841d4(0x128)]=_0x5841d4(0xd8),global[_0x5841d4(0x127)]=_0x16fd84[_0x5841d4(0xe1)](_0x5841d4(0x10e)),global[_0x5841d4(0x11d)]=_0x16fd84[_0x5841d4(0xe1)](_0x5841d4(0xed)),global[_0x5841d4(0xff)]=_0x16fd84[_0x5841d4(0xe1)]('./src/nuevobot.jpg'),global['imagen3']=_0x16fd84['readFileSync'](_0x5841d4(0x112)),global[_0x5841d4(0x10a)]=[],global[_0x5841d4(0xdb)]=0x41,global[_0x5841d4(0x121)]={'emoticon'(_0x50af0e){const _0x59b3eb=_0x5841d4;_0x50af0e=_0x50af0e['toLowerCase']();let _0x43be68={'level':'🏆','limit':'💎','exp':_0x59b3eb(0xd6)},_0x45e1cd=Object[_0x59b3eb(0x10b)](_0x43be68)['map'](_0x2e69dd=>[_0x2e69dd,new RegExp(_0x2e69dd,'gi')])[_0x59b3eb(0xda)](_0x419f20=>_0x419f20[0x1][_0x59b3eb(0x10c)](_0x50af0e));if(!_0x45e1cd[_0x59b3eb(0x101)])return'';else return _0x43be68[_0x45e1cd[0x0][0x0]];}};function _0x238b(_0x4d5799,_0x3691fa){const _0x485f3b=_0x485f();return _0x238b=function(_0x238bb4,_0xa5a3ab){_0x238bb4=_0x238bb4-0xd1;let _0x344e2e=_0x485f3b[_0x238bb4];return _0x344e2e;},_0x238b(_0x4d5799,_0x3691fa);}let file=fileURLToPath(import.meta['url']);watchFile(file,()=>{const _0x176bb4=_0x5841d4;unwatchFile(file),console[_0x176bb4(0x10d)](_0x745c3['redBright']('Update\x20\x27config.js\x27')),import(file+_0x176bb4(0x102)+Date[_0x176bb4(0x125)]());});function _0x485f(){const _0x121ee8=['hardianto','iig','http://nzcha-apii.herokuapp.com','https://nurutomo.herokuapp.com','Eyar749L','imagen4','5212412377467','envio','𝙾𝙵𝙲\x20𝚈𝙾𝚅𝙰𝙽𝙸','rpg','5212411719888','https://leyscoders-api.herokuapp.com','https://pay','now','packname','imagen1','wait','MIMINGANZ','*🍀ʀᴇsᴜʟᴛᴀᴅᴏ\x20ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*','https://zahirr-web.herokuapp.com','*❌ʟᴏ\x20sᴇɴᴛɪᴍᴏs\x20sᴇ\x20ʜᴀ\x20ɢᴇɴᴇʀᴀᴅᴏ\x20ᴜɴ\x20ᴇʀʀᴏʀ\x20ᴠᴜᴇʟᴠᴇ\x20ɪɴᴛᴇɴᴛᴀʀ❌*','https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ','9b817532fadff8fc7cb86862','🕹️','https://youtu.be/aPu9wQi-z8U','⌛\x20_Cargando..._\x0a▰▰▰▱▱▱▱▱▱','2645950clkPTE','filter','multiplier','*⚠️ᴀᴅᴠᴇʀᴛᴇɴᴄɪᴀ⚠️*','paypal','https://api.xteam.xyz','8755VAaRFG','https://pencarikode.xyz','readFileSync','https://velgrynd.herokuapp.com','donar','fallo','apirey','https://hardianto-chan.herokuapp.com','https://api-alc.herokuapp.com','1141316pfVVqr','eeg','3914862RkfnPh','https://bsbt-api-rest.herokuapp.com','https://melcanz.com','./src/Menuxx.jpg','https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0','40ZQnVBC','2210766fakWjF','youtube','F3bOrWzY','https://neoxr-api.herokuapp.com','yntkts','9808074Yihchq','exito','https://botstyle-api.herokuapp.com','3etZPmI','apivinz','226pzMGMV','Collaborator','http://hardianto-chan.herokuapp.com','©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\x0a⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍','⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍','imagen2','zahirgans','length','?update=','https://api.lolhuman.xyz','http://bochil.ddns.net','*📌ɪɴғᴏʀᴍᴀᴄɪᴏɴ*✨','nnngrupo','1960468wlLrwM','©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍','8NNAHba','mods','keys','test','log','./src/Menu2.jpg','author','https://github.com/OFC-YOVANI/HADES-BOT-MD.git','https://server-api-rey.herokuapp.com','./src/Me.jpg','version','nngrupo','mal','AnaBot','5bd33b276d41d6b4'];_0x485f=function(){return _0x121ee8;};return _0x485f();}
+import fs from 'fs'
+import { watchFile, unwatchFile } from 'fs'
+import chalk from 'chalk'
+import { fileURLToPath } from 'url'
+
+global.owner = [
+  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['5219992095479', 'Collaborator-BrunoSobrino', true],
+  ['56964787183', 'Collaborator-Mario', true],
+]
+global.suittag =['5212411719888']
+global.mods = []
+global.prems = ['5212411719888'], 
+global.prems = ['5212411719888'],
+global.APIs = { 
+
+  amel: 'https://melcanz.com',
+  bx: 'https://bx-hunter.herokuapp.com',
+  nrtm: 'https://nurutomo.herokuapp.com',
+  xteam: 'https://api.xteam.xyz',
+  nzcha: 'http://nzcha-apii.herokuapp.com',
+  bg: 'http://bochil.ddns.net',
+  fdci: 'https://api.fdci.se',
+  dzx: 'https://api.dhamzxploit.my.id',
+  bsbt: 'https://bsbt-api-rest.herokuapp.com',
+  zahir: 'https://zahirr-web.herokuapp.com',
+  zeks: 'https://api.zeks.me',
+  hardianto: 'https://hardianto-chan.herokuapp.com',
+  pencarikode: 'https://pencarikode.xyz', 
+  LeysCoder: 'https://leyscoders-api.herokuapp.com',
+  adiisus: 'https://adiixyzapi.herokuapp.com',
+  lol: 'https://api.lolhuman.xyz',
+  pencarikode: 'https://pencarikode.xyz',
+  Velgrynd: 'https://velgrynd.herokuapp.com',
+  rey: 'https://server-api-rey.herokuapp.com',
+  hardianto: 'http://hardianto-chan.herokuapp.com',
+  shadow: 'https://api.reysekha.xyz',
+  apialc: 'https://api-alc.herokuapp.com',
+  botstyle: 'https://botstyle-api.herokuapp.com',
+  neoxr: 'https://neoxr-api.herokuapp.com',
+  ana: 'https://anabotofc.herokuapp.com/',
+  kanx: 'https://kannxapi.herokuapp.com/',
+  dhnjing: 'https://dhnjing.xyz'
+},
+  
+global.APIKeys = { 
+  'https://api-alc.herokuapp.com': 'ConfuMods',
+  'https://api.reysekha.xyz': 'apirey',
+  'https://melcanz.com': 'F3bOrWzY',
+  'https://bx-hunter.herokuapp.com': 'Ikyy69',
+  'https://api.xteam.xyz': '5bd33b276d41d6b4',
+  'https://zahirr-web.herokuapp.com': 'zahirgans',
+  'https://bsbt-api-rest.herokuapp.com': 'benniismael',
+  'https://api.zeks.me': 'apivinz',
+  'https://hardianto-chan.herokuapp.com': 'hardianto',
+  'https://pencarikode.xyz': 'pais', 
+  'https://leyscoders-api.herokuapp.com': 'MIMINGANZ', 
+  'https://server-api-rey.herokuapp.com': 'apirey',
+  'https://api.lolhuman.xyz': '9b817532fadff8fc7cb86862',
+  'https://botstyle-api.herokuapp.com': 'Eyar749L',
+  'https://neoxr-api.herokuapp.com': 'yntkts',
+  'https://anabotofc.herokuapp.com/': 'AnaBot'
+}
+
+global.packname = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
+global.vs = '1.10.90'
+global.version = vs
+global.gt = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.hadesbot = gt
+global.yt = 'https://youtu.be/aPu9wQi-z8U'
+global.youtube = yt
+global.ig = 'https://www.instagram'
+global.hadesig = ig
+global.md = 'https://github.com/OFC-YOVANI/HADES-BOT-MD.git'
+global.botxdf = md
+global.nn = 'https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'
+global.nngrupo = nn
+global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnngrupo = nnn
+global.paypal = 'https://pay'
+global.donar = paypal
+global.rg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
+global.resultado = rg
+global.ag = '*⚠️ᴀᴅᴠᴇʀᴛᴇɴᴄɪᴀ⚠️*'
+global.advertencia = ag
+global.iig = '*📌ɪɴғᴏʀᴍᴀᴄɪᴏɴ*✨'
+global.informacion = iig
+global.fg = '*❌ʟᴏ sᴇɴᴛɪᴍᴏs sᴇ ʜᴀ ɢᴇɴᴇʀᴀᴅᴏ ᴜɴ ᴇʀʀᴏʀ ᴠᴜᴇʟᴠᴇ ɪɴᴛᴇɴᴛᴀʀ❌*'
+global.fallo = fg
+global.mg = '*❗ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ʟᴏ ʜᴀ ᴜsᴀᴅᴏ ɪɴᴄᴏʀʀᴇᴄᴛᴀᴍᴇɴᴛᴇ*'
+global.mal = mg
+global.eeg = '*📩ˢᵁ ᴿᴱᴾᴼᴿᵀᴱ ᴴᴬ ˢᴵᴰᴼ ᴱᴺⱽᴵᴬᴰᴼ📩*'
+global.envio = eeg
+global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
+global.exito = eg
+
+global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.igfg = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
+
+global.imagen1 = fs.readFileSync('./src/Menu2.jpg')
+global.imagen4 = fs.readFileSync('./src/Menuxx.jpg')
+global.imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
+global.imagen3 = fs.readFileSync('./src/Me.jpg')
+
+global.mods = [] 
+
+global.multiplier = 65
+
+global.rpg = {
+  emoticon(string) {
+    string = string.toLowerCase()
+    let emot = {
+      level: '🏆',
+      limit: '💎',
+      exp: '🕹️'
+    }
+    let results = Object.keys(emot).map(v => [v, new RegExp(v, 'gi')]).filter(v => v[1].test(string))
+    if (!results.length) return ''
+    else return emot[results[0][0]]
+  }
+}
+
+
+let file = fileURLToPath(import.meta.url)
+watchFile(file, () => {
+  unwatchFile(file)
+  console.log(chalk.redBright("Update 'config.js'"))
+  import(`${file}?update=${Date.now()}`)
+})
+ 
