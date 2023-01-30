@@ -83,3 +83,4 @@ let buttonMessage= {
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })}
 handler.command = ['instalarbot','script']
 export default handler
+ 
