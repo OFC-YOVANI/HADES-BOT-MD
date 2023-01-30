@@ -33,3 +33,4 @@ handler.tags = ['xp']
 handler.command = /^(Reg|reg|registrar|reg(ister)?)$/i
 
 export default handler
+ 
