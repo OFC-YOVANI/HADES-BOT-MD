@@ -12,11 +12,11 @@ while (canLevelUp(user.level, user.exp, global.multiplier)) user.level++
  
 conn.sendButton(m.chat, '⛄' + wm, `╭─────°.♡.°‧─────
 │⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍
-│🥳ғᴇʟɪᴄɪᴅᴀᴅᴇs ʜᴀ sᴜʙɪᴅᴏ ᴅᴇ ɴɪᴠᴇʟ 
-│🔸ɴɪᴠᴇʟ ᴀɴᴛᴇʀɪᴏʀ:${before}
-│⬆️ɴɪᴠᴇʟ ᴀᴄᴛᴜᴀʟ${user.level}
-│⚔️ʀᴀɴɢᴏ${user.role}
-│📅ғᴇᴄʜᴀ${new Date().toLocaleString('id-ID')}
+│🥳 ғᴇʟɪᴄɪᴅᴀᴅᴇs ʜᴀ sᴜʙɪᴅᴏ ᴅᴇ ɴɪᴠᴇʟ 
+│🔸ɴɪᴠᴇʟ ᴀɴᴛᴇʀɪᴏʀ: ${before}
+│⬆️ɴɪᴠᴇʟ ᴀᴄᴛᴜᴀʟ: ${user.level}
+│⚔️ʀᴀɴɢᴏ: ${user.role}
+│📅ғᴇᴄʜᴀ: ${new Date().toLocaleString('id-ID')}
 ╰─────°.♡.°‧─────ׂ`, null, [['🍁ᴍᴇɴᴜ✴️', `/menu`]], m)
 }}		
 
