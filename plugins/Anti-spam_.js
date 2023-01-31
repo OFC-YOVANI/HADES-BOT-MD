@@ -13,3 +13,4 @@ texto = `[❗] @${m.sender.split("@")[0]} ᴇsᴛᴀʙᴀ ʙᴀɴᴇᴀᴅᴏ �
 this.sendButton(m.chat, texto, wm, null, [['☘️ᴍᴇɴᴜ📌', '/menu']], m, { mentions: this.parseMention(texto) })}, tiempo)        
 user.antispam = null
 }}
+ 
