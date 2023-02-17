@@ -45,7 +45,7 @@ global.APIs = {
   kanx: 'https://kannxapi.herokuapp.com/',
   dhnjing: 'https://dhnjing.xyz'
 },
-  
+ 
 global.APIKeys = { 
   'https://api-alc.herokuapp.com': 'ConfuMods',
   'https://api.reysekha.xyz': 'apirey',
