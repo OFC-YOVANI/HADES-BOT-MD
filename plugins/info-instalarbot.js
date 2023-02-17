@@ -45,7 +45,7 @@ let texto1 = `┌━═┅═━––––––––
 │▢Para obtener nuevamente el 
 │▢codigo QR, escribe en el termux:
 │▢cd HADES-BOT-MD
-│▢rm -rf session.data.json
+│▢rm -rf Hades-Session-data.base
 │▢npm start 
 ├━═┅═━––––––––
 │▢Cada vez que realices una modificacion en el
