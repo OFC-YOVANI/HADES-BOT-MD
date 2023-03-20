@@ -21,7 +21,7 @@ let texto1 = `╭─────°.♡.°‧─────
 │ 👀 *𝚅𝙸𝚂𝚃𝙰𝚂:* ${viewH}
 │ 📇 *𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽:* ${description}
 │ 🔗 *𝙻𝙸𝙽𝙺:* ${urll}
-│⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍
+│ ⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍
 ╰─────°.♡.°‧─────`.trim()
 let buttonMessage = { "document": { url: "https://wa.me/5212411719888" }, "fileName": '❏ 🌿 ʀᴇᴘʀᴏᴅᴜᴄᴛᴏʀ ᴅᴇ ʏᴏᴜᴛᴜʙᴇ', "mimetype": 'application/vnd.ms-excel', "caption": texto1, "fileLength": '99999999999999', "mentions": [m.sender], "footer": wm, "buttons": buttons, "headerType": 4, contextInfo: { "mentionedJid": [m.sender], "externalAdReply": { "showAdAttribution": true, "title": `${title}`, "mediaType": 2, "previewType": "VIDEO", "thumbnail": await (await fetch(thumbnail)).buffer(), "mediaUrl": `${urll}`, "sourceUrl": `https://github.com/OFC-YOVANI/HADES-BOT-MD` }}} 
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
