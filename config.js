@@ -100,7 +100,7 @@ global.exito = eg
 
 global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍\n'
 global.igfg = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
-global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
+global.wait = '⌛_Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
 global.imagen1 = fs.readFileSync('./src/Menu2.jpg')
 global.imagen4 = fs.readFileSync('./src/Menuxx.jpg')
