@@ -9,3 +9,4 @@ throw `*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃�
 }}
 handler.command = ['dall-e', 'dalle', 'ia2', 'cimg', 'openai3']
 export default handler
+ 
