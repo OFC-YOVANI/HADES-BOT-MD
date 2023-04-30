@@ -298,4 +298,4 @@ echo -e "\e[31m
     
 sleep 15 && pkill mpv > /dev/null 2>&1 && sleep 2 && rm -f /data/data/com.termux/files/home/"$random_mp3" &
 echo -e "\033[01;32m\033[01mIniciando HADES-BOT-MD!!\n\033[0m"
-npm start
+npm start 
