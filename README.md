@@ -61,6 +61,10 @@ pkg install imagemagick -y
 ```
 
 ```bash
+pkg install yarn
+```
+
+```bash
 termux-setup-storage
 ```
 
@@ -70,6 +74,10 @@ git clone https://github.com/OFC-YOVANI/HADES-BOT-MD.git
 
 ```bash
 cd HADES-BOT-MD
+```
+
+```bash
+yarn
 ```
 
 ```bash
