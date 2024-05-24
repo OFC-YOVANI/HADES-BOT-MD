@@ -3,8 +3,8 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
-global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+global.owner = [595976591617
+  ['52595976591617', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
   ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
   ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
   ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
@@ -76,9 +76,9 @@ global.ig = 'https://www.instagram'
 global.hadesig = ig
 global.md = 'https://github.com/OFC-YOVANI/HADES-BOT-MD.git'
 global.botxdf = md
-global.nn = 'https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'
+global.nn = 'https://chat.whatsapp.com/Ja366bi9QVYD1VhZQlLChg'
 global.nngrupo = nn
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnn = 'https://chat.whatsapp.com/Ja366bi9QVYD1VhZQlLChg'
 global.nnngrupo = nnn
 global.paypal = 'https://pay'
 global.donar = paypal
