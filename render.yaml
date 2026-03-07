@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: thehades-bot-md
+    env: docker
+    region: Frankfurt
+    plan: free

@@ -1,0 +1,13 @@
+{
+  "fecha": "2026-02-27T18:23:56.824Z",
+  "comando": "attp",
+  "texto": "Hades Bot galaxy",
+  "apis": {
+    "attp": "https://api.cafirexos.com/api/maker/attp?text=Hades%20Bot%20galaxy",
+    "ttp": "undefined/canvas/ttp?text=Hades%20Bot%20galaxy",
+    "ttp2": "undefined/canvas/ttp?text=Hades%20Bot%20galaxy&color=red"
+  },
+  "BASE_API_DELIRIUS": "NO DEFINIDA",
+  "error": "request to https://api.cafirexos.com/api/maker/attp?text=Hades%20Bot%20galaxy failed, reason: getaddrinfo ENOTFOUND api.cafirexos.com",
+  "stack": "FetchError: request to https://api.cafirexos.com/api/maker/attp?text=Hades%20Bot%20galaxy failed, reason: getaddrinfo ENOTFOUND api.cafirexos.com\n    at ClientRequest.<anonymous> (file:///home/container/node_modules/node-fetch/src/index.js:108:11)\n    at ClientRequest.emit (node:events:519:28)\n    at emitErrorEvent (node:_http_client:107:11)\n    at TLSSocket.socketErrorListener (node:_http_client:574:5)\n    at TLSSocket.emit (node:events:519:28)\n    at emitErrorNT (node:internal/streams/destroy:170:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)"
+}

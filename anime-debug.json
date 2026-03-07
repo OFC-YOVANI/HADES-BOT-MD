@@ -1,0 +1,9 @@
+{
+  "fecha": "2026-02-25T21:31:27.017Z",
+  "comando": "miku",
+  "url": "https://raw.githubusercontent.com/OFC-YOVANI/Api-anime/main/Animes/miku.json",
+  "error": "Request failed with status code 404",
+  "status": 404,
+  "statusText": "Not Found",
+  "data": "404: Not Found"
+}
