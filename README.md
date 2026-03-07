@@ -1,3 +1,3 @@
-Hi, if your plan is to install it right now you can do so, but it's currently under maintenance.
+It's ready to install and will have more updates.
 
-Hola, si tu plan es instalarlo ahora mismo puedes hacerlo, pero actualmente está en mantenimiento.
+Está listo para instalar y tendrá más actualizaciones.
