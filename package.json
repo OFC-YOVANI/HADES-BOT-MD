@@ -1,5 +1,5 @@
 {
-  "name": "HADES-BOT-OMEGA",
+  "name": "HADES-BOT-MD",
   "version": "1.0.0",
   "description": "subscribe to the HADES-BOT channel",
   "main": "index.js",
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA",
+  "homepage": "https://github.com/OFC-YOVANI/HADES-BOT-MD",
   "author": {
     "name": "OFC-YOVANI"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git"
+    "url": "git+https://github.com/OFC-YOVANI/HADES-BOT-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA/issues"
+    "url": "https://github.com/OFC-YOVANI/HADES-BOT-MD/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
