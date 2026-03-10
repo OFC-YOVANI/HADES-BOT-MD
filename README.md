@@ -26,6 +26,7 @@
 </p>
 
 <p align="center">
+  <a href="https://api.whatsapp.com/send?phone=+595994149135&text=.menu">Demostración</a>
   ·
   <a href="https://github.com/OFC-YOVANI/HADES-BOT-MD/issues/new?assignees=&labels=Bug">Reportar un error</a>
   ·
@@ -85,6 +86,21 @@ También puedes desplegar **HADES-BOT-MD** en otros entornos con un solo clic. T
 [![Run on Repl.it](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://repl.it/github/OFC-YOVANI/HADES-BOT-MD)
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/OFC-YOVANI/HADES-BOT-MD)
 [![Deploy to Termux](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/OFC-YOVANI/HADES-BOT-MD/)
+
+---
+
+## 👥 Soporte y Comunidad
+
+### 📱 Comunidades de asistencia
+
+Únete a nuestras comunidades oficiales para resolver dudas, compartir ideas y mantenerte al día.
+
+| Plataforma | Tipo | Idioma | Enlace |
+|------------|------|--------|--------|
+| WhatsApp | Canal | Español | [¡Únete aquí!](https://chat.whatsapp.com/LBd1wCBG6PmKMOS63vcnmT) |
+| WhatsApp | Grupo | Español | [¡Únete aquí!](https://chat.whatsapp.com/K9poLgqyztyKCJ5k5NaNJz?mode=gi_t) |
+| WhatsApp | Grupo de Soporte | Español | [¡Únete aquí!](https://chat.whatsapp.com/Jhs2WrdiNzY3CML7shPwot?mode=gi_t) |
+
 ---
 
 
@@ -107,6 +123,7 @@ Gracias a todos los que hacen posible este proyecto.
 <a href="https://vicemi.dev/">
   <img src="https://vicemi.dev/profile-front.webp" width="180px" alt="Vicemi de BoxMine World" style="border-radius: 50%; object-fit: cover;"/>
 </a>
+
 ---
 
 ## 👨‍💻 Desarrollador Principal
