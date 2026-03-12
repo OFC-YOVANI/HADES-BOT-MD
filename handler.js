@@ -1,1 +1,1670 @@
-function _0x376b(){const _0x287c8d=['lastbunuhi','dogexp','wait','1608841IFellF','potion','simi','sWelcome','bandage','queque','pickaxe','2dvTfws','premiumDate','sDesc','lastdungeon','hero','some','toLowerCase','superior','lastcodereg','error','lasteasy','buntal','kerjaduaenam','lastkill','antiCall','detect','centaurlastclaim','babihutan','stats','pancing','lastIstigfar','\x0a\x20*[\x20ℹ️\x20]\x20Si\x20consideras\x20que\x20esto\x20es\x20un\x20error\x20y\x20cuentas\x20con\x20pruebas,\x20puedes\x20comunicarte\x20con\x20el\x20propietario(a)\x20del\x20bot\x20para\x20apelar\x20la\x20suspensión.*','ramuanphonixlast','arcdurability','kentanggoreng','naga','quitarpoder','quoted','orca','kentang','age','kerbau','antiviewonce','undefined','dragon','diamond','kerjaduabelas','136SnVYie','https://github.com/OFC-YOVANI/HADES-BOT-OMEGA','seedkentang','kerjaduadua','lastramuanclaim','🌙\x20*¡Bienvenid@\x20a\x20','dory','udangbakar','success','arlok','question','health','expg','sword','@lid','ramuannagalast','sBye','seedwortel','plugin','welcome','\x20▢\x20*Motivo:*\x20Sin\x20especificar','pet','bawal','conn','\x20segundos_\x20*antes\x20de\x20utilizar\x20otro\x20comando.*','coin','kayu','admin','kerjaduadelapan','boxs','updateBlockStatus','random','superadmin','gadodado','isCommand','all','sendPresenceUpdate','lastmulung','groupMetadata','lastmancingeasy','lastwork','lastopen','centaurexp','numeric','monyet','wolfexp','panda','lastSetStatus','https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png','bank','kangkung','coal','register','roket','default',',\x20usa\x20el\x20comando\x20','bow','babipanggang','noprint','isBanned','herolastclaim','lastjb','offer','users','troopcamp','bowdurability','profilePictureUrl','makanankyubi','Desempleo','llamadas','owner-exec2.js','seedlabu','kardus','tags','5556232KSXRAx','trim','psepick','banteng','readMessages','anakgriffin','ojekk','kerjatigabelas','gulai','\x0a▢\x20*Motivo:*\x20','title','modoia','lastswordclaim','antispam','👑\x20*@user*\x20ahora\x20es\x20*Administrador/a*\x20del\x20grupo.','sworddurability','audios','participant','seedkubis','lastduel','lastwarpet','centaur','Halo','catexp','_viewOnce','healthmonster','customPrefix','*[\x20⚠\x20]\x20Advertencia*','katanadurability','iron','roti','darpoder','bannedMessageSent','[participantsUpdate]\x20OK\x20->','isBaileys','lastsironclaim','unreglast','✨ᴴᵒˡᵃ\x20ᵉˢᵗⁱᵐᵃᵈᵒ\x20ˡᵒ\x20ˢⁱᵉⁿᵗᵒ\x20ᵖᵉʳᵒ\x20ᵗᵘˢ\x20💎ᵈⁱᵃᵐᵃⁿᵗᵉˢ\x20ˢᵉ\x20ᵗᵉ\x20ʰᵃⁿ\x20ᵃᵍᵒᵗᵃᵈᵒ\x20ˢⁱ\x20ᵈᵉˢᵉᵃˢ\x20ˢᵉᵍᵘⁱʳ\x20ᵘˢᵃⁿᵈᵒ\x20ᵉˡ\x20ᵇᵒᵗ\x20ᵖᵘᵉᵈᵉˢ\x20ⁱʳ\x20ᵃ\x20ˡᵃ\x20🛒ᵗⁱᵉⁿᵈᵃ\x20ᵈᵉ\x20💎ᵈⁱᵃᵐᵃⁿᵗᵉˢ\x20ᶜᵒⁿ\x20ᵉˡ\x20ᶜᵒᵐᵃⁿᵈᵒ\x0a🛒/ˢʰᵒᵖ\x0a\x0a✨ˢⁱ\x20ᵗᵉ\x20ⁱⁿᵗᵉʳᵉˢᵃ\x20ᶜᵒᵐᵖʳᵃʳ\x20ᵘⁿ\x20ᵖᵉʳᵐⁱᵘᵐ\x20ᵖᵃʳᵃ\x20qᵘᵉ\x20ᵉˡ\x20ᵇᵒᵗ\x20ⁿᵒ\x20ᵗᵉ\x20ᶜᵒᵇʳᵉ\x20💎ᵈⁱᵃᵐᵃⁿᵗᵉˢ\x20ᵖᵘᵉᵈᵉˢ\x20ⁱʳ\x20ᵃˡ\x20🪙ᵗⁱᵉⁿᵈᵃ\x20ᶜᵒⁿ\x20ᵉˡ\x20ᶜᵒᵐᵃⁿᵈᵒ\x0a🛒/ˢᵉˡˡ','arc','demote','anakphonix','agility','1988290iPUDOA','antiPrivate','uncoommon','readFileSync','sand','jagungbakar','leleg','fail','ramuancentaurlast','korbanngocok','phonixlastclaim','aqua','size','server','msgqueque','botAdmin','*[\x20ℹ️\x20]\x20Se\x20require\x20tener\x20el\x20nivel\x20','decodeJid','serigalalastclaim','armor','restrict','join','serigala','horselastfeed','plugins','crime','sSubject','reloadHandler','gold','apel','💎\x20𝐔𝐒𝐀𝐃𝐎','lastdiamantes','log','kerjaempat','rowner','armormonster','semangka','wallet','gardenboxs','emerald','kambing','trofi','skillexp','lastmonthly','limitjoinfree','kerjaenam','group','messages','soda','en-US','axedurability','dragonexp','icon','game','brokoli','tiketcoin','Update\x20\x27handler.js\x27','disabled','doglastfeed','buaya','legendary','atm','laststringclaim','crystal','@subject','*,\x20las\x20','rubahlastclaim','bayam','ssapi','ramuangriffinlast','haus','ramuanserigalalast','lastrampok','kerjaduasembilan','pisang','weapondurability','money','lastrob','makananserigala','kerjasebelas','lastnambang','lastspam','63LfPmyQ','catch','lastgift','griffin','psenjata','healtmonster','berlian','lastadventure','mods','lastgojek','bibitanggur','metadata','botol','petFood','cupon','5146008HNsiVK','dfail','kerjalimabelas','\x20no\x20están\x20permitidas,\x20serás\x20bloqueado.\x0a-\x0aSi\x20accidentalmente\x20llamaste\x20póngase\x20en\x20contacto\x20con\x20mi\x20creador\x20para\x20que\x20te\x20desbloquee!','ceil','lastnebang','joinlimit','rumahsakit','lastSuccess','parseMention','laper','lele','*[\x20ℹ️\x20]\x20Espera*\x20_','nagalastclaim','user','indexOf','pertanian','loadMessage','last','ayamb','isGroup','reglast','*\x20miembros\x20en\x20este\x20grupo.\x0a📖\x20_','snlast','fideos','autolevelup','seedkangkung','404','pillhero','kepiting','kerjaenambelas','kerjaduaempat','emasbatang','lastcode','\x0a*[\x20ℹ️\x20]\x20Para\x20desactivar\x20la\x20función*\x20_antidelete_*,\x20envia\x20el\x20siguiente\x20comando:*\x20_/disable\x20antidelete_','anakpancingan','sDemote','📑\x20ɪɴғᴏʀᴍᴇ\x20ᴅᴇ\x20ᴄᴜᴍᴘʟɪᴍɪᴇɴᴛᴏ\x20ᴅᴇ\x20sᴇɢᴜʀɪᴅᴀᴅ\x0a\x0a──────────────────────────────\x0aɴúᴄʟᴇᴏ:\x20sɪsᴛᴇᴍᴀ\x20ᴅᴇ\x20ᴄᴏɴᴛʀᴏʟ\x20ᴅᴇ\x20ᴀᴄᴄᴇsᴏ\x0aᴇᴠᴇɴᴛᴏ:\x20ʀᴇsᴛʀɪᴄᴄɪóɴ\x20ᴅᴇ\x20ᴘʀɪᴠɪʟᴇɢɪᴏs\x0a──────────────────────────────\x0a\x0aᴅᴇᴛᴀʟʟᴇs\x20ᴅᴇ\x20ʟᴀ\x20ᴘᴏʟíᴛɪᴄᴀ:\x0aᴅᴇ\x20ᴀᴄᴜᴇʀᴅᴏ\x20ᴄᴏɴ\x20ʟᴏs\x20ᴘʀᴏᴛᴏᴄᴏʟᴏs\x20ᴅᴇ\x20sᴇɢᴜʀɪᴅᴀᴅ\x20ᴅᴇ\x20ʟᴀ\x20ᴘʟᴀᴛᴀғᴏʀᴍᴀ,\x20ᴇʟ\x20ᴄᴏᴍᴀɴᴅᴏ\x20sᴏʟɪᴄɪᴛᴀᴅᴏ\x20ᴇsᴛá\x20ᴄʟᴀsɪғɪᴄᴀᴅᴏ\x20ᴄᴏᴍᴏ\x20ɴɪᴠᴇʟ\x20ᴄʀíᴛɪᴄᴏ.\x0a\x0aᴇsᴛᴀᴅᴏ\x20ᴅᴇ\x20ᴀᴜᴛᴏʀɪᴢᴀᴄɪóɴ:\x0a⛔\x20ᴀᴄᴄᴇsᴏ\x20ᴅᴇɴᴇɢᴀᴅᴏ:\x20ᴄʀᴇᴅᴇɴᴄɪᴀʟᴇs\x20ɪɴsᴜғɪᴄɪᴇɴᴛᴇs.\x0a👤\x20ʀᴇǫᴜᴇʀɪᴅᴏ:\x20ғɪʀᴍᴀ\x20ᴅɪɢɪᴛᴀʟ\x20ᴅᴇ\x20ᴏᴡɴᴇʀ\x20(ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ/ᴀ).\x0a\x0aᴅɪʀᴇᴄᴛɪᴠᴀ\x20ᴅᴇ\x20ᴜsᴜᴀʀɪᴏ:\x0aᴘᴏʀ\x20ғᴀᴠᴏʀ,\x20ʀᴇᴍíᴛᴀsᴇ\x20ᴀʟ\x20ᴄᴀᴛáʟᴏɢᴏ\x20ᴅᴇ\x20ᴄᴏᴍᴀɴᴅᴏs\x20ᴘúʙʟɪᴄᴏs\x20ᴘᴀʀᴀ\x20ғᴜɴᴄɪᴏɴᴇs\x20ᴇsᴛáɴᴅᴀʀ.\x20ᴄᴜᴀʟǫᴜɪᴇʀ\x20ɪɴᴛᴇɴᴛᴏ\x20ᴅᴇ\x20ᴀᴄᴄᴇsᴏ\x20ɴᴏ\x20ᴀᴜᴛᴏʀɪᴢᴀᴅᴏ\x20ǫᴜᴇᴅᴀ\x20ʀᴇɢɪsᴛʀᴀᴅᴏ\x20ᴇɴ\x20ᴇʟ\x20ʟᴏɢ\x20ᴅᴇʟ\x20sɪsᴛᴇᴍᴀ.\x0a─────────────────────────────\x0a\x0a🛡️\x20sᴇɢᴜʀɪᴅᴀᴅ\x20ɢᴀʀᴀɴᴛɪᴢᴀᴅᴀ\x20ᴘᴏʀ\x20ʜᴀᴅᴇs\x20ʙᴏᴛ\x20ᴍᴅ','rendang','wortel','lastmisi','desc','promote','antiporno','swonly','ramuankyubilast','kerjasepuluh','seedjagung','wolf','modohorny','frontaddr','horseexp','kepitingbakar','kaleng','/3\x0a\x20','el\x20grupo','sapir','subject','robo','fullatm','detect2','toString','after','enchant','makanannaga','glass','signature','rtrofi','kerjatiga','lastfight','seedbayam','```Icon\x20has\x20been\x20changed\x20to```','parse','before','mconn','kerjatujuhbelas','kerjasembilanbelas','uptime','📉\x20*@user*\x20ya\x20no\x20es\x20*Administrador/a*\x20del\x20grupo.','healt','anakrubah','anjinglastclaim','⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍','intelligence','cat','data','bawalbakar','mythic','bannedMessageCount','groupParticipantsUpdate','kerjadelapan','kapak','lastCommandTime','autoread2','lastpekerjaan','lastbunga','exec','kyubilastclaim','ayam','anakkucing','audios_bot','━━━━━\x20🔱\x20ʜᴀᴅᴇs\x20ʙᴏᴛ\x20ᴍᴅ\x20━━━━━\x0a📑\x20ᴛɪᴘᴏ\x20ᴅᴇ\x20ᴇʀʀᴏʀ:\x20ᴀᴄᴄᴇsᴏ\x20ᴅᴇɴᴇɢᴀᴅᴏ\x0a🛡️\x20ʀᴇǫᴜɪsɪᴛᴏ:\x20ᴀᴅᴍɪɴ\x20ᴘʀɪᴠɪʟᴇɢᴇs\x0asɪsᴛᴇᴍᴀ:\x20ᴇʟ\x20ʙᴏᴛ\x20ɴᴏ\x20ᴘᴏsᴇᴇ\x20ʟᴏs\x20ᴘᴇʀᴍɪsᴏs\x20ɴᴇᴄᴇsᴀʀɪᴏs\x20ᴘᴀʀᴀ\x20ᴇᴊᴇᴄᴜᴛᴀʀ\x20ᴇsᴛᴀ\x20ᴏʀᴅᴇɴ\x20ᴇɴ\x20ᴇsᴛᴇ\x20ɢʀᴜᴘᴏ.\x0a━━━━━━━━━━━━━━━━━━━━━━━','job','isArray','Hola\x20*@','reply','sendMessage','Ngecit\x20-_-','spromote','test','strength','*[❗]\x20@','find','lastlink','joincount','armordurability','stamina','message','kerjatujuh','[⚠️ᵃᵛⁱˢᵒ\x20ⁱᵐᵖᵒʳᵗᵃⁿᵗᵉ⚠️]\x0aᴱˢᵗᵉ\x20ᶜᵒᵐᵃⁿᵈᵒ\x20ˢᵒˡᵒ\x20ᴾᵘᵉᵈᵉ\x20ˢᵉʳ\x20ᵁᵗⁱˡⁱᶻᵃᵈᵒ\x20ᴾᵃʳᵃ\x20ˢᵒˡᵒ\x20ᴬᵈᵐⁱⁿⁱˢᵗʳᵃᵈᵒʳᵉˢ\x20ᴰᵉˡ\x20ᴳʳᵘᵖᵒˢ','seedbrokoli','ʜᴀᴅᴇs\x20ʙᴏᴛ\x20ᴍᴅ','weapon','antidelete','kerjasatu','griffinexp','axe','makanangriffin','revoke','pepesikan','lastdagang','batu','lumba','kyubilastfeed','11514692KNFWqU','sPromote','lastclaim','expired','phonix','cumi','./lib/print.js','now','modoadmin','ikan','kucinglastclaim','emasbiasa','umpan','jeruk','\x5c$&','-\x20using\x20cache','sampah','anakserigala','name','map','keys','self','✨\x20¡ʜᴏʟᴀ!\x20ᴇsᴛᴏs\x20sᴏɴ\x20ɴᴜᴇsᴛʀᴏs\x20ᴇsᴘᴀᴄɪᴏs\x20✨\x0aᴀϙᴜɪ́\x20ᴛɪᴇɴᴇs\x20ʟᴏs\x20ʟᴜɢᴀʀᴇs\x20ᴏғɪᴄɪᴀʟᴇs\x20ᴅᴏɴᴅᴇ\x20ᴘᴜᴇᴅᴇs\x20ᴜsᴀʀ\x20ᴇʟ\x20ʙᴏᴛ,\x20ʀᴇᴄɪʙɪʀ\x20ᴀʏᴜᴅᴀ\x20ʏ\x20ᴇɴᴛᴇʀᴀʀᴛᴇ\x20ᴅᴇ\x20ᴛᴏᴅᴀs\x20ʟᴀs\x0a\x0aɴᴏᴠᴇᴅᴀᴅᴇs\x20ᴅᴇ\x20ʜᴀᴅᴇs\x20ʙᴏᴛ\x20ᴍᴅ.\x0a📂\x20ɴᴜᴇsᴛʀᴏs\x20ᴇɴʟᴀᴄᴇs:\x0a👥\x20ɢʀᴜᴘᴏ\x20ᴅᴇ\x20sᴏᴘᴏʀᴛᴇ\x0aɪᴅᴇᴀʟ\x20ᴘᴀʀᴀ\x20ᴅᴜᴅᴀs,\x20ʀᴇᴘᴏʀᴛᴇs\x20ʏ\x20ᴀᴘʀᴇɴᴅᴇʀ\x20ᴀ\x20ᴜsᴀʀ\x20ᴇʟ\x20ʙᴏᴛ.\x0a[https://chat.whatsapp.com/Jhs2WrdiNzY3CML7shPwot?mode=gi_t]\x0a🧪\x20ɢʀᴜᴘᴏ\x20ᴅᴇ\x20ᴘʀᴜᴇʙᴀs\x20(ɢʀᴜᴘᴏ\x201)\x0aᴜɴ\x20ᴇsᴘᴀᴄɪᴏ\x20ᴘᴀʀᴀ\x20ɪɴᴛᴇʀᴀᴄᴛᴜᴀʀ\x20ᴄᴏɴ\x20ᴛᴏᴅᴀs\x20ʟᴀs\x20ғᴜɴᴄɪᴏɴᴇs\x20ᴅᴇʟ\x20ʙᴏᴛ.\x0a[https://chat.whatsapp.com/GC4VWbHOrqw9RXhPdKz6KX?mode=gi_t]\x0a🧪\x20ɢʀᴜᴘᴏ\x20ᴅᴇ\x20ᴘʀᴜᴇʙᴀs\x20(ɢʀᴜᴘᴏ2)\x0a[https://chat.whatsapp.com/EQPVxR5cHrn2Fb3flVJHk2?mode=gi_t]\x0a📢\x20ᴄᴀɴᴀʟ\x20ᴏғɪᴄɪᴀʟ\x0asᴜsᴄʀɪ́ʙᴇᴛᴇ\x20ᴘᴀʀᴀ\x20ᴀᴄᴛᴜᴀʟɪᴢᴀᴄɪᴏɴᴇs,\x20ɴᴏᴛɪᴄɪᴀs\x20ʏ\x20ɴᴜᴇᴠᴏs\x20ᴄᴏᴍᴀɴᴅᴏs.\x0a[https://whatsapp.com/channel/0029VbANB7sCcW4hhrIL9n3M]\x0a\x0a¡ɢʀᴀᴄɪᴀs\x20ᴘᴏʀ\x20sᴇʀ\x20ᴘᴀʀᴛᴇ\x20ᴅᴇ\x20ʟᴀ\x20ᴄᴏᴍᴜɴɪᴅᴀᴅ\x20ᴅᴇ\x20ʜᴀᴅᴇs\x20ʙᴏᴛ\x20ᴍᴅ!\x20🤖','dirname','[⚠️ᵃᵛⁱˢᵒ\x20ⁱᵐᵖᵒʳᵗᵃⁿᵗᵉ⚠️]\x0aᴱˢᵗᵉ\x20ᶜᵒᵐᵃⁿᵈᵒ\x20ˢᵒˡᵒ\x20ᴾᵘᵉᵈᵉ\x20ˢᵉʳ\x20ᵁᵗⁱˡⁱᶻᵃᵈᵒ\x20ᴾᵒʳ\x20ᴸᵒˢ\x20ᵁˢᵘᵃʳⁱᵒˢ\x20ᴾʳᵉᵐⁱᵘᵐ\x20ʸ\x20ᴱˡ/ᴸᵃ\x20ᴾʳᵒᵖⁱᵉᵗᵃʳⁱᵒ/ᴬ\x20(ᵒʷⁿᵉʳ)\x20ᴰᵉˡ\x20ᴮᵒᵗ','remove','rhinocerosexp','nila','esteh','text','nyimak','bibitpisang','lastmancingextreme','bibitapel','sRevoke','info-creator.js','antiArab2','chat','kerjaduatiga','lionexp','fishingrod','kerjadua','tomat','gamemines','bibitjeruk','sushi','sop','pertambangan','getFile','includes','makanancentaur','lasthourly','progression','note','lastpago','from','107898VuQdqi','kyubi','status','magicwand','lelebakar','autoread','griffinlastclaim','glimit','suplabu','g.us','griffinlastfeed','kerjaduasatu','ramuanrubahlast','exp','key','arraybuffer','lasthunt','ramuanherolast','sesi','lastturu','dog','lastngocok','step','level','ayamg','kerjalima','gconly','add','nilabakar','net','@revoke','BEGIN:VCARD\x0aVERSION:3.0\x0aN:;⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍;;;\x0aFN:⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍\x0aORG:⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍\x0aTITLE:\x0aitem1.TEL;waid=5212412377467:+521\x20241\x20237\x207467\x0aitem1.X-ABLabel:⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍\x0aX-WA-BIZ-DESCRIPTION:[❗]\x20ᴄᴏɴᴛᴀᴄᴛᴀ\x20ᴀ\x20ᴇsᴛᴇ\x20ɴᴜᴍ\x20ᴘᴀʀᴀ\x20ᴄᴏsᴀs\x20ɪᴍᴘᴏʀᴛᴀɴᴛᴇs.\x0aX-WA-BIZ-NAME:⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍\x0aEND:VCARD','lastcrusade','subjectTime','akinator','clay','redBright','lionlastfeed','tigame','phoneNumber','pausbakar','anggur','endsWith','bibitmangga','startsWith','steak','object','1188250ZVwitj','```Description\x20has\x20been\x20changed\x20to```\x0a@desc','lastseen','oporayam','lastbansos','regTime','kerjatigapuluh','lobster','ramuankudalast','⚠️\x20ᴀᴄᴄᴇsᴏ\x20ᴅᴇɴᴇɢᴀᴅᴏ\x20⚠️\x0aᴘʀᴏᴛᴏᴄᴏʟᴏ\x20ᴅᴇ\x20sᴇɢᴜʀɪᴅᴀᴅ\x20ᴀᴄᴛɪᴠᴀᴅᴏ.\x20📡🚫\x0a🔒\x20ᴇsᴛᴇ\x20ᴄᴏᴍᴀɴᴅᴏ\x20sᴏ́ʟᴏ\x20ᴇsᴛᴀ́\x20ᴅɪsᴘᴏɴɪʙʟᴇ\x20ᴇɴ\x20ᴇʟ\x20ᴄʜᴀᴛ\x20ᴘʀɪᴠᴀᴅᴏ\x20ᴅᴇʟ\x20ʙᴏᴛ.\x0aᴘᴏʀ\x20ꜰᴀᴠᴏʀ,\x20ᴇɴᴠɪ́ᴀ\x20ᴛᴜ\x20sᴏʟɪᴄɪᴛᴜᴅ\x20ᴅɪʀᴇᴄᴛᴀᴍᴇɴᴛᴇ\x20ᴀ\x20ᴍɪ\x20ᴄʜᴀᴛ\x20ᴘᴇʀsᴏɴᴀʟ\x20ᴘᴀʀᴀ\x20ᴘᴏᴅᴇʀ\x20ᴘʀᴏᴄᴇsᴀʀʟᴀ\x20ᴄᴏʀʀᴇᴄᴛᴀᴍᴇɴᴛᴇ.\x20🤖✨','kerjadualima','spammer','🌙\x20*¡Hasta\x20pronto!*\x20👋\x0a\x0aAdiós,\x20@user\x0a🌟\x20Ahora\x20quedamos\x20*','premium','𝐃𝐈𝐀𝐌𝐀𝐍𝐓𝐄\x20','anjing','common','soal','\x0aitem1.X-ABLabel:Ponsel\x0aEND:VCARD','lastpotionclaim','kuda','[▒▒▒▒▒▒▒▒▒]','toLocaleDateString','length','mangga','kyubiexp','roboxp','lastsmancingclaim','pancingan','rubah','lastberbru','lbars','__filename','anakanjing','exphero','upgrader','makananphonix','centaurlastfeed','ganja','ramuan','lastlumber','total','filter','afk','leleb','lion','settings','glory','gajah','[participantsUpdate]\x20error:','fox','owner-unbanchat.js','registered','makananpet','anakkuda','participants','antiArab','dragonlastfeed','fishingroddurability','sdemote','rhinoceros','limit','owner','lastweekly','call','max','\x20ᴇɴ\x20ᴇsᴛᴇ\x20ɢʀᴜᴘᴏ\x20ɴᴏ\x20sᴇ\x20ᴘᴇʀᴍɪᴛᴇɴ\x20ɴᴜᴍᴇʀᴏs\x20ᴀʀᴀʙᴇs\x20ᴏ\x20ʀᴀʀᴏs,\x20ᴘᴏʀ\x20ʟᴏ\x20ϙᴜᴇ\x20sᴇ\x20ᴛᴇ\x20sᴀᴄᴀʀᴀ\x20ᴅᴇʟ\x20ɢʀᴜᴘᴏ*','delete','foxexp','rock','kubis','wolflastfeed','gems','anakkyubi','string','seedtomat','sIcon','fortress','tumiskangkung','Novato','pconly','lastcoins','owner-exec.js','anakcentaur','./lib/img/antiArab.json','modejadibot','@icon','makanan','udang','serializeM','kucing','ayambakar','kerjaempatbelas','tprem','split','\x0a❏̸̷̸̷ִִْْFecha:*\x20','pickaxedurability','status@broadcast','autosticker','lastfishing','ikanbakar','lastmining','fromMe','\x20para\x20poder\x20utilizar\x20el\x20comando.\x20Tú\x20nivel\x20actual\x20es\x20','vodka','function','videollamadas','gurita','recording','rhinoceroslastfeed','@desc','stroberi','sapi','kerjadelapanbelas','foxlastfeed','lastberkebon','@s.whatsapp.net','bannedReason','kudalastclaim','hiu','lastwar','kerjasembilan','prefix','kerjaduapuluh','session','antiLink','sender','eleksirb','replace','harimau','role','BEGIN:VCARD\x0aVERSION:3.0\x0aN:Sy;Bot;;;\x0aFN:y\x0aitem1.TEL;waid=','lastgrab','catlastfeed','emas','ramuankucinglast','lastweaponclaim','labu','lid','commandCount','```Group\x20link\x20has\x20been\x20changed\x20to```\x0a@revoke','chats','antiToxic','wood','pointxp','toLocaleString','kerjaduatujuh','jid','lastcofre','antiTraba','lastsda','babi','horse','command','paus','lastngojek','get','trash','ayamgoreng','0@s.whatsapp.net','private','judilast','antiLink2','lastroket'];_0x376b=function(){return _0x287c8d;};return _0x376b();}const _0x192b23=_0x260e;(function(_0x3438ce,_0x111df8){const _0x496692=_0x260e,_0x1eecb8=_0x3438ce();while(!![]){try{const _0x354f73=-parseInt(_0x496692(0x38d))/0x1*(parseInt(_0x496692(0x394))/0x2)+parseInt(_0x496692(0x2b7))/0x3*(parseInt(_0x496692(0x3b9))/0x4)+-parseInt(_0x496692(0x2e6))/0x5+-parseInt(_0x496692(0x1f9))/0x6+parseInt(_0x496692(0x27f))/0x7+-parseInt(_0x496692(0x16e))/0x8+-parseInt(_0x496692(0x1ea))/0x9*(-parseInt(_0x496692(0x198))/0xa);if(_0x354f73===_0x111df8)break;else _0x1eecb8['push'](_0x1eecb8['shift']());}catch(_0x578399){_0x1eecb8['push'](_0x1eecb8['shift']());}}}(_0x376b,0xd22f3));import{generateWAMessageFromContent}from'@whiskeysockets/baileys';import{smsg}from'./lib/simple.js';import{format}from'util';import{fileURLToPath}from'url';function _0x260e(_0x1b9a46,_0xbf0ba3){_0x1b9a46=_0x1b9a46-0x15e;const _0x376b21=_0x376b();let _0x260e4a=_0x376b21[_0x1b9a46];return _0x260e4a;}import _0x31184e,{join}from'path';import{unwatchFile,watchFile}from'fs';import _0x1bc6e4 from'fs';import _0x17c85a from'chalk';import _0x15bd33 from'md5';import _0x2f7cff from'ws';const {proto}=(await import('@whiskeysockets/baileys'))['default'],isNumber=_0x57dc35=>typeof _0x57dc35==='number'&&!isNaN(_0x57dc35),delay=_0xbe874=>isNumber(_0xbe874)&&new Promise(_0x41f526=>setTimeout(function(){clearTimeout(this),_0x41f526();},_0xbe874));export async function handler(_0x393f02){const _0x319207=_0x260e;this[_0x319207(0x1a6)]=this[_0x319207(0x1a6)]||[],this[_0x319207(0x246)]=this[_0x319207(0x246)]||Date[_0x319207(0x286)]();if(!_0x393f02)return;this['pushMessage'](_0x393f02['messages'])['catch'](console[_0x319207(0x39d)]);let _0x2657e3=_0x393f02[_0x319207(0x1c7)][_0x393f02[_0x319207(0x1c7)][_0x319207(0x2fd)]-0x1];if(!_0x2657e3)return;if(global['db']['data']==null)await global['loadDatabase']();try{const _0x278ef2=_0x2657e3[_0x319207(0x26e)]||{},_0x44f3c5=Object[_0x319207(0x293)](_0x278ef2)[_0x319207(0x269)](_0x1da0fb=>/viewonce/i['test'](_0x1da0fb)),_0x4573d7=_0x44f3c5?{'key':_0x44f3c5,'data':_0x278ef2[_0x44f3c5]}:null;_0x2657e3=smsg(this,_0x2657e3)||_0x2657e3;if(!_0x2657e3)return;if(_0x4573d7)_0x2657e3[_0x319207(0x186)]=_0x4573d7;global[_0x319207(0x243)]=_0x2657e3,_0x2657e3[_0x319207(0x2c4)]=0x0,_0x2657e3[_0x319207(0x1e4)]=![],_0x2657e3['limit']=![];try{const _0x298af2=global['db'][_0x319207(0x24e)][_0x319207(0x163)][_0x2657e3['sender']];typeof _0x298af2!==_0x319207(0x2e5)&&(global['db']['data'][_0x319207(0x163)][_0x2657e3['sender']]={});if(_0x298af2){if(!isNumber(_0x298af2[_0x319207(0x2c4)]))_0x298af2[_0x319207(0x2c4)]=0x0;if(!(_0x319207(0x2f3)in _0x298af2))_0x298af2[_0x319207(0x2f3)]=![];if(!isNumber(_0x298af2[_0x319207(0x26b)]))_0x298af2[_0x319207(0x26b)]=0x2;if(!isNumber(_0x298af2[_0x319207(0x323)]))_0x298af2['limit']=0x14;if(!isNumber(_0x298af2[_0x319207(0x1e4)]))_0x298af2[_0x319207(0x1e4)]=0xf;if(!(_0x319207(0x31a)in _0x298af2))_0x298af2[_0x319207(0x31a)]=![];if(!_0x298af2[_0x319207(0x31a)]){if(!('name'in _0x298af2))_0x298af2[_0x319207(0x291)]=_0x2657e3[_0x319207(0x291)];if(!isNumber(_0x298af2[_0x319207(0x3b2)]))_0x298af2[_0x319207(0x3b2)]=-0x1;if(!isNumber(_0x298af2[_0x319207(0x2e0)]))_0x298af2[_0x319207(0x2e0)]=0x0;if(!isNumber(_0x298af2['apel']))_0x298af2[_0x319207(0x1b5)]=0x0;if(!isNumber(_0x298af2['bibitanggur']))_0x298af2[_0x319207(0x1f4)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2a0)]))_0x298af2[_0x319207(0x2a0)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2ab)]))_0x298af2[_0x319207(0x2ab)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2e2)]))_0x298af2[_0x319207(0x2e2)]=0x0;if(!isNumber(_0x298af2['bibitpisang']))_0x298af2['bibitpisang']=0x0;if(!isNumber(_0x298af2[_0x319207(0x36c)]))_0x298af2[_0x319207(0x36c)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x28c)]))_0x298af2['jeruk']=0x0;if(!isNumber(_0x298af2[_0x319207(0x3d3)]))_0x298af2[_0x319207(0x3d3)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x33d)]))_0x298af2[_0x319207(0x33d)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2fe)]))_0x298af2[_0x319207(0x2fe)]=0x0;if(!isNumber(_0x298af2['pisang']))_0x298af2['pisang']=0x0;if(!isNumber(_0x298af2[_0x319207(0x395)]))_0x298af2[_0x319207(0x395)]=-0x1;if(!isNumber(_0x298af2[_0x319207(0x2eb)]))_0x298af2[_0x319207(0x2eb)]=-0x1;if(!isNumber(_0x298af2[_0x319207(0x1bc)]))_0x298af2[_0x319207(0x1bc)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x355)]))_0x298af2[_0x319207(0x355)]=0x0;}if(!isNumber(_0x298af2['afk']))_0x298af2[_0x319207(0x311)]=-0x1;if(!(_0x319207(0x212)in _0x298af2))_0x298af2[_0x319207(0x212)]=!![];if(!(_0x319207(0x368)in _0x298af2))_0x298af2[_0x319207(0x368)]=_0x319207(0x335);if(!isNumber(_0x298af2[_0x319207(0x197)]))_0x298af2['agility']=0x0;if(!isNumber(_0x298af2[_0x319207(0x307)]))_0x298af2[_0x319207(0x307)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x339)]))_0x298af2['anakcentaur']=0x0;if(!isNumber(_0x298af2[_0x319207(0x173)]))_0x298af2[_0x319207(0x173)]=0x0;if(!isNumber(_0x298af2['anakkucing']))_0x298af2[_0x319207(0x25c)]=0x0;if(!isNumber(_0x298af2['anakkuda']))_0x298af2[_0x319207(0x31c)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x32f)]))_0x298af2['anakkyubi']=0x0;if(!isNumber(_0x298af2['anaknaga']))_0x298af2['anaknaga']=0x0;if(!isNumber(_0x298af2[_0x319207(0x21c)]))_0x298af2['anakpancingan']=0x0;if(!isNumber(_0x298af2['anakphonix']))_0x298af2[_0x319207(0x196)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x249)]))_0x298af2['anakrubah']=0x0;if(!isNumber(_0x298af2['anakserigala']))_0x298af2[_0x319207(0x290)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2e0)]))_0x298af2[_0x319207(0x2e0)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2f5)]))_0x298af2[_0x319207(0x2f5)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x24a)]))_0x298af2[_0x319207(0x24a)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x17b)]))_0x298af2[_0x319207(0x17b)]=0x0;if(!isNumber(_0x298af2['antispamlastclaim']))_0x298af2['antispamlastclaim']=0x0;if(!isNumber(_0x298af2['apel']))_0x298af2[_0x319207(0x1b5)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1a3)]))_0x298af2[_0x319207(0x1a3)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x194)]))_0x298af2[_0x319207(0x194)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3ab)]))_0x298af2[_0x319207(0x3ab)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3c2)]))_0x298af2[_0x319207(0x3c2)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1ab)]))_0x298af2['armor']=0x0;if(!isNumber(_0x298af2[_0x319207(0x26c)]))_0x298af2[_0x319207(0x26c)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1bb)]))_0x298af2[_0x319207(0x1bb)]=0x0;if(!isNumber(_0x298af2['as']))_0x298af2['as']=0x0;if(!isNumber(_0x298af2['atm']))_0x298af2[_0x319207(0x1d5)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x277)]))_0x298af2['axe']=0x0;if(!isNumber(_0x298af2[_0x319207(0x1ca)]))_0x298af2[_0x319207(0x1ca)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x25b)]))_0x298af2['ayam']=0x0;if(!isNumber(_0x298af2[_0x319207(0x20c)]))_0x298af2[_0x319207(0x20c)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x341)]))_0x298af2['ayambakar']=0x0;if(!isNumber(_0x298af2[_0x319207(0x2cf)]))_0x298af2[_0x319207(0x2cf)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x384)]))_0x298af2[_0x319207(0x384)]=0x0;if(!isNumber(_0x298af2['babi']))_0x298af2[_0x319207(0x37d)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3a5)]))_0x298af2[_0x319207(0x3a5)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3f2)]))_0x298af2[_0x319207(0x3f2)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x391)]))_0x298af2[_0x319207(0x391)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3ea)]))_0x298af2[_0x319207(0x3ea)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x171)]))_0x298af2['banteng']=0x0;if(!isNumber(_0x298af2[_0x319207(0x27c)]))_0x298af2[_0x319207(0x27c)]=0x0;if(!isNumber(_0x298af2['bawal']))_0x298af2[_0x319207(0x3cf)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x24f)]))_0x298af2[_0x319207(0x24f)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1db)]))_0x298af2[_0x319207(0x1db)]=0x0;if(!isNumber(_0x298af2['juegos']))_0x298af2['juegos']=0x0;if(!isNumber(_0x298af2[_0x319207(0x1b1)]))_0x298af2[_0x319207(0x1b1)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1f0)]))_0x298af2['berlian']=0xa;if(!isNumber(_0x298af2[_0x319207(0x1f4)]))_0x298af2[_0x319207(0x1f4)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2a0)]))_0x298af2[_0x319207(0x2a0)]=0x0;if(!isNumber(_0x298af2['bibitjeruk']))_0x298af2[_0x319207(0x2ab)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2e2)]))_0x298af2['bibitmangga']=0x0;if(!isNumber(_0x298af2[_0x319207(0x29e)]))_0x298af2['bibitpisang']=0x0;if(!isNumber(_0x298af2[_0x319207(0x1f6)]))_0x298af2[_0x319207(0x1f6)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3f1)]))_0x298af2[_0x319207(0x3f1)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x165)]))_0x298af2[_0x319207(0x165)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3d6)]))_0x298af2[_0x319207(0x3d6)]=0x0;if(!isNumber(_0x298af2['brick']))_0x298af2['brick']=0x0;if(!isNumber(_0x298af2[_0x319207(0x1ce)]))_0x298af2['brokoli']=0x0;if(!isNumber(_0x298af2[_0x319207(0x1d3)]))_0x298af2[_0x319207(0x1d3)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x39f)]))_0x298af2[_0x319207(0x39f)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x24d)]))_0x298af2['cat']=0x0;if(!isNumber(_0x298af2['catexp']))_0x298af2[_0x319207(0x185)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x36b)]))_0x298af2[_0x319207(0x36b)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x183)]))_0x298af2['centaur']=0x0;if(!isNumber(_0x298af2[_0x319207(0x3e3)]))_0x298af2[_0x319207(0x3e3)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3a4)]))_0x298af2[_0x319207(0x3a4)]=0x0;if(!isNumber(_0x298af2['centaurlastfeed']))_0x298af2[_0x319207(0x30b)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2da)]))_0x298af2[_0x319207(0x2da)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3ec)]))_0x298af2['coal']=0x0;if(!isNumber(_0x298af2[_0x319207(0x3d2)]))_0x298af2['coin']=0x0;if(!isNumber(_0x298af2['common']))_0x298af2[_0x319207(0x2f6)]=0x0;if(!isNumber(_0x298af2['crystal']))_0x298af2[_0x319207(0x1d7)]=0x0;if(!isNumber(_0x298af2['cumi']))_0x298af2[_0x319207(0x284)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1f8)]))_0x298af2[_0x319207(0x1f8)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3b7)]))_0x298af2['diamond']=0x3;if(!isNumber(_0x298af2[_0x319207(0x2cb)]))_0x298af2[_0x319207(0x2cb)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x38b)]))_0x298af2['dogexp']=0x0;if(!isNumber(_0x298af2['doglastfeed']))_0x298af2[_0x319207(0x1d2)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3bf)]))_0x298af2[_0x319207(0x3bf)]=0x0;if(!isNumber(_0x298af2['dragon']))_0x298af2[_0x319207(0x3b6)]=0x0;if(!isNumber(_0x298af2['dragonexp']))_0x298af2[_0x319207(0x1cb)]=0x0;if(!isNumber(_0x298af2['dragonlastfeed']))_0x298af2[_0x319207(0x31f)]=0x0;if(!isNumber(_0x298af2['emas']))_0x298af2[_0x319207(0x36c)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1bf)]))_0x298af2['emerald']=0x0;if(!isNumber(_0x298af2[_0x319207(0x238)]))_0x298af2[_0x319207(0x238)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x29b)]))_0x298af2[_0x319207(0x29b)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2c4)]))_0x298af2['exp']=0x0;if(!isNumber(_0x298af2['expg']))_0x298af2[_0x319207(0x3c5)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x308)]))_0x298af2[_0x319207(0x308)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x365)]))_0x298af2[_0x319207(0x365)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x219)]))_0x298af2['emasbatang']=0x0;if(!isNumber(_0x298af2[_0x319207(0x28a)]))_0x298af2[_0x319207(0x28a)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x211)]))_0x298af2[_0x319207(0x211)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2a7)]))_0x298af2['fishingrod']=0x0;if(!isNumber(_0x298af2[_0x319207(0x320)]))_0x298af2[_0x319207(0x320)]=0x0;if(!isNumber(_0x298af2['fortress']))_0x298af2[_0x319207(0x333)]=0x0;if(!isNumber(_0x298af2['fox']))_0x298af2[_0x319207(0x318)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x32a)]))_0x298af2[_0x319207(0x32a)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x358)]))_0x298af2[_0x319207(0x358)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x234)]))_0x298af2['fullatm']=0x0;if(!isNumber(_0x298af2[_0x319207(0x3da)]))_0x298af2['gadodado']=0x0;if(!isNumber(_0x298af2[_0x319207(0x316)]))_0x298af2[_0x319207(0x316)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2aa)]))_0x298af2[_0x319207(0x2aa)]=![];if(!isNumber(_0x298af2[_0x319207(0x30c)]))_0x298af2['ganja']=0x0;if(!isNumber(_0x298af2[_0x319207(0x1be)]))_0x298af2['gardenboxs']=0x0;if(!isNumber(_0x298af2[_0x319207(0x32e)]))_0x298af2[_0x319207(0x32e)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x23a)]))_0x298af2['glass']=0x0;if(!isNumber(_0x298af2[_0x319207(0x2be)]))_0x298af2[_0x319207(0x2be)]=0x14;if(!isNumber(_0x298af2[_0x319207(0x315)]))_0x298af2[_0x319207(0x315)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1b4)]))_0x298af2[_0x319207(0x1b4)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1ed)]))_0x298af2[_0x319207(0x1ed)]=0x0;if(!isNumber(_0x298af2['griffinexp']))_0x298af2[_0x319207(0x276)]=0x0;if(!isNumber(_0x298af2['griffinlastclaim']))_0x298af2[_0x319207(0x2bd)]=0x0;if(!isNumber(_0x298af2['griffinlastfeed']))_0x298af2[_0x319207(0x2c1)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x176)]))_0x298af2['gulai']=0x0;if(!isNumber(_0x298af2[_0x319207(0x351)]))_0x298af2[_0x319207(0x351)]=0x0;if(!isNumber(_0x298af2['harimau']))_0x298af2[_0x319207(0x367)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1de)]))_0x298af2[_0x319207(0x1de)]=0x64;if(!isNumber(_0x298af2[_0x319207(0x248)]))_0x298af2['healt']=0x64;if(!isNumber(_0x298af2[_0x319207(0x3c4)]))_0x298af2[_0x319207(0x3c4)]=0x64;if(!isNumber(_0x298af2[_0x319207(0x187)]))_0x298af2[_0x319207(0x187)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1ef)]))_0x298af2['healtmonster']=0x0;if(!isNumber(_0x298af2['hero']))_0x298af2[_0x319207(0x398)]=0x1;if(!isNumber(_0x298af2[_0x319207(0x160)]))_0x298af2[_0x319207(0x160)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x35d)]))_0x298af2[_0x319207(0x35d)]=0x0;if(!isNumber(_0x298af2['horse']))_0x298af2[_0x319207(0x37e)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x22c)]))_0x298af2[_0x319207(0x22c)]=0x0;if(!isNumber(_0x298af2['horselastfeed']))_0x298af2[_0x319207(0x1af)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x288)]))_0x298af2[_0x319207(0x288)]=0x0;if(!isNumber(_0x298af2['ikanbakar']))_0x298af2[_0x319207(0x34a)]=0x0;if(!isNumber(_0x298af2['intelligence']))_0x298af2[_0x319207(0x24c)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x18b)]))_0x298af2['iron']=0x0;if(!isNumber(_0x298af2['jagung']))_0x298af2['jagung']=0x0;if(!isNumber(_0x298af2[_0x319207(0x19d)]))_0x298af2[_0x319207(0x19d)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x28c)]))_0x298af2[_0x319207(0x28c)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1ff)]))_0x298af2[_0x319207(0x1ff)]=0x1;if(!isNumber(_0x298af2[_0x319207(0x387)]))_0x298af2[_0x319207(0x387)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x22e)]))_0x298af2['kaleng']=0x0;if(!isNumber(_0x298af2['kambing']))_0x298af2[_0x319207(0x1c0)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3eb)]))_0x298af2[_0x319207(0x3eb)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x254)]))_0x298af2[_0x319207(0x254)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x16c)]))_0x298af2[_0x319207(0x16c)]=0x0;if(!isNumber(_0x298af2['katana']))_0x298af2['katana']=0x0;if(!isNumber(_0x298af2[_0x319207(0x18a)]))_0x298af2[_0x319207(0x18a)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3d3)]))_0x298af2[_0x319207(0x3d3)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3b1)]))_0x298af2['kentang']=0x0;if(!isNumber(_0x298af2[_0x319207(0x3ac)]))_0x298af2[_0x319207(0x3ac)]=0x0;if(!isNumber(_0x298af2['kepiting']))_0x298af2[_0x319207(0x216)]=0x0;if(!isNumber(_0x298af2['kepitingbakar']))_0x298af2[_0x319207(0x22d)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3b3)]))_0x298af2[_0x319207(0x3b3)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x253)]))_0x298af2[_0x319207(0x253)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x357)]))_0x298af2[_0x319207(0x357)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2a8)]))_0x298af2[_0x319207(0x2a8)]=0x0;if(!isNumber(_0x298af2['kerjaduabelas']))_0x298af2[_0x319207(0x3b8)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3d5)]))_0x298af2[_0x319207(0x3d5)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3bc)]))_0x298af2[_0x319207(0x3bc)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x218)]))_0x298af2[_0x319207(0x218)]=0x0;if(!isNumber(_0x298af2['kerjaduaenam']))_0x298af2[_0x319207(0x3a0)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2f0)]))_0x298af2[_0x319207(0x2f0)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x361)]))_0x298af2[_0x319207(0x361)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2c2)]))_0x298af2[_0x319207(0x2c2)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1e1)]))_0x298af2[_0x319207(0x1e1)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2a5)]))_0x298af2['kerjaduatiga']=0x0;if(!isNumber(_0x298af2[_0x319207(0x378)]))_0x298af2['kerjaduatujuh']=0x0;if(!isNumber(_0x298af2[_0x319207(0x1b9)]))_0x298af2['kerjaempat']=0x0;if(!isNumber(_0x298af2[_0x319207(0x342)]))_0x298af2[_0x319207(0x342)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1c5)]))_0x298af2[_0x319207(0x1c5)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x217)]))_0x298af2['kerjaenambelas']=0x0;if(!isNumber(_0x298af2[_0x319207(0x2d0)]))_0x298af2[_0x319207(0x2d0)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1fb)]))_0x298af2[_0x319207(0x1fb)]=0x0;if(!isNumber(_0x298af2['kerjasatu']))_0x298af2[_0x319207(0x275)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1e7)]))_0x298af2[_0x319207(0x1e7)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x35f)]))_0x298af2[_0x319207(0x35f)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x245)]))_0x298af2[_0x319207(0x245)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x227)]))_0x298af2[_0x319207(0x227)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x23d)]))_0x298af2[_0x319207(0x23d)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x175)]))_0x298af2[_0x319207(0x175)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2ec)]))_0x298af2[_0x319207(0x2ec)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x26f)]))_0x298af2[_0x319207(0x26f)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x244)]))_0x298af2['kerjatujuhbelas']=0x0;if(!isNumber(_0x298af2[_0x319207(0x1a1)]))_0x298af2[_0x319207(0x1a1)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x32c)]))_0x298af2[_0x319207(0x32c)]=0x0;if(!isNumber(_0x298af2['kucing']))_0x298af2[_0x319207(0x340)]=0x0;if(!isNumber(_0x298af2['kucinglastclaim']))_0x298af2[_0x319207(0x289)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2fa)]))_0x298af2[_0x319207(0x2fa)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x35c)]))_0x298af2['kudalastclaim']=0x0;if(!isNumber(_0x298af2['kyubi']))_0x298af2[_0x319207(0x2b8)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2ff)]))_0x298af2[_0x319207(0x2ff)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x25a)]))_0x298af2[_0x319207(0x25a)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x27e)]))_0x298af2['kyubilastfeed']=0x0;if(!isNumber(_0x298af2['labu']))_0x298af2[_0x319207(0x36f)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x203)]))_0x298af2['laper']=0x64;if(!isNumber(_0x298af2[_0x319207(0x1f1)]))_0x298af2['lastadventure']=0x0;if(!isNumber(_0x298af2[_0x319207(0x2ea)]))_0x298af2[_0x319207(0x2ea)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x304)]))_0x298af2[_0x319207(0x304)]=0x0;if(!isNumber(_0x298af2['lastberkebon']))_0x298af2[_0x319207(0x359)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x258)]))_0x298af2[_0x319207(0x258)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x38a)]))_0x298af2[_0x319207(0x38a)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x337)]))_0x298af2[_0x319207(0x337)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x281)]))_0x298af2[_0x319207(0x281)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x21a)]))_0x298af2['lastcode']=0x0;if(!isNumber(_0x298af2[_0x319207(0x37a)]))_0x298af2[_0x319207(0x37a)]=0x0;if(!isNumber(_0x298af2['lastcodereg']))_0x298af2[_0x319207(0x39c)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2d7)]))_0x298af2['lastcrusade']=0x0;if(!isNumber(_0x298af2['lastdagang']))_0x298af2[_0x319207(0x27b)]=0x0;if(!isNumber(_0x298af2['lastdiamantes']))_0x298af2[_0x319207(0x1b7)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x181)]))_0x298af2[_0x319207(0x181)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x397)]))_0x298af2[_0x319207(0x397)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x39e)]))_0x298af2[_0x319207(0x39e)]=0x0;if(!isNumber(_0x298af2['lastfight']))_0x298af2[_0x319207(0x23e)]=0x0;if(!isNumber(_0x298af2['lastfishing']))_0x298af2[_0x319207(0x349)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1ec)]))_0x298af2[_0x319207(0x1ec)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1f3)]))_0x298af2['lastgojek']=0x0;if(!isNumber(_0x298af2[_0x319207(0x36a)]))_0x298af2['lastgrab']=0x0;if(!isNumber(_0x298af2[_0x319207(0x2b2)]))_0x298af2[_0x319207(0x2b2)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2c7)]))_0x298af2['lasthunt']=0x0;if(!isNumber(_0x298af2[_0x319207(0x3a8)]))_0x298af2[_0x319207(0x3a8)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x161)]))_0x298af2[_0x319207(0x161)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3a1)]))_0x298af2['lastkill']=0x0;if(!isNumber(_0x298af2['lastlink']))_0x298af2[_0x319207(0x26a)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x30e)]))_0x298af2[_0x319207(0x30e)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3e0)]))_0x298af2[_0x319207(0x3e0)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x29f)]))_0x298af2[_0x319207(0x29f)]=0x0;if(!isNumber(_0x298af2['lastmancinghard']))_0x298af2['lastmancinghard']=0x0;if(!isNumber(_0x298af2['lastmancingnormal']))_0x298af2['lastmancingnormal']=0x0;if(!isNumber(_0x298af2[_0x319207(0x34b)]))_0x298af2[_0x319207(0x34b)]=0x0;if(!isNumber(_0x298af2['lastmisi']))_0x298af2[_0x319207(0x221)]=0x0;if(!isNumber(_0x298af2['lastmonthly']))_0x298af2[_0x319207(0x1c3)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3de)]))_0x298af2[_0x319207(0x3de)]=0x0;if(!isNumber(_0x298af2['lastnambang']))_0x298af2[_0x319207(0x1e8)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1fe)]))_0x298af2['lastnebang']=0x0;if(!isNumber(_0x298af2[_0x319207(0x2cc)]))_0x298af2['lastngocok']=0x0;if(!isNumber(_0x298af2[_0x319207(0x381)]))_0x298af2[_0x319207(0x381)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3e2)]))_0x298af2[_0x319207(0x3e2)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x257)]))_0x298af2[_0x319207(0x257)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2b5)]))_0x298af2['lastpago']=0x0;if(!isNumber(_0x298af2[_0x319207(0x2f9)]))_0x298af2[_0x319207(0x2f9)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1e0)]))_0x298af2[_0x319207(0x1e0)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3bd)]))_0x298af2['lastramuanclaim']=0x0;if(!isNumber(_0x298af2[_0x319207(0x1e5)]))_0x298af2['lastrob']=0x0;if(!isNumber(_0x298af2[_0x319207(0x389)]))_0x298af2[_0x319207(0x389)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x37c)]))_0x298af2[_0x319207(0x37c)]=0x0;if(!isNumber(_0x298af2['lastseen']))_0x298af2[_0x319207(0x2e8)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3e8)]))_0x298af2[_0x319207(0x3e8)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1e9)]))_0x298af2[_0x319207(0x1e9)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x191)]))_0x298af2[_0x319207(0x191)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x301)]))_0x298af2[_0x319207(0x301)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1d6)]))_0x298af2[_0x319207(0x1d6)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x17a)]))_0x298af2[_0x319207(0x17a)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2ca)]))_0x298af2[_0x319207(0x2ca)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x35e)]))_0x298af2[_0x319207(0x35e)]=0x0;if(!isNumber(_0x298af2['lastwarpet']))_0x298af2[_0x319207(0x182)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x36e)]))_0x298af2[_0x319207(0x36e)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x325)]))_0x298af2[_0x319207(0x325)]=0x0;if(!isNumber(_0x298af2['lastwork']))_0x298af2[_0x319207(0x3e1)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1d4)]))_0x298af2[_0x319207(0x1d4)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x204)]))_0x298af2[_0x319207(0x204)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x312)]))_0x298af2[_0x319207(0x312)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2bb)]))_0x298af2[_0x319207(0x2bb)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x19e)]))_0x298af2['leleg']=0x0;if(!isNumber(_0x298af2[_0x319207(0x2ce)]))_0x298af2['level']=0x0;if(!isNumber(_0x298af2[_0x319207(0x323)]))_0x298af2[_0x319207(0x323)]=0x14;if(!isNumber(_0x298af2[_0x319207(0x1c4)]))_0x298af2['limitjoinfree']=0x1;if(!isNumber(_0x298af2[_0x319207(0x313)]))_0x298af2[_0x319207(0x313)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2a6)]))_0x298af2[_0x319207(0x2a6)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2dc)]))_0x298af2[_0x319207(0x2dc)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2ed)]))_0x298af2['lobster']=0x0;if(!isNumber(_0x298af2['lumba']))_0x298af2[_0x319207(0x27d)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2ba)]))_0x298af2['magicwand']=0x0;if(!isNumber(_0x298af2['magicwanddurability']))_0x298af2['magicwanddurability']=0x0;if(!isNumber(_0x298af2['makanancentaur']))_0x298af2[_0x319207(0x2b1)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x278)]))_0x298af2[_0x319207(0x278)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x167)]))_0x298af2[_0x319207(0x167)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x239)]))_0x298af2[_0x319207(0x239)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x31b)]))_0x298af2[_0x319207(0x31b)]=0x0;if(!isNumber(_0x298af2['makananphonix']))_0x298af2[_0x319207(0x30a)]=0x0;if(!isNumber(_0x298af2['makananserigala']))_0x298af2[_0x319207(0x1e6)]=0x0;if(!isNumber(_0x298af2['mana']))_0x298af2['mana']=0x0;if(!isNumber(_0x298af2[_0x319207(0x2fe)]))_0x298af2[_0x319207(0x2fe)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1e4)]))_0x298af2['money']=0xf;if(!isNumber(_0x298af2[_0x319207(0x3e5)]))_0x298af2[_0x319207(0x3e5)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x250)]))_0x298af2[_0x319207(0x250)]=0x0;if(!isNumber(_0x298af2['naga']))_0x298af2[_0x319207(0x3ad)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x206)]))_0x298af2[_0x319207(0x206)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2d4)]))_0x298af2[_0x319207(0x2d4)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x29a)]))_0x298af2[_0x319207(0x29a)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2d3)]))_0x298af2[_0x319207(0x2d3)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2b4)]))_0x298af2[_0x319207(0x2b4)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x174)]))_0x298af2[_0x319207(0x174)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2e9)]))_0x298af2[_0x319207(0x2e9)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3b0)]))_0x298af2['orca']=0x0;if(!isNumber(_0x298af2[_0x319207(0x3a7)]))_0x298af2['pancing']=0x0;if(!isNumber(_0x298af2[_0x319207(0x302)]))_0x298af2[_0x319207(0x302)]=0x1;if(!isNumber(_0x298af2[_0x319207(0x3e7)]))_0x298af2['panda']=0x0;if(!isNumber(_0x298af2[_0x319207(0x380)]))_0x298af2[_0x319207(0x380)]=0x0;if(!isNumber(_0x298af2['pausbakar']))_0x298af2[_0x319207(0x2df)]=0x0;if(!isNumber(_0x298af2['pc']))_0x298af2['pc']=0x0;if(!isNumber(_0x298af2[_0x319207(0x27a)]))_0x298af2[_0x319207(0x27a)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2ae)]))_0x298af2[_0x319207(0x2ae)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x209)]))_0x298af2[_0x319207(0x209)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3ce)]))_0x298af2[_0x319207(0x3ce)]=0x0;if(!isNumber(_0x298af2['petFood']))_0x298af2[_0x319207(0x1f7)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x283)]))_0x298af2[_0x319207(0x283)]=0x0;if(!isNumber(_0x298af2['phonixexp']))_0x298af2['phonixexp']=0x0;if(!isNumber(_0x298af2[_0x319207(0x1a2)]))_0x298af2['phonixlastclaim']=0x0;if(!isNumber(_0x298af2['phonixlastfeed']))_0x298af2['phonixlastfeed']=0x0;if(!isNumber(_0x298af2[_0x319207(0x393)]))_0x298af2['pickaxe']=0x0;if(!isNumber(_0x298af2['pickaxedurability']))_0x298af2[_0x319207(0x346)]=0x0;if(!isNumber(_0x298af2['pillhero']))_0x298af2[_0x319207(0x215)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1e2)]))_0x298af2[_0x319207(0x1e2)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x376)]))_0x298af2[_0x319207(0x376)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x38e)]))_0x298af2[_0x319207(0x38e)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1ee)]))_0x298af2[_0x319207(0x1ee)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x170)]))_0x298af2['psepick']=0x0;if(!isNumber(_0x298af2[_0x319207(0x30d)]))_0x298af2['ramuan']=0x0;if(!isNumber(_0x298af2[_0x319207(0x1a0)]))_0x298af2[_0x319207(0x1a0)]=0x0;if(!isNumber(_0x298af2['ramuangriffinlast']))_0x298af2[_0x319207(0x1dd)]=0x0;if(!isNumber(_0x298af2['ramuanherolast']))_0x298af2[_0x319207(0x2c8)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x36d)]))_0x298af2[_0x319207(0x36d)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2ee)]))_0x298af2[_0x319207(0x2ee)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x226)]))_0x298af2[_0x319207(0x226)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3c8)]))_0x298af2[_0x319207(0x3c8)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3aa)]))_0x298af2[_0x319207(0x3aa)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2c3)]))_0x298af2[_0x319207(0x2c3)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1df)]))_0x298af2[_0x319207(0x1df)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x20e)]))_0x298af2[_0x319207(0x20e)]=0x0;if(!isNumber(_0x298af2['rendang']))_0x298af2[_0x319207(0x21f)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x322)]))_0x298af2[_0x319207(0x322)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x299)]))_0x298af2[_0x319207(0x299)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x353)]))_0x298af2[_0x319207(0x353)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x233)]))_0x298af2[_0x319207(0x233)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x300)]))_0x298af2[_0x319207(0x300)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x32b)]))_0x298af2[_0x319207(0x32b)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3ee)]))_0x298af2['roket']=0x0;if(!isNumber(_0x298af2[_0x319207(0x18c)]))_0x298af2[_0x319207(0x18c)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x303)]))_0x298af2[_0x319207(0x303)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1da)]))_0x298af2[_0x319207(0x1da)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x200)]))_0x298af2[_0x319207(0x200)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x28f)]))_0x298af2[_0x319207(0x28f)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x19c)]))_0x298af2[_0x319207(0x19c)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x356)]))_0x298af2[_0x319207(0x356)]=0x0;if(!isNumber(_0x298af2['sapir']))_0x298af2[_0x319207(0x231)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x23f)]))_0x298af2[_0x319207(0x23f)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x271)]))_0x298af2[_0x319207(0x271)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x228)]))_0x298af2[_0x319207(0x228)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x213)]))_0x298af2['seedkangkung']=0x0;if(!isNumber(_0x298af2[_0x319207(0x3bb)]))_0x298af2[_0x319207(0x3bb)]=0x0;if(!isNumber(_0x298af2['seedkubis']))_0x298af2[_0x319207(0x180)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x16b)]))_0x298af2[_0x319207(0x16b)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x331)]))_0x298af2['seedtomat']=0x0;if(!isNumber(_0x298af2['seedwortel']))_0x298af2[_0x319207(0x3ca)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1ae)]))_0x298af2[_0x319207(0x1ae)]=0x0;if(!isNumber(_0x298af2['serigalalastclaim']))_0x298af2[_0x319207(0x1aa)]=0x0;if(!isNumber(_0x298af2['shield']))_0x298af2['shield']=![];if(!isNumber(_0x298af2[_0x319207(0x1c2)]))_0x298af2[_0x319207(0x1c2)]=0x0;if(!isNumber(_0x298af2['snlast']))_0x298af2[_0x319207(0x210)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1c8)]))_0x298af2[_0x319207(0x1c8)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2ad)]))_0x298af2[_0x319207(0x2ad)]=0x0;if(!isNumber(_0x298af2['spammer']))_0x298af2[_0x319207(0x2f1)]=0x0;if(!isNumber(_0x298af2['spinlast']))_0x298af2['spinlast']=0x0;if(!isNumber(_0x298af2['ssapi']))_0x298af2[_0x319207(0x1dc)]=0x0;if(!isNumber(_0x298af2['stamina']))_0x298af2[_0x319207(0x26d)]=0x64;if(!isNumber(_0x298af2[_0x319207(0x2e4)]))_0x298af2[_0x319207(0x2e4)]=0x0;if(!isNumber(_0x298af2['stick']))_0x298af2['stick']=0x0;if(!isNumber(_0x298af2['strength']))_0x298af2[_0x319207(0x267)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x330)]))_0x298af2['string']=0x0;if(!isNumber(_0x298af2[_0x319207(0x39b)]))_0x298af2[_0x319207(0x39b)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2bf)]))_0x298af2[_0x319207(0x2bf)]=0x0;if(!isNumber(_0x298af2['sushi']))_0x298af2[_0x319207(0x2ac)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3c6)]))_0x298af2[_0x319207(0x3c6)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x17d)]))_0x298af2['sworddurability']=0x0;if(!isNumber(_0x298af2['tigame']))_0x298af2[_0x319207(0x2dd)]=0x32;if(!isNumber(_0x298af2[_0x319207(0x1cf)]))_0x298af2[_0x319207(0x1cf)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x178)]))_0x298af2[_0x319207(0x178)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x2a9)]))_0x298af2[_0x319207(0x2a9)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x343)]))_0x298af2[_0x319207(0x343)]=0x0;if(!isNumber(_0x298af2['trash']))_0x298af2[_0x319207(0x383)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1c1)]))_0x298af2['trofi']=0x0;if(!isNumber(_0x298af2[_0x319207(0x164)]))_0x298af2['troopcamp']=0x0;if(!isNumber(_0x298af2[_0x319207(0x334)]))_0x298af2[_0x319207(0x334)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x33e)]))_0x298af2[_0x319207(0x33e)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3c0)]))_0x298af2[_0x319207(0x3c0)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x28b)]))_0x298af2[_0x319207(0x28b)]=0x0;if(!isNumber(_0x298af2['uncoommon']))_0x298af2[_0x319207(0x19a)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x192)]))_0x298af2[_0x319207(0x192)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x309)]))_0x298af2[_0x319207(0x309)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x34e)]))_0x298af2[_0x319207(0x34e)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1bd)]))_0x298af2[_0x319207(0x1bd)]=0x0;if(!isNumber(_0x298af2['warn']))_0x298af2['warn']=0x0;if(!isNumber(_0x298af2[_0x319207(0x273)]))_0x298af2[_0x319207(0x273)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x1e3)]))_0x298af2[_0x319207(0x1e3)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x229)]))_0x298af2[_0x319207(0x229)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x3e6)]))_0x298af2['wolfexp']=0x0;if(!isNumber(_0x298af2[_0x319207(0x32d)]))_0x298af2[_0x319207(0x32d)]=0x0;if(!isNumber(_0x298af2[_0x319207(0x375)]))_0x298af2['wood']=0x0;if(!isNumber(_0x298af2[_0x319207(0x220)]))_0x298af2['wortel']=0x0;if(!_0x298af2[_0x319207(0x305)])_0x298af2[_0x319207(0x305)]=_0x319207(0x2fb);if(!_0x298af2[_0x319207(0x25f)])_0x298af2[_0x319207(0x25f)]=_0x319207(0x168);if(!_0x298af2['premium'])_0x298af2[_0x319207(0x2f3)]=![];if(!_0x298af2[_0x319207(0x2f3)])_0x298af2['premiumTime']=0x0;if(!_0x298af2[_0x319207(0x38c)])_0x298af2[_0x319207(0x38c)]=0x0;if(!_0x298af2[_0x319207(0x23c)])_0x298af2[_0x319207(0x23c)]='Bronce';}else global['db']['data'][_0x319207(0x163)][_0x2657e3[_0x319207(0x364)]]={'afk':-0x1,'wait':0x0,'afkReason':'','age':-0x1,'agility':0x10,'anakanjing':0x0,'anakcentaur':0x0,'anakgriffin':0x0,'anakkucing':0x0,'anakkuda':0x0,'anakkyubi':0x0,'anaknaga':0x0,'anakpancingan':0x0,'anakphonix':0x0,'anakrubah':0x0,'anakserigala':0x0,'anggur':0x0,'anjing':0x0,'anjinglastclaim':0x0,'antispam':0x0,'antispamlastclaim':0x0,'apel':0x0,'aqua':0x0,'arc':0x0,'arcdurability':0x0,'arlok':0x0,'armor':0x0,'armordurability':0x0,'armormonster':0x0,'as':0x0,'atm':0x0,'autolevelup':!![],'axe':0x0,'axedurability':0x0,'ayam':0x0,'ayamb':0x0,'ayambakar':0x0,'ayamg':0x0,'ayamgoreng':0x0,'babi':0x0,'babihutan':0x0,'babipanggang':0x0,'bandage':0x0,'bank':0x0,'banned':![],'BannedReason':'','Banneduser':![],'banteng':0x0,'batu':0x0,'bawal':0x0,'bawalbakar':0x0,'bayam':0x0,'berlian':0xa,'bibitanggur':0x0,'bibitapel':0x0,'bibitjeruk':0x0,'bibitmangga':0x0,'bibitpisang':0x0,'botol':0x0,'bow':0x0,'bowdurability':0x0,'boxs':0x0,'brick':0x0,'brokoli':0x0,'buaya':0x0,'buntal':0x0,'cat':0x0,'catlastfeed':0x0,'catngexp':0x0,'centaur':0x0,'centaurexp':0x0,'centaurlastclaim':0x0,'centaurlastfeed':0x0,'clay':0x0,'coal':0x0,'coin':0x0,'common':0x0,'crystal':0x0,'cumi':0x0,'cupon':0x0,'diamond':0x3,'dog':0x0,'dogexp':0x0,'doglastfeed':0x0,'dory':0x0,'dragon':0x0,'dragonexp':0x0,'dragonlastfeed':0x0,'emas':0x0,'emerald':0x0,'esteh':0x0,'exp':0x0,'expg':0x0,'exphero':0x0,'expired':0x0,'eleksirb':0x0,'emasbatang':0x0,'emasbiasa':0x0,'fideos':0x0,'fishingrod':0x0,'fishingroddurability':0x0,'fortress':0x0,'fox':0x0,'foxexp':0x0,'foxlastfeed':0x0,'fullatm':0x0,'gadodado':0x0,'gajah':0x0,'gamemines':![],'ganja':0x0,'gardenboxs':0x0,'gems':0x0,'glass':0x0,'gold':0x0,'griffin':0x0,'griffinexp':0x0,'griffinlastclaim':0x0,'griffinlastfeed':0x0,'gulai':0x0,'gurita':0x0,'harimau':0x0,'haus':0x64,'healt':0x64,'health':0x64,'healtmonster':0x64,'hero':0x1,'herolastclaim':0x0,'hiu':0x0,'horse':0x0,'horseexp':0x0,'horselastfeed':0x0,'ikan':0x0,'ikanbakar':0x0,'intelligence':0xa,'iron':0x0,'jagung':0x0,'jagungbakar':0x0,'jeruk':0x0,'job':'Pengangguran','joincount':0x2,'joinlimit':0x1,'judilast':0x0,'kaleng':0x0,'kambing':0x0,'kangkung':0x0,'kapak':0x0,'kardus':0x0,'katana':0x0,'katanadurability':0x0,'kayu':0x0,'kentang':0x0,'kentanggoreng':0x0,'kepiting':0x0,'kepitingbakar':0x0,'kerbau':0x0,'kerjadelapan':0x0,'kerjadelapanbelas':0x0,'kerjadua':0x0,'kerjaduabelas':0x0,'kerjaduadelapan':0x0,'kerjaduadua':0x0,'kerjaduaempat':0x0,'kerjaduaenam':0x0,'kerjadualima':0x0,'kerjaduapuluh':0x0,'kerjaduasatu':0x0,'kerjaduasembilan':0x0,'kerjaduatiga':0x0,'kerjaduatujuh':0x0,'kerjaempat':0x0,'kerjaempatbelas':0x0,'kerjaenam':0x0,'kerjaenambelas':0x0,'kerjalima':0x0,'kerjalimabelas':0x0,'kerjasatu':0x0,'kerjasebelas':0x0,'kerjasembilan':0x0,'kerjasembilanbelas':0x0,'kerjasepuluh':0x0,'kerjatiga':0x0,'kerjatigabelas':0x0,'kerjatigapuluh':0x0,'kerjatujuh':0x0,'kerjatujuhbelas':0x0,'korbanngocok':0x0,'kubis':0x0,'kucing':0x0,'kucinglastclaim':0x0,'kuda':0x0,'kudalastclaim':0x0,'kumba':0x0,'kyubi':0x0,'kyubilastclaim':0x0,'labu':0x0,'laper':0x64,'lastadventure':0x0,'lastberbru':0x0,'lastberkebon':0x0,'lastbunga':0x0,'lastbunuhi':0x0,'lastcoins':0x0,'lastclaim':0x0,'lastcode':0x0,'lastcofre':0x0,'lastcrusade':0x0,'lastdaang':0x0,'lastdagang':0x0,'lastdiamantes':0x0,'lastduel':0x0,'lastdungeon':0x0,'lasteasy':0x0,'lastfight':0x0,'lastfishing':0x0,'lastgojek':0x0,'lastgrab':0x0,'lasthourly':0x0,'lasthunt':0x0,'lastjb':0x0,'lastkill':0x0,'lastlink':0x0,'lastlumber':0x0,'lastmancingeasy':0x0,'lastmancingextreme':0x0,'lastmancinghard':0x0,'lastmancingnormal':0x0,'lastmining':0x0,'lastmisi':0x0,'lastmonthly':0x0,'lastmulung':0x0,'lastnambang':0x0,'lastnebang':0x0,'lastngocok':0x0,'lastngojek':0x0,'lastopen':0x0,'lastpekerjaan':0x0,'lastpago':0x0,'lastpotionclaim':0x0,'lastramuanclaim':0x0,'lastspam':0x0,'lastrob':0x0,'lastroket':0x0,'lastseen':0x0,'lastSetStatus':0x0,'lastsironclaim':0x0,'lastsmancingclaim':0x0,'laststringclaim':0x0,'lastswordclaim':0x0,'lastturu':0x0,'lastwarpet':0x0,'lastweaponclaim':0x0,'lastweekly':0x0,'lastwork':0x0,'lbars':_0x319207(0x2fb),'legendary':0x0,'lele':0x0,'leleb':0x0,'lelebakar':0x0,'leleg':0x0,'level':0x0,'limit':0x14,'limitjoinfree':0x1,'lion':0x0,'lionexp':0x0,'lionlastfeed':0x0,'lobster':0x0,'lumba':0x0,'magicwand':0x0,'magicwanddurability':0x0,'makanan':0x0,'makanancentaur':0x0,'makanangriffin':0x0,'makanankyubi':0x0,'makanannaga':0x0,'makananpet':0x0,'makananphonix':0x0,'makananserigala':0x0,'mana':0x14,'mangga':0x0,'misi':'','money':0xf,'monyet':0x0,'mythic':0x0,'naga':0x0,'nagalastclaim':0x0,'name':_0x2657e3[_0x319207(0x291)],'net':0x0,'nila':0x0,'nilabakar':0x0,'note':0x0,'ojekk':0x0,'oporayam':0x0,'orca':0x0,'pancingan':0x1,'panda':0x0,'pasangan':'','paus':0x0,'pausbakar':0x0,'pc':0x0,'pepesikan':0x0,'pet':0x0,'phonix':0x0,'phonixexp':0x0,'phonixlastclaim':0x0,'phonixlastfeed':0x0,'pickaxe':0x0,'pickaxedurability':0x0,'pillhero':0x0,'pisang':0x0,'pointxp':0x0,'potion':0xa,'premium':![],'premiumTime':0x0,'ramuan':0x0,'ramuancentaurlast':0x0,'ramuangriffinlast':0x0,'ramuanherolast':0x0,'ramuankucinglast':0x0,'ramuankudalast':0x0,'ramuankyubilast':0x0,'ramuannagalast':0x0,'ramuanphonixlast':0x0,'ramuanrubahlast':0x0,'ramuanserigalalast':0x0,'registered':![],'reglast':0x0,'regTime':-0x1,'rendang':0x0,'rhinoceros':0x0,'rhinocerosexp':0x0,'rhinoceroslastfeed':0x0,'rock':0x0,'roket':0x0,'role':'Novato','roti':0x0,'rtrofi':'bronce','rubah':0x0,'rubahlastclaim':0x0,'rumahsakit':0x0,'sampah':0x0,'sand':0x0,'sapi':0x0,'sapir':0x0,'seedbayam':0x0,'seedbrokoli':0x0,'seedjagung':0x0,'seedkangkung':0x0,'seedkentang':0x0,'seedkubis':0x0,'seedlabu':0x0,'seedtomat':0x0,'seedwortel':0x0,'semangka':0x0,'serigala':0x0,'serigalalastclaim':0x0,'sewa':![],'shield':0x0,'skill':'','skillexp':0x0,'snlast':0x0,'soda':0x0,'sop':0x0,'spammer':0x0,'spinlast':0x0,'ssapi':0x0,'stamina':0x64,'steak':0x0,'stick':0x0,'strength':0x1e,'string':0x0,'stroberi':0x0,'superior':0x0,'suplabu':0x0,'sushi':0x0,'sword':0x0,'sworddurability':0x0,'tigame':0x32,'tiketcoin':0x0,'title':'','tomat':0x0,'tprem':0x0,'trash':0x0,'trofi':0x0,'troopcamp':0x0,'tumiskangkung':0x0,'udang':0x0,'udangbakar':0x0,'umpan':0x0,'uncoommon':0x0,'unreglast':0x0,'upgrader':0x0,'vodka':0x0,'wallet':0x0,'warn':0x0,'weapon':0x0,'weapondurability':0x0,'wolf':0x0,'wolfexp':0x0,'wolflastfeed':0x0,'wood':0x0,'wortel':0x0};const _0x96bf7f=global['db'][_0x319207(0x24e)][_0x319207(0x163)][_0x2657e3[_0x319207(0x364)]][_0x319207(0x2d9)];typeof _0x96bf7f!=='object'&&(global['db'][_0x319207(0x24e)][_0x319207(0x163)][_0x2657e3['sender']][_0x319207(0x2d9)]={});if(_0x96bf7f){if(!('sesi'in _0x96bf7f))_0x96bf7f[_0x319207(0x2c9)]=![];if(!(_0x319207(0x1a5)in _0x96bf7f))_0x96bf7f[_0x319207(0x1a5)]=null;if(!(_0x319207(0x22b)in _0x96bf7f))_0x96bf7f['frontaddr']=null;if(!(_0x319207(0x362)in _0x96bf7f))_0x96bf7f[_0x319207(0x362)]=null;if(!(_0x319207(0x23b)in _0x96bf7f))_0x96bf7f['signature']=null;if(!(_0x319207(0x3c3)in _0x96bf7f))_0x96bf7f[_0x319207(0x3c3)]=null;if(!(_0x319207(0x2b3)in _0x96bf7f))_0x96bf7f[_0x319207(0x2b3)]=null;if(!(_0x319207(0x2cd)in _0x96bf7f))_0x96bf7f[_0x319207(0x2cd)]=null;if(!(_0x319207(0x2f7)in _0x96bf7f))_0x96bf7f[_0x319207(0x2f7)]=null;}else global['db'][_0x319207(0x24e)][_0x319207(0x163)][_0x2657e3[_0x319207(0x364)]][_0x319207(0x2d9)]={'sesi':![],'server':null,'frontaddr':null,'session':null,'signature':null,'question':null,'progression':null,'step':null,'soal':null};const _0x2bdd0d=global['db'][_0x319207(0x24e)][_0x319207(0x373)][_0x2657e3['chat']];typeof _0x2bdd0d!==_0x319207(0x2e5)&&(global['db'][_0x319207(0x24e)]['chats'][_0x2657e3[_0x319207(0x2a4)]]={});if(_0x2bdd0d){if(!(_0x319207(0x15f)in _0x2bdd0d))_0x2bdd0d[_0x319207(0x15f)]=![];if(!('welcome'in _0x2bdd0d))_0x2bdd0d[_0x319207(0x3cc)]=!![];if(!(_0x319207(0x3a3)in _0x2bdd0d))_0x2bdd0d[_0x319207(0x3a3)]=!![];if(!('detect2'in _0x2bdd0d))_0x2bdd0d[_0x319207(0x235)]=![];if(!('sWelcome'in _0x2bdd0d))_0x2bdd0d[_0x319207(0x390)]='';if(!(_0x319207(0x3c9)in _0x2bdd0d))_0x2bdd0d[_0x319207(0x3c9)]='';if(!(_0x319207(0x280)in _0x2bdd0d))_0x2bdd0d[_0x319207(0x280)]='';if(!(_0x319207(0x21d)in _0x2bdd0d))_0x2bdd0d['sDemote']='';if(!(_0x319207(0x329)in _0x2bdd0d))_0x2bdd0d[_0x319207(0x274)]=![];if(!(_0x319207(0x22a)in _0x2bdd0d))_0x2bdd0d['modohorny']=![];if(!('autosticker'in _0x2bdd0d))_0x2bdd0d[_0x319207(0x348)]=![];if(!(_0x319207(0x17e)in _0x2bdd0d))_0x2bdd0d[_0x319207(0x17e)]=![];if(!('antiLink'in _0x2bdd0d))_0x2bdd0d[_0x319207(0x363)]=![];if(!('antiLink2'in _0x2bdd0d))_0x2bdd0d[_0x319207(0x388)]=![];if(!(_0x319207(0x3b4)in _0x2bdd0d))_0x2bdd0d[_0x319207(0x3b4)]=![];if(!(_0x319207(0x374)in _0x2bdd0d))_0x2bdd0d['antiToxic']=![];if(!(_0x319207(0x37b)in _0x2bdd0d))_0x2bdd0d[_0x319207(0x37b)]=![];if(!(_0x319207(0x31e)in _0x2bdd0d))_0x2bdd0d[_0x319207(0x31e)]=![];if(!(_0x319207(0x2a3)in _0x2bdd0d))_0x2bdd0d['antiArab2']=![];if(!(_0x319207(0x224)in _0x2bdd0d))_0x2bdd0d[_0x319207(0x224)]=![];if(!('game'in _0x2bdd0d))_0x2bdd0d[_0x319207(0x1cd)]=!![];if(!(_0x319207(0x287)in _0x2bdd0d))_0x2bdd0d['modoadmin']=![];if(!(_0x319207(0x38f)in _0x2bdd0d))_0x2bdd0d[_0x319207(0x38f)]=![];if(!isNumber(_0x2bdd0d['expired']))_0x2bdd0d[_0x319207(0x282)]=0x0;}else global['db']['data']['chats'][_0x2657e3[_0x319207(0x2a4)]]={'isBanned':![],'welcome':!![],'detect':!![],'detect2':![],'sWelcome':'','sBye':'','sPromote':'','sDemote':'','antidelete':![],'modohorny':!![],'autosticker':![],'audios':![],'antiLink':![],'antiLink2':![],'antiviewonce':![],'antiToxic':![],'antiTraba':![],'antiArab':![],'antiArab2':![],'antiporno':![],'modoadmin':![],'simi':![],'game':!![],'expired':0x0};const _0x21aa5c=global['db']['data'][_0x319207(0x314)][this['user']['jid']];if(typeof _0x21aa5c!=='object')global['db'][_0x319207(0x24e)][_0x319207(0x314)][this[_0x319207(0x207)]['jid']]={};if(_0x21aa5c){if(!('self'in _0x21aa5c))_0x21aa5c[_0x319207(0x294)]=![];if(!(_0x319207(0x2bc)in _0x21aa5c))_0x21aa5c['autoread']=![];if(!(_0x319207(0x256)in _0x21aa5c))_0x21aa5c['autoread2']=![];if(!(_0x319207(0x1ac)in _0x21aa5c))_0x21aa5c['restrict']=![];if(!(_0x319207(0x3a2)in _0x21aa5c))_0x21aa5c[_0x319207(0x3a2)]=![];if(!(_0x319207(0x199)in _0x21aa5c))_0x21aa5c[_0x319207(0x199)]=![];if(!('modejadibot'in _0x21aa5c))_0x21aa5c[_0x319207(0x33b)]=!![];if(!(_0x319207(0x17b)in _0x21aa5c))_0x21aa5c[_0x319207(0x17b)]=![];if(!(_0x319207(0x25d)in _0x21aa5c))_0x21aa5c[_0x319207(0x25d)]=![];if(!(_0x319207(0x179)in _0x21aa5c))_0x21aa5c[_0x319207(0x179)]=![];}else global['db']['data']['settings'][this[_0x319207(0x207)][_0x319207(0x379)]]={'self':![],'autoread':![],'autoread2':![],'restrict':![],'antiCall':![],'antiPrivate':![],'modejadibot':!![],'antispam':![],'audios_bot':![],'modoia':![]};}catch(_0x15b28b){console[_0x319207(0x39d)](_0x15b28b);}if(opts[_0x319207(0x29d)])return;if(!_0x2657e3['fromMe']&&opts['self'])return;if(opts[_0x319207(0x336)]&&_0x2657e3['chat'][_0x319207(0x2e1)](_0x319207(0x2c0)))return;if(opts[_0x319207(0x2d1)]&&!_0x2657e3[_0x319207(0x2a4)][_0x319207(0x2e1)](_0x319207(0x2c0)))return;if(opts[_0x319207(0x225)]&&_0x2657e3['chat']!==_0x319207(0x347))return;typeof _0x2657e3['text']!=='string'&&(_0x2657e3[_0x319207(0x29c)]='');const _0x3ba6f0=[conn[_0x319207(0x1a9)](global[_0x319207(0x3d0)][_0x319207(0x207)]['id']),...global[_0x319207(0x324)][_0x319207(0x292)](([_0x1b1d94])=>_0x1b1d94)]['map'](_0x448a4f=>_0x448a4f[_0x319207(0x366)](/[^0-9]/g,'')+_0x319207(0x35a));let _0x208d30=_0x3ba6f0[_0x319207(0x2b0)](_0x2657e3['sender'])||_0x2657e3[_0x319207(0x34c)];const _0x50aca1=_0x208d30||_0x2657e3['fromMe'],_0x5b4c0e=_0x50aca1||global[_0x319207(0x1f2)][_0x319207(0x292)](_0x2d4653=>_0x2d4653['replace'](/[^0-9]/g,'')+_0x319207(0x35a))[_0x319207(0x2b0)](_0x2657e3['sender']),_0x144868=_0x208d30||_0x50aca1||_0x5b4c0e||global['db'][_0x319207(0x24e)][_0x319207(0x163)][_0x2657e3[_0x319207(0x364)]]['premiumTime']>0x0;if(opts[_0x319207(0x392)]&&_0x2657e3['text']&&!(_0x5b4c0e||_0x144868)){const _0xf17a19=this[_0x319207(0x1a6)],_0x30625a=0x3e8*0x5,_0x4cfd81=_0xf17a19[_0xf17a19['length']-0x1];_0xf17a19['push'](_0x2657e3['id']||_0x2657e3['key']['id']);const _0x372f72=setInterval(async function(){const _0x1edf33=_0x319207;if(_0xf17a19[_0x1edf33(0x208)](_0x4cfd81)===-0x1)clearInterval(_0x372f72);await delay(_0x30625a);},_0x30625a);}if(_0x2657e3[_0x319207(0x190)])return;_0x2657e3[_0x319207(0x2c4)]+=Math[_0x319207(0x1fd)](Math[_0x319207(0x3d8)]()*0xa);let _0x5490bc;const _0x376329=global['db'][_0x319207(0x24e)]&&global['db'][_0x319207(0x24e)][_0x319207(0x163)]&&global['db'][_0x319207(0x24e)][_0x319207(0x163)][_0x2657e3['sender']],_0x3f1d66=_0x2657e3[_0x319207(0x20d)]?conn[_0x319207(0x373)][_0x2657e3['chat']]?.[_0x319207(0x1f5)]||await this[_0x319207(0x3df)](_0x2657e3[_0x319207(0x2a4)])['catch'](_0x4587ea=>null)||{}:{},_0x5d6703=_0x3f1d66[_0x319207(0x31d)]||[],_0x361d26=_0x5d6703[_0x319207(0x269)](_0xdd25a1=>conn[_0x319207(0x1a9)](_0xdd25a1['id'])===_0x2657e3[_0x319207(0x364)]||_0xdd25a1['id']===_0x2657e3['sender']||_0xdd25a1[_0x319207(0x370)]===_0x2657e3[_0x319207(0x364)])||{},_0x35412a=_0x5d6703[_0x319207(0x269)](_0x201abd=>conn[_0x319207(0x1a9)](_0x201abd['id'])===this[_0x319207(0x207)][_0x319207(0x379)]||_0x201abd['id']===this['user'][_0x319207(0x379)])||{},_0x875483=_0x5d6703[_0x319207(0x269)](_0x31c908=>_0x3ba6f0[_0x319207(0x2b0)](conn['decodeJid'](_0x31c908['id']))&&_0x31c908[_0x319207(0x370)]===_0x2657e3['sender']);if(_0x875483)_0x208d30=!![];const _0x1cc614=_0x58f814=>{const _0x2e04da=_0x319207;if(!_0x58f814)return _0x58f814;if(_0x58f814[_0x2e04da(0x2e1)](_0x2e04da(0x35a)))return _0x58f814;const _0x5ef3af=_0x5d6703['find'](_0x1335e4=>_0x1335e4[_0x2e04da(0x370)]===_0x58f814||_0x1335e4[_0x2e04da(0x370)]&&conn[_0x2e04da(0x1a9)](_0x1335e4['lid'])===_0x58f814);if(_0x5ef3af)return conn[_0x2e04da(0x1a9)](_0x5ef3af['id']);const _0x2b4189=_0x58f814[_0x2e04da(0x344)]('@')[0x0][_0x2e04da(0x344)](':')[0x0],_0xd6ff4f=_0x5d6703[_0x2e04da(0x269)](_0x3e09ba=>conn[_0x2e04da(0x1a9)](_0x3e09ba['id'])[_0x2e04da(0x344)]('@')[0x0]===_0x2b4189);if(_0xd6ff4f)return conn[_0x2e04da(0x1a9)](_0xd6ff4f['id']);return _0x58f814;};if(_0x2657e3['isGroup']&&_0x5d6703[_0x319207(0x2fd)]>0x0)try{const _0x2c4fb3=global['db'][_0x319207(0x24e)][_0x319207(0x163)];for(const _0x19556c of Object[_0x319207(0x293)](_0x2c4fb3)){if(!_0x19556c[_0x319207(0x2e1)](_0x319207(0x3c7)))continue;const _0x4d57ec=_0x1cc614(_0x19556c);if(!_0x4d57ec||_0x4d57ec===_0x19556c||!_0x4d57ec['endsWith'](_0x319207(0x35a)))continue;if(!_0x2c4fb3[_0x4d57ec])_0x2c4fb3[_0x4d57ec]=_0x2c4fb3[_0x19556c];else for(const _0x1806e2 of Object[_0x319207(0x293)](_0x2c4fb3[_0x19556c])){if(_0x2c4fb3[_0x4d57ec][_0x1806e2]===undefined)_0x2c4fb3[_0x4d57ec][_0x1806e2]=_0x2c4fb3[_0x19556c][_0x1806e2];}_0x2c4fb3[_0x19556c]=_0x2c4fb3[_0x4d57ec];}}catch(_0x3bebb2){}const _0xa73fed=_0x361d26?.['admin']==_0x319207(0x3d9)||![],_0x40bbe2=_0xa73fed||_0x361d26?.['admin']==_0x319207(0x3d4)||![],_0x5bf529=_0x35412a?.[_0x319207(0x3d4)]==='superadmin'||_0x35412a?.[_0x319207(0x3d4)]===_0x319207(0x3d4)||![],_0x3a2d77=_0x31184e['join'](_0x31184e[_0x319207(0x296)](fileURLToPath(import.meta.url)),'./plugins');for(const _0x227ddf in global[_0x319207(0x1b0)]){const _0x467f3b=global['plugins'][_0x227ddf];if(!_0x467f3b)continue;if(_0x467f3b[_0x319207(0x1d1)])continue;const _0x3e0454=join(_0x3a2d77,_0x227ddf);if(typeof _0x467f3b[_0x319207(0x3dc)]==='function')try{await _0x467f3b[_0x319207(0x3dc)][_0x319207(0x326)](this,_0x2657e3,{'chatUpdate':_0x393f02,'__dirname':_0x3a2d77,'__filename':_0x3e0454});}catch(_0x439f75){console[_0x319207(0x39d)](_0x439f75);}if(!opts['restrict']){if(_0x467f3b[_0x319207(0x16d)]&&_0x467f3b[_0x319207(0x16d)]['includes']('admin'))continue;}const _0x3a9412=_0x51cb27=>_0x51cb27['replace'](/[|\\{}()[\]^$+*?.]/g,_0x319207(0x28d)),_0x114b81=_0x467f3b[_0x319207(0x188)]?_0x467f3b[_0x319207(0x188)]:conn[_0x319207(0x360)]?conn[_0x319207(0x360)]:global[_0x319207(0x360)],_0x2ce937=(_0x114b81 instanceof RegExp?[[_0x114b81[_0x319207(0x259)](_0x2657e3[_0x319207(0x29c)]),_0x114b81]]:Array[_0x319207(0x260)](_0x114b81)?_0x114b81['map'](_0x4c6e23=>{const _0x6e8d0a=_0x319207,_0x32c8ec=_0x4c6e23 instanceof RegExp?_0x4c6e23:new RegExp(_0x3a9412(_0x4c6e23));return[_0x32c8ec[_0x6e8d0a(0x259)](_0x2657e3[_0x6e8d0a(0x29c)]),_0x32c8ec];}):typeof _0x114b81===_0x319207(0x330)?[[new RegExp(_0x3a9412(_0x114b81))[_0x319207(0x259)](_0x2657e3[_0x319207(0x29c)]),new RegExp(_0x3a9412(_0x114b81))]]:[[[],new RegExp()]])[_0x319207(0x269)](_0x44b2ad=>_0x44b2ad[0x1]);if(typeof _0x467f3b[_0x319207(0x242)]==='function'){if(await _0x467f3b[_0x319207(0x242)][_0x319207(0x326)](this,_0x2657e3,{'match':_0x2ce937,'conn':this,'participants':_0x5d6703,'groupMetadata':_0x3f1d66,'user':_0x361d26,'bot':_0x35412a,'isROwner':_0x208d30,'isOwner':_0x50aca1,'isRAdmin':_0xa73fed,'isAdmin':_0x40bbe2,'isBotAdmin':_0x5bf529,'isPrems':_0x144868,'chatUpdate':_0x393f02,'__dirname':_0x3a2d77,'__filename':_0x3e0454}))continue;}if(typeof _0x467f3b!==_0x319207(0x34f))continue;if(_0x5490bc=(_0x2ce937[0x0]||'')[0x0]){const _0x487913=_0x2657e3['text'][_0x319207(0x366)](_0x5490bc,'');let [_0x1cd682,..._0x331a8b]=_0x487913[_0x319207(0x16f)]()[_0x319207(0x344)]` `[_0x319207(0x310)](_0x2f42f2=>_0x2f42f2);_0x331a8b=_0x331a8b||[];const _0x4078dc=_0x487913[_0x319207(0x16f)]()[_0x319207(0x344)]` `['slice'](0x1);let _0x354694=_0x4078dc[_0x319207(0x1ad)]` `;_0x5d6703[_0x319207(0x2fd)]>0x0&&_0x354694['includes']('@')&&(_0x354694=_0x354694[_0x319207(0x366)](/@([0-9][0-9:]*)/g,(_0x52e3f5,_0x560e68)=>{const _0x54349e=_0x319207,_0x44a8d2=_0x560e68[_0x54349e(0x344)](':')[0x0],_0x5875da=_0x5d6703[_0x54349e(0x269)](_0x36fb63=>{const _0x27d6a0=_0x54349e;if(!_0x36fb63[_0x27d6a0(0x370)])return![];const _0x17a500=_0x36fb63['lid'][_0x27d6a0(0x344)]('@')[0x0][_0x27d6a0(0x344)](':')[0x0];return _0x17a500===_0x44a8d2||_0x36fb63[_0x27d6a0(0x370)][_0x27d6a0(0x344)]('@')[0x0]===_0x560e68;});if(_0x5875da)return'@'+conn[_0x54349e(0x1a9)](_0x5875da['id'])[_0x54349e(0x344)]('@')[0x0];return _0x52e3f5;}));_0x1cd682=(_0x1cd682||'')[_0x319207(0x39a)]();const _0x435475=_0x467f3b[_0x319207(0x19f)]||global[_0x319207(0x1fa)],_0x2605aa=_0x467f3b['command']instanceof RegExp?_0x467f3b['command'][_0x319207(0x266)](_0x1cd682):Array[_0x319207(0x260)](_0x467f3b[_0x319207(0x37f)])?_0x467f3b[_0x319207(0x37f)][_0x319207(0x399)](_0x5c7600=>_0x5c7600 instanceof RegExp?_0x5c7600['test'](_0x1cd682):_0x5c7600===_0x1cd682):typeof _0x467f3b[_0x319207(0x37f)]===_0x319207(0x330)?_0x467f3b[_0x319207(0x37f)]===_0x1cd682:![];if(!_0x2605aa)continue;_0x2657e3['plugin']=_0x227ddf;if(_0x2657e3['chat']in global['db'][_0x319207(0x24e)][_0x319207(0x373)]||_0x2657e3[_0x319207(0x364)]in global['db'][_0x319207(0x24e)]['users']){const _0x1919c1=global['db'][_0x319207(0x24e)][_0x319207(0x373)][_0x2657e3[_0x319207(0x2a4)]],_0x1ffe25=global['db'][_0x319207(0x24e)]['users'][_0x2657e3['sender']],_0xb3ef87=global['db'][_0x319207(0x24e)][_0x319207(0x314)][mconn[_0x319207(0x3d0)]['user'][_0x319207(0x379)]];if(![_0x319207(0x319),_0x319207(0x2a2)]['includes'](_0x227ddf)&&_0x1919c1&&_0x1919c1?.[_0x319207(0x15f)]&&!_0x208d30)return;if(_0x227ddf!='owner-unbanchat.js'&&_0x227ddf!=_0x319207(0x338)&&_0x227ddf!=_0x319207(0x16a)&&_0x1919c1?.[_0x319207(0x15f)]&&!_0x208d30)return;if(_0x2657e3[_0x319207(0x29c)]&&_0x1ffe25['banned']&&!_0x208d30){typeof _0x1ffe25[_0x319207(0x251)]===_0x319207(0x3b5)&&(_0x1ffe25[_0x319207(0x251)]=0x0);if(_0x1ffe25[_0x319207(0x251)]<0x3){const _0x4d7b6a=_0x1ffe25[_0x319207(0x251)]+0x1,_0x4c0e2d=('*USUARIO\x20SUSPENDIDO*_\x0a\x0a\x20▢\x20*Aviso:*\x20'+_0x4d7b6a+_0x319207(0x22f)+(_0x1ffe25[_0x319207(0x35b)]?_0x319207(0x177)+_0x1ffe25[_0x319207(0x35b)]:_0x319207(0x3cd))+_0x319207(0x3a9))[_0x319207(0x16f)]();_0x2657e3[_0x319207(0x262)](_0x4c0e2d),_0x1ffe25[_0x319207(0x251)]++;}else{if(_0x1ffe25[_0x319207(0x251)]===0x3)_0x1ffe25[_0x319207(0x18e)]=!![];else return;}return;}if(_0xb3ef87[_0x319207(0x17b)]&&_0x2657e3[_0x319207(0x29c)]&&_0x1ffe25&&_0x1ffe25[_0x319207(0x255)]&&Date['now']()-_0x1ffe25['lastCommandTime']<0x1388&&!_0x208d30){if(_0x1ffe25['commandCount']===0x2){const _0x8d4e4=Math[_0x319207(0x1fd)]((_0x1ffe25[_0x319207(0x255)]+0x1388-Date[_0x319207(0x286)]())/0x3e8);if(_0x8d4e4>0x0){const _0x1e5160=_0x319207(0x205)+_0x8d4e4+_0x319207(0x3d1);_0x2657e3[_0x319207(0x262)](_0x1e5160);return;}else _0x1ffe25[_0x319207(0x371)]=0x0;}else _0x1ffe25['commandCount']+=0x1;}else _0x1ffe25[_0x319207(0x255)]=Date[_0x319207(0x286)](),_0x1ffe25['commandCount']=0x1;}const _0x34265a=_0x114b81,_0xcf5767=global['db']['data'][_0x319207(0x373)][_0x2657e3['chat']]['modoadmin'],_0xfbe70d=''+(_0x467f3b[_0x319207(0x1a7)]||_0x467f3b[_0x319207(0x3d4)]||_0x467f3b[_0x319207(0x1c6)]||_0x467f3b||_0x487913||_0x34265a||_0x2657e3[_0x319207(0x29c)]['slice'](0x0,0x1)==_0x34265a||_0x467f3b[_0x319207(0x37f)]);if(_0xcf5767&&!_0x50aca1&&!_0x208d30&&_0x2657e3['isGroup']&&!_0x40bbe2&&_0xfbe70d)return;if(_0x467f3b['rowner']&&_0x467f3b[_0x319207(0x324)]&&!(_0x208d30||_0x50aca1)){_0x435475(_0x319207(0x324),_0x2657e3,this);continue;}if(_0x467f3b[_0x319207(0x1ba)]&&!_0x208d30){_0x435475(_0x319207(0x1ba),_0x2657e3,this);continue;}if(_0x467f3b[_0x319207(0x324)]&&!_0x50aca1){_0x435475('owner',_0x2657e3,this);continue;}if(_0x467f3b['mods']&&!_0x5b4c0e){_0x435475(_0x319207(0x1f2),_0x2657e3,this);continue;}if(_0x467f3b[_0x319207(0x2f3)]&&!_0x144868){_0x435475('premium',_0x2657e3,this);continue;}if(_0x467f3b[_0x319207(0x1c6)]&&!_0x2657e3['isGroup']){_0x435475(_0x319207(0x1c6),_0x2657e3,this);continue;}else{if(_0x467f3b['botAdmin']&&!_0x5bf529){_0x435475(_0x319207(0x1a7),_0x2657e3,this);continue;}else{if(_0x467f3b[_0x319207(0x3d4)]&&!_0x40bbe2){_0x435475(_0x319207(0x3d4),_0x2657e3,this);continue;}}}if(_0x467f3b[_0x319207(0x386)]&&_0x2657e3[_0x319207(0x20d)]){_0x435475(_0x319207(0x386),_0x2657e3,this);continue;}if(_0x467f3b[_0x319207(0x3ed)]==!![]&&_0x376329[_0x319207(0x31a)]==![]){_0x435475('unreg',_0x2657e3,this);continue;}_0x2657e3[_0x319207(0x3db)]=!![];const _0x415c09=_0x319207(0x2c4)in _0x467f3b?parseInt(_0x467f3b[_0x319207(0x2c4)]):0x11;_0x415c09>0xc8?_0x2657e3[_0x319207(0x262)](_0x319207(0x264)):_0x2657e3['exp']+=_0x415c09;if(!_0x144868&&_0x467f3b[_0x319207(0x323)]&&global['db'][_0x319207(0x24e)]['users'][_0x2657e3[_0x319207(0x364)]][_0x319207(0x323)]<_0x467f3b[_0x319207(0x323)]*0x1){mconn[_0x319207(0x3d0)][_0x319207(0x262)](_0x2657e3['chat'],_0x319207(0x193),_0x2657e3);continue;}if(_0x467f3b[_0x319207(0x2ce)]>_0x376329[_0x319207(0x2ce)]){mconn[_0x319207(0x3d0)]['reply'](_0x2657e3['chat'],_0x319207(0x1a8)+_0x467f3b[_0x319207(0x2ce)]+_0x319207(0x34d)+_0x376329[_0x319207(0x2ce)]+_0x319207(0x3f0)+_0x5490bc+'lvl\x20para\x20subir\x20tu\x20nivel\x20con\x20XP.*',_0x2657e3);continue;}const _0x524c6b={'match':_0x2ce937,'usedPrefix':_0x5490bc,'noPrefix':_0x487913,'_args':_0x4078dc,'args':_0x331a8b,'command':_0x1cd682,'text':_0x354694,'conn':this,'participants':_0x5d6703,'groupMetadata':_0x3f1d66,'user':_0x361d26,'bot':_0x35412a,'isROwner':_0x208d30,'isOwner':_0x50aca1,'isRAdmin':_0xa73fed,'isAdmin':_0x40bbe2,'isBotAdmin':_0x5bf529,'isPrems':_0x144868,'chatUpdate':_0x393f02,'__dirname':_0x3a2d77,'__filename':_0x3e0454};try{const _0x203170=_0x5d6703['length']>0x0?new Proxy(_0x2657e3,{'get'(_0x26a669,_0x511630,_0xdbdf74){if(_0x511630==='mentionedJid'){const _0x2d8a62=_0x26a669[_0x511630]||[];return _0x2d8a62['map'](_0x1cc614);}return Reflect['get'](_0x26a669,_0x511630,_0x26a669);}}):_0x2657e3;await _0x467f3b['call'](this,_0x203170,_0x524c6b),!_0x144868&&(_0x2657e3[_0x319207(0x323)]=_0x2657e3[_0x319207(0x323)]||_0x467f3b[_0x319207(0x323)]||![]);}catch(_0x4d34da){_0x2657e3[_0x319207(0x39d)]=_0x4d34da,console['error'](_0x4d34da);if(typeof _0x4d34da===_0x319207(0x330)&&_0x4d34da[_0x319207(0x16f)]())try{_0x2657e3[_0x319207(0x262)](_0x4d34da);}catch(_0x176581){}}finally{if(typeof _0x467f3b[_0x319207(0x237)]===_0x319207(0x34f))try{await _0x467f3b[_0x319207(0x237)]['call'](this,_0x2657e3,_0x524c6b);}catch(_0x5a9586){console[_0x319207(0x39d)](_0x5a9586);}_0x2657e3[_0x319207(0x323)]&&_0x2657e3[_0x319207(0x262)](_0x319207(0x2f4)+ +_0x2657e3[_0x319207(0x323)]+_0x319207(0x1b6));}break;}}}catch(_0x28ac78){console[_0x319207(0x39d)](_0x28ac78);}finally{if(opts[_0x319207(0x392)]&&_0x2657e3['text']){const _0x382053=this[_0x319207(0x1a6)][_0x319207(0x208)](_0x2657e3['id']||_0x2657e3['key']['id']);_0x382053!==-0x1&&this[_0x319207(0x1a6)]['splice'](_0x382053,0x1);}let _0x368cef;const _0x41f72d=global['db'][_0x319207(0x24e)][_0x319207(0x3a6)];if(_0x2657e3){_0x2657e3[_0x319207(0x364)]&&(_0x368cef=global['db'][_0x319207(0x24e)][_0x319207(0x163)][_0x2657e3[_0x319207(0x364)]])&&(_0x368cef[_0x319207(0x2c4)]+=_0x2657e3[_0x319207(0x2c4)],_0x368cef[_0x319207(0x323)]-=_0x2657e3[_0x319207(0x323)]*0x1);let _0x55d037;if(_0x2657e3['plugin']){const _0x2e6908=+new Date();_0x2657e3['plugin']in _0x41f72d?(_0x55d037=_0x41f72d[_0x2657e3[_0x319207(0x3cb)]],!isNumber(_0x55d037[_0x319207(0x30f)])&&(_0x55d037['total']=0x1),!isNumber(_0x55d037[_0x319207(0x3c1)])&&(_0x55d037[_0x319207(0x3c1)]=_0x2657e3[_0x319207(0x39d)]!=null?0x0:0x1),!isNumber(_0x55d037[_0x319207(0x20b)])&&(_0x55d037[_0x319207(0x20b)]=_0x2e6908),!isNumber(_0x55d037[_0x319207(0x201)])&&(_0x55d037[_0x319207(0x201)]=_0x2657e3['error']!=null?0x0:_0x2e6908)):_0x55d037=_0x41f72d[_0x2657e3[_0x319207(0x3cb)]]={'total':0x1,'success':_0x2657e3[_0x319207(0x39d)]!=null?0x0:0x1,'last':_0x2e6908,'lastSuccess':_0x2657e3[_0x319207(0x39d)]!=null?0x0:_0x2e6908},_0x55d037[_0x319207(0x30f)]+=0x1,_0x55d037[_0x319207(0x20b)]=_0x2e6908,_0x2657e3['error']==null&&(_0x55d037['success']+=0x1,_0x55d037[_0x319207(0x201)]=_0x2e6908);}}try{if(!opts[_0x319207(0x15e)])await(await import(_0x319207(0x285)))[_0x319207(0x3ef)](_0x2657e3,this);}catch(_0x4eb12e){console[_0x319207(0x1b8)](_0x2657e3,_0x2657e3[_0x319207(0x3af)],_0x4eb12e);}const _0x5c9006=global['db'][_0x319207(0x24e)][_0x319207(0x314)][mconn[_0x319207(0x3d0)][_0x319207(0x207)][_0x319207(0x379)]]||{};if(opts['autoread'])await mconn['conn'][_0x319207(0x172)]([_0x2657e3[_0x319207(0x2c5)]]);if(_0x5c9006[_0x319207(0x256)])await mconn[_0x319207(0x3d0)]['readMessages']([_0x2657e3['key']]);this[_0x319207(0x3dd)](_0x319207(0x352),_0x2657e3['chat']);}}export async function participantsUpdate({id:_0x16e429,participants:_0x210008,action:_0x1e65d1}){const _0x477399=_0x260e,_0x5f1dff=mconn,_0x557ce2=_0x5f1dff[_0x477399(0x3d0)];if(opts[_0x477399(0x294)])return;if(global['db']['data']==null)await loadDatabase();const _0x5e5386=global['db'][_0x477399(0x24e)][_0x477399(0x373)][_0x16e429]||{},_0x9dc751=global['db'][_0x477399(0x24e)][_0x477399(0x314)][_0x557ce2[_0x477399(0x207)][_0x477399(0x379)]]||{},_0x3ac4ba=_0x210008[_0x477399(0x292)](_0x484a38=>{const _0x1bf579=_0x477399;let _0x3f5239;if(typeof _0x484a38===_0x1bf579(0x2e5)&&_0x484a38!==null)_0x3f5239=_0x484a38[_0x1bf579(0x2de)]||_0x484a38['id']||'';else{if(typeof _0x484a38===_0x1bf579(0x330))try{const _0x199bab=JSON[_0x1bf579(0x241)](_0x484a38);_0x3f5239=_0x199bab[_0x1bf579(0x2de)]||_0x199bab['id']||_0x484a38;}catch(_0x5f5d83){_0x3f5239=_0x484a38;}else _0x3f5239=String(_0x484a38);}if(typeof _0x3f5239===_0x1bf579(0x2e5))_0x3f5239=_0x3f5239[_0x1bf579(0x2de)]||_0x3f5239['id']||'';const _0x200d1e=_0x557ce2['decodeJid'](_0x3f5239)||_0x3f5239;return{'id':_0x200d1e,'phoneNumber':_0x200d1e};});switch(_0x1e65d1){case'add':case _0x477399(0x298):{if(!_0x5e5386[_0x477399(0x3cc)]||_0x5e5386?.[_0x477399(0x15f)])break;let _0x315fb3=_0x557ce2['chats']?.[_0x16e429]?.[_0x477399(0x1f5)]||{};try{!_0x315fb3?.[_0x477399(0x31d)]?.[_0x477399(0x2fd)]&&(_0x315fb3=await _0x557ce2['groupMetadata'](_0x16e429)||_0x315fb3);}catch(_0x362ed7){console['log']('[DEBUG\x20participantsUpdate]\x20groupMetadata\x20fetch\x20failed:',_0x362ed7[_0x477399(0x26e)],_0x477399(0x28e));}const _0x41b60c=_0x315fb3?.[_0x477399(0x31d)]?.['length']||0x0,_0x5547e1=_0x315fb3?.[_0x477399(0x232)]||_0x477399(0x230),_0x33c7ee=_0x315fb3?.[_0x477399(0x222)]?.[_0x477399(0x236)]()||'Sin\x20descripción';for(const _0x5cbb5b of _0x3ac4ba){const _0x4468a4=_0x5cbb5b['id'];if(!_0x4468a4)continue;const _0x799c41=_0x4468a4[_0x477399(0x344)]('@')[0x0],_0x3460f1=JSON[_0x477399(0x241)](_0x1bc6e4[_0x477399(0x19b)](_0x477399(0x33a))),_0x2e875c=_0x3460f1[_0x477399(0x399)](_0x193a0d=>_0x4468a4[_0x477399(0x2e3)](_0x193a0d)),_0x270e60=(_0x315fb3?.[_0x477399(0x31d)]||[])[_0x477399(0x269)](_0x32fd4a=>_0x557ce2['decodeJid'](_0x32fd4a['id'])===_0x557ce2[_0x477399(0x1a9)](_0x557ce2[_0x477399(0x207)][_0x477399(0x379)]))||{},_0x193bfa=_0x270e60?.[_0x477399(0x3d4)]===_0x477399(0x3d4)||_0x270e60?.[_0x477399(0x3d4)]==='superadmin';if(_0x2e875c&&_0x5e5386[_0x477399(0x31e)]&&_0x9dc751['restrict']&&_0x193bfa&&_0x1e65d1===_0x477399(0x2d2)){const _0x421f9=await _0x557ce2[_0x477399(0x252)](_0x16e429,[_0x4468a4],_0x477399(0x298));if(_0x421f9[0x0]['status']===_0x477399(0x214))continue;const _0x4ccfa7={'key':{'participants':_0x477399(0x385),'remoteJid':_0x477399(0x347),'fromMe':![],'id':_0x477399(0x184)},'message':{'contactMessage':{'vcard':_0x477399(0x369)+_0x799c41+':'+_0x799c41+_0x477399(0x2f8)}},'participant':_0x477399(0x385)};await _0x557ce2[_0x477399(0x263)](_0x16e429,{'text':_0x477399(0x268)+_0x799c41+_0x477399(0x328),'mentions':[_0x4468a4]},{'quoted':_0x4ccfa7});continue;}const _0x487627=_0x477399(0x3e9);let _0x5da832=_0x487627;try{_0x5da832=await _0x557ce2[_0x477399(0x166)](_0x4468a4,'image');}catch(_0xc45ca6){}const _0x4c27b8=await _0x557ce2[_0x477399(0x2af)](_0x5da832)[_0x477399(0x1eb)](()=>({}));let _0x4013b5;if(_0x1e65d1==='add')_0x4013b5=_0x5e5386['sWelcome']&&_0x5e5386['sWelcome']['trim']()?_0x5e5386[_0x477399(0x390)]:_0x477399(0x3be)+_0x5547e1+'!*\x20✨\x0a\x0a👋\x20¡Hola,\x20@user!\x0a🌟\x20Ahora\x20somos\x20*'+_0x41b60c+_0x477399(0x20f)+_0x33c7ee+'_\x0a\x0a*¡Que\x20disfrutes\x20tu\x20estancia!*\x20🎉';else{const _0x27b323=Math[_0x477399(0x327)](0x0,_0x41b60c-0x1);_0x4013b5=_0x5e5386[_0x477399(0x3c9)]&&_0x5e5386[_0x477399(0x3c9)][_0x477399(0x16f)]()?_0x5e5386['sBye']:_0x477399(0x2f2)+_0x27b323+'*\x20miembros.\x0a\x0a*¡Esperamos\x20verte\x20de\x20nuevo!*\x20✨';}_0x4013b5=_0x4013b5[_0x477399(0x366)](/@user/g,'@'+_0x799c41)['replace'](/@group/g,_0x5547e1)[_0x477399(0x366)](/@desc/g,_0x33c7ee)[_0x477399(0x366)](/@total/g,_0x41b60c['toString']()),await new Promise(_0x104052=>setTimeout(_0x104052,0xbb8));try{if(_0x5da832){const _0x15c40f=(await import('axios'))['default'],_0x10e2e3=await _0x15c40f[_0x477399(0x382)](_0x5da832,{'responseType':_0x477399(0x2c6)})[_0x477399(0x1eb)](()=>null);_0x10e2e3?.['data']?await _0x557ce2[_0x477399(0x263)](_0x16e429,{'image':Buffer[_0x477399(0x2b6)](_0x10e2e3['data']),'caption':_0x4013b5,'mentions':[_0x4468a4]}):await _0x557ce2[_0x477399(0x263)](_0x16e429,{'text':_0x4013b5,'mentions':[_0x4468a4]});}else await _0x557ce2['sendMessage'](_0x16e429,{'text':_0x4013b5,'mentions':[_0x4468a4]});console[_0x477399(0x1b8)](_0x477399(0x18f),_0x4468a4);}catch(_0x3632f9){console[_0x477399(0x39d)](_0x477399(0x317),_0x3632f9[_0x477399(0x26e)]);try{await _0x557ce2[_0x477399(0x263)](_0x16e429,{'text':_0x4013b5,'mentions':[_0x4468a4]});}catch(_0x33d7f9){}}}break;}case _0x477399(0x223):case'daradmin':case _0x477399(0x18d):case _0x477399(0x195):case _0x477399(0x3ae):case'quitaradmin':{const _0x471433=[_0x477399(0x223),'daradmin','darpoder'][_0x477399(0x2b0)](_0x1e65d1),_0x5123f4=_0x471433?_0x5e5386[_0x477399(0x280)]||_0x557ce2[_0x477399(0x265)]||_0x477399(0x17c):_0x5e5386[_0x477399(0x21d)]||_0x557ce2[_0x477399(0x321)]||_0x477399(0x247),_0x133091=_0x3ac4ba[0x0];if(!_0x133091)break;const _0x44e426=_0x133091['id'][_0x477399(0x344)]('@')[0x0],_0x9c64=_0x5123f4['replace'](/@user/g,'@'+_0x44e426);_0x5e5386[_0x477399(0x3a3)]&&!_0x5e5386?.[_0x477399(0x15f)]&&_0x557ce2[_0x477399(0x263)](_0x16e429,{'text':_0x9c64,'mentions':_0x557ce2[_0x477399(0x202)](_0x9c64)});break;}}}export async function groupsUpdate(_0x20aaf4){const _0xe87b8b=_0x260e;if(opts['self'])return;for(const _0x18da3d of _0x20aaf4){const _0x2ec3f3=_0x18da3d['id'];if(!_0x2ec3f3)continue;if(_0x18da3d[_0xe87b8b(0x1a4)]==NaN)continue;if(_0x18da3d[_0xe87b8b(0x2d8)])continue;const _0x8546e=global['db'][_0xe87b8b(0x24e)]['chats'][_0x2ec3f3];let _0x2fd7b8='';if(!_0x8546e?.[_0xe87b8b(0x3a3)])continue;if(_0x18da3d[_0xe87b8b(0x222)])_0x2fd7b8=(_0x8546e[_0xe87b8b(0x396)]||this['sDesc']||conn[_0xe87b8b(0x396)]||_0xe87b8b(0x2e7))[_0xe87b8b(0x366)](_0xe87b8b(0x354),_0x18da3d['desc']);if(_0x18da3d['subject'])_0x2fd7b8=(_0x8546e[_0xe87b8b(0x1b2)]||this['sSubject']||conn[_0xe87b8b(0x1b2)]||'```Subject\x20has\x20been\x20changed\x20to```\x0a@subject')['replace'](_0xe87b8b(0x1d8),_0x18da3d[_0xe87b8b(0x232)]);if(_0x18da3d[_0xe87b8b(0x1cc)])_0x2fd7b8=(_0x8546e[_0xe87b8b(0x332)]||this[_0xe87b8b(0x332)]||conn[_0xe87b8b(0x332)]||_0xe87b8b(0x240))[_0xe87b8b(0x366)](_0xe87b8b(0x33c),_0x18da3d[_0xe87b8b(0x1cc)]);if(_0x18da3d[_0xe87b8b(0x279)])_0x2fd7b8=(_0x8546e['sRevoke']||this['sRevoke']||conn[_0xe87b8b(0x2a1)]||_0xe87b8b(0x372))[_0xe87b8b(0x366)](_0xe87b8b(0x2d5),_0x18da3d[_0xe87b8b(0x279)]);if(!_0x2fd7b8)continue;await mconn[_0xe87b8b(0x3d0)][_0xe87b8b(0x263)](_0x2ec3f3,{'text':_0x2fd7b8,'mentions':mconn['conn']['parseMention'](_0x2fd7b8)});}}export async function callUpdate(_0x48e05a){const _0x36bf44=_0x260e,_0xa291b=global['db']['data']['settings'][mconn[_0x36bf44(0x3d0)][_0x36bf44(0x207)]['jid']][_0x36bf44(0x3a2)];if(!_0xa291b)return;for(const _0xb4dc97 of _0x48e05a){if(_0xb4dc97[_0x36bf44(0x20d)]==![]){if(_0xb4dc97[_0x36bf44(0x2b9)]==_0x36bf44(0x162)){const _0x2dd649=await mconn[_0x36bf44(0x3d0)][_0x36bf44(0x262)](_0xb4dc97['from'],_0x36bf44(0x261)+_0xb4dc97['from'][_0x36bf44(0x344)]('@')[0x0]+_0x36bf44(0x1d9)+(_0xb4dc97['isVideo']?_0x36bf44(0x350):_0x36bf44(0x169))+_0x36bf44(0x1fc),![],{'mentions':[_0xb4dc97['from']]}),_0xbf8b08=_0x36bf44(0x2d6);await mconn[_0x36bf44(0x3d0)][_0x36bf44(0x263)](_0xb4dc97[_0x36bf44(0x2b6)],{'contacts':{'displayName':_0x36bf44(0x24b),'contacts':[{'vcard':_0xbf8b08}]}},{'quoted':_0x2dd649}),await mconn[_0x36bf44(0x3d0)][_0x36bf44(0x3d7)](_0xb4dc97[_0x36bf44(0x2b6)],'block');}}}}export async function deleteUpdate(_0x112225){const _0x1d0891=_0x260e;let _0x51c948=new Date(new Date()+0x36ee80),_0x50c391=_0x51c948[_0x1d0891(0x2fc)]('es',{'day':_0x1d0891(0x3e4),'month':'long','year':_0x1d0891(0x3e4)}),_0x5bf4dd=_0x51c948[_0x1d0891(0x377)](_0x1d0891(0x1c9),{'hour':_0x1d0891(0x3e4),'minute':'numeric','second':_0x1d0891(0x3e4),'hour12':!![]});try{const {fromMe:_0x105c18,id:_0x393096,participant:_0x2c41ad}=_0x112225;if(_0x105c18)return;let _0x51cf3b=mconn[_0x1d0891(0x3d0)][_0x1d0891(0x33f)](mconn[_0x1d0891(0x3d0)][_0x1d0891(0x20a)](_0x393096)),_0x22b411=global['db'][_0x1d0891(0x24e)][_0x1d0891(0x373)][_0x51cf3b?.['chat']]||{};if(!_0x22b411?.['antidelete'])return;if(!_0x51cf3b)return;if(!_0x51cf3b?.['isGroup'])return;const _0x578736=('━⬣𝘼𝙉𝙏𝙄\x20𝘿𝙀𝙇𝙀𝙏𝙀⬣━\x0a❏̸̷̸̷ִִْْNombre:*\x20@'+m[_0x1d0891(0x17f)][_0x1d0891(0x344)]`@`[0x0]+'\x0a❏̸̷̸̷ִִْْEnviando\x20el\x20mensaje..*\x0a❏̸̷̸̷ִִْْ*Hora:*\x20'+_0x5bf4dd+_0x1d0891(0x345)+_0x50c391+_0x1d0891(0x21b))[_0x1d0891(0x16f)]();await mconn[_0x1d0891(0x3d0)][_0x1d0891(0x263)](_0x51cf3b[_0x1d0891(0x2a4)],{'text':_0x578736,'mentions':[_0x2c41ad]},{'quoted':_0x51cf3b}),mconn[_0x1d0891(0x3d0)]['copyNForward'](_0x51cf3b[_0x1d0891(0x2a4)],_0x51cf3b)[_0x1d0891(0x1eb)](_0x37acd0=>console[_0x1d0891(0x1b8)](_0x37acd0,_0x51cf3b));}catch(_0x528497){console['error'](_0x528497);}}global[_0x192b23(0x1fa)]=(_0x421d5a,_0x3fca16,_0x737a2c)=>{const _0x5d4949=_0x192b23,_0xce497a={'rowner':'📑\x20ɪɴғᴏʀᴍᴇ\x20ᴅᴇ\x20ᴄᴜᴍᴘʟɪᴍɪᴇɴᴛᴏ\x20ᴅᴇ\x20sᴇɢᴜʀɪᴅᴀᴅ\x0a\x0a──────────────────────────────\x0aɴúᴄʟᴇᴏ:\x20sɪsᴛᴇᴍᴀ\x20ᴅᴇ\x20ᴄᴏɴᴛʀᴏʟ\x20ᴅᴇ\x20ᴀᴄᴄᴇsᴏ\x0aᴇᴠᴇɴᴛᴏ:\x20ʀᴇsᴛʀɪᴄᴄɪóɴ\x20ᴅᴇ\x20ᴘʀɪᴠɪʟᴇɢɪᴏs\x0a──────────────────────────────\x0a\x0aᴅᴇᴛᴀʟʟᴇs\x20ᴅᴇ\x20ʟᴀ\x20ᴘᴏʟíᴛɪᴄᴀ:\x0aᴅᴇ\x20ᴀᴄᴜᴇʀᴅᴏ\x20ᴄᴏɴ\x20ʟᴏs\x20ᴘʀᴏᴛᴏᴄᴏʟᴏs\x20ᴅᴇ\x20sᴇɢᴜʀɪᴅᴀᴅ\x20ᴅᴇ\x20ʟᴀ\x20ᴘʟᴀᴛᴀғᴏʀᴍᴀ,\x20ᴇʟ\x20ᴄᴏᴍᴀɴᴅᴏ\x20sᴏʟɪᴄɪᴛᴀᴅᴏ\x20ᴇsᴛá\x20ᴄʟᴀsɪғɪᴄᴀᴅᴏ\x20ᴄᴏᴍᴏ\x20ɴɪᴠᴇʟ\x20ᴄʀíᴛɪᴄᴏ.\x0a\x0aᴇsᴛᴀᴅᴏ\x20ᴅᴇ\x20ᴀᴜᴛᴏʀɪᴢᴀᴄɪóɴ:\x0a⛔\x20ᴀᴄᴄᴇsᴏ\x20ᴅᴇɴᴇɢᴀᴅᴏ:\x20ᴄʀᴇᴅᴇɴᴄɪᴀʟᴇs\x20ɪɴsᴜғɪᴄɪᴇɴᴛᴇs.\x0a👤\x20ʀᴇǫᴜᴇʀɪᴅᴏ:\x20ғɪʀᴍᴀ\x20ᴅɪɢɪᴛᴀʟ\x20ᴅᴇ\x20ᴏᴡɴᴇʀ\x20(ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ/ᴀ).\x0a\x0aᴅɪʀᴇᴄᴛɪᴠᴀ\x20ᴅᴇ\x20ᴜsᴜᴀʀɪᴏ:\x0aᴘᴏʀ\x20ғᴀᴠᴏʀ,\x20ʀᴇᴍíᴛᴀsᴇ\x20ᴀʟ\x20ᴄᴀᴛáʟᴏɢᴏ\x20ᴅᴇ\x20ᴄᴏᴍᴀɴᴅᴏs\x20ᴘúʙʟɪᴄᴏs\x20ᴘᴀʀᴀ\x20ғᴜɴᴄɪᴏɴᴇs\x20ᴇsᴛáɴᴅᴀʀ.\x20ᴄᴜᴀʟǫᴜɪᴇʀ\x20ɪɴᴛᴇɴᴛᴏ\x20ᴅᴇ\x20ᴀᴄᴄᴇsᴏ\x20ɴᴏ\x20ᴀᴜᴛᴏʀɪᴢᴀᴅᴏ\x20ǫᴜᴇᴅᴀ\x20ʀᴇɢɪsᴛʀᴀᴅᴏ\x20ᴇɴ\x20ᴇʟ\x20ʟᴏɢ\x20ᴅᴇʟ\x20sɪsᴛᴇᴍᴀ.\x0a─────────────────────────────\x0a\x0a🛡️\x20sᴇɢᴜʀɪᴅᴀᴅ\x20ɢᴀʀᴀɴᴛɪᴢᴀᴅᴀ\x20ᴘᴏʀ\x20ʜᴀᴅᴇs\x20ʙᴏᴛ\x20ᴍᴅ','owner':_0x5d4949(0x21e),'mods':_0x5d4949(0x21e),'premium':_0x5d4949(0x297),'group':_0x5d4949(0x295),'private':_0x5d4949(0x2ef),'admin':_0x5d4949(0x270),'botAdmin':_0x5d4949(0x25e),'unreg':'💠\x20▰▱▰\x20ᴴᴬᴰᴱˢ-ᴮᴼᵀ-ᴹᴰ\x20▰▱▰\x20💠\x0a\x0a🔲\x20ɴᴏᴅᴏ:\x20ʀᴇɢɪsᴛʀᴏ\x20ʀᴇǫᴜᴇʀɪᴅᴏ\x0a🔲\x20ʟɪɴᴋ:\x20ᴇɴ\x20ᴇsᴘᴇʀᴀ...\x0a\x0a┌─\x20\x20◈\x20\x20───\x20\x20ᴵᴺᵀᴱᴿᶠᴬᶻ\x20ᶜᴼᴿᴱ\x20\x20───\x20\x20◈\x20\x20─┐\x0a¡ʜᴏʟᴀ!\x20ᴘᴀʀᴀ\x20sɪɴᴄʀᴏɴɪᴢᴀʀ\x20ᴛᴜ\x20ɪᴅᴇɴᴛɪᴅᴀᴅ\x20ᴄᴏɴ\x20ᴍɪ\x20ɴúᴄʟᴇᴏ\x20ʏ\x20ʜᴀʙɪʟɪᴛᴀʀ\x20ᴇʟ\x20ᴀᴄᴄᴇsᴏ\x20ᴛᴏᴛᴀʟ,\x20ᴄᴏᴍᴘʟᴇᴛᴀ\x20ᴇʟ\x20sɪɢᴜɪᴇɴᴛᴇ\x20ᴘʀᴏᴛᴏᴄᴏʟᴏ:\x0a🌐\x20ᴠɪɴᴄᴜʟᴀᴄɪóɴ\x20ᴅᴇ\x20ᴅᴀᴛᴏs\x0a\x0a━━━━━━━━━━━━━━━━━━━━━\x0a◈\x20ᴇsᴄʀɪʙᴀ:\x20/reg\x20nombre.edad\x0a◈\x20ᴇᴊᴇᴍᴘʟᴏ:\x20/reg\x20Hades.22\x0a━━━━━━━━━━━━━━━━━━━━━\x0a\x0a⚠️\x20ᴘʀᴏᴛᴏᴄᴏʟᴏ\x20ᴅᴇ\x20ᴅᴇsʙʟᴏǫᴜᴇᴏ\x0a▰▱\x20ᴛʀᴀs\x20ʟᴀ\x20ᴠᴀʟɪᴅᴀᴄɪóɴ\x20ᴅᴇʟ\x20sɪsᴛᴇᴍᴀ,\x0a▰▱\x20ʟᴀs\x20ʜᴇʀʀᴀᴍɪᴇɴᴛᴀs\x20ᴅᴇ\x20ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ\x0a▰▱\x20sᴇ\x20ᴀᴄᴛɪᴠᴀʀáɴ\x20ᴅᴇ\x20ғᴏʀᴍᴀ\x20ᴀᴜᴛóɴᴏᴍᴀ.\x0a└─\x20\x20◈\x20\x20───\x20\x20¡ᴅɪsғʀᴜᴛᴀ!\x20\x20───\x20\x20◈\x20\x20─┘\x0a\x0a💠\x20▰▱▰\x20ᴴᴬᴰᴱˢ-ᴮᴼᵀ-ᴹᴰ\x20▰▱▰\x20💠\x20🪀','restrict':_0x5d4949(0x21e)}[_0x421d5a],_0x339cb9={'quoted':_0x3fca16,'userJid':_0x737a2c[_0x5d4949(0x207)][_0x5d4949(0x379)]},_0x415a9f=generateWAMessageFromContent(_0x3fca16[_0x5d4949(0x2a4)],{'extendedTextMessage':{'text':_0xce497a,'contextInfo':{'externalAdReply':{'title':_0x5d4949(0x189),'body':_0x5d4949(0x272),'thumbnail':imagen1,'sourceUrl':_0x5d4949(0x3ba)}}}},_0x339cb9);if(_0xce497a)return _0x737a2c['relayMessage'](_0x3fca16[_0x5d4949(0x2a4)],_0x415a9f[_0x5d4949(0x26e)],{'messageId':_0x415a9f[_0x5d4949(0x2c5)]['id']});};const file=global[_0x192b23(0x306)](import.meta.url,!![]);unwatchFile(file),watchFile(file,async()=>{const _0x36319e=_0x192b23;unwatchFile(file),console['log'](_0x17c85a[_0x36319e(0x2db)](_0x36319e(0x1d0))),global[_0x36319e(0x1b3)]&&await global[_0x36319e(0x1b3)]();});
+import {generateWAMessageFromContent} from '@whiskeysockets/baileys';
+import {smsg} from './lib/simple.js';
+import {format} from 'util';
+import {fileURLToPath} from 'url';
+import path, {join} from 'path';
+import {unwatchFile, watchFile} from 'fs';
+import fs from 'fs';
+import chalk from 'chalk';
+import mddd5 from 'md5';
+import ws from 'ws';
+
+const {proto} = (await import('@whiskeysockets/baileys')).default;
+const isNumber = (x) => typeof x === 'number' && !isNaN(x);
+const actionDeduplicator = new Map();
+const delay = (ms) => isNumber(ms) && new Promise((resolve) => setTimeout(function() {
+  clearTimeout(this);
+  resolve();
+}, ms));
+
+export async function handler(chatUpdate) {
+  this.msgqueque = this.msgqueque || [];
+  this.uptime = this.uptime || Date.now();
+  if (!chatUpdate) {
+    return;
+  }
+  this.pushMessage(chatUpdate.messages).catch(console.error);
+  let m = chatUpdate.messages[chatUpdate.messages.length - 1];
+  if (!m) {
+    return;
+  }
+  const msgTs = (m.messageTimestamp || 0) * 1000
+  if (global.connectedAt && msgTs && msgTs < global.connectedAt) return
+  if (global.db.data == null) await global.loadDatabase();
+
+  try {
+const _rawMsg = m.message || {}
+    const _voKey = Object.keys(_rawMsg).find(k => /viewonce/i.test(k))
+    const _rawViewOnce = _voKey ? { key: _voKey, data: _rawMsg[_voKey] } : null
+    m = smsg(this, m) || m;
+    if (!m) {
+      return;
+    }
+    if (_rawViewOnce) m._viewOnce = _rawViewOnce
+    global.mconn = m 
+    m.exp = 0;
+    m.money = false;
+    m.limit = false;
+    try {
+
+      const user = global.db.data.users[m.sender];
+      if (typeof user !== 'object') {
+        global.db.data.users[m.sender] = {};
+      }
+      if (user) {
+        if (!isNumber(user.exp)) user.exp = 0;
+        if (!('premium' in user)) user.premium = false;
+        if (!isNumber(user.joincount)) user.joincount = 2;
+        if (!isNumber(user.limit)) user.limit = 20;
+        if (!isNumber(user.money)) user.money = 15;
+        if (!('registered' in user)) user.registered = false;
+        if (!user.registered) {
+          if (!('name' in user)) user.name = m.name;
+          if (!isNumber(user.age)) user.age = -1;
+          if (!isNumber(user.anggur)) user.anggur = 0;
+          if (!isNumber(user.apel)) user.apel = 0;
+          if (!isNumber(user.bibitanggur)) user.bibitanggur = 0;
+          if (!isNumber(user.bibitapel)) user.bibitapel = 0;
+          if (!isNumber(user.bibitjeruk)) user.bibitjeruk = 0;
+          if (!isNumber(user.bibitmangga)) user.bibitmangga = 0;
+          if (!isNumber(user.bibitpisang)) user.bibitpisang = 0;
+          if (!isNumber(user.emas)) user.emas = 0;
+          if (!isNumber(user.jeruk)) user.jeruk = 0;
+          if (!isNumber(user.kayu)) user.kayu = 0;
+          if (!isNumber(user.makanan)) user.makanan = 0;
+          if (!isNumber(user.mangga)) user.mangga = 0;
+          if (!isNumber(user.pisang)) user.pisang = 0;
+          if (!isNumber(user.premiumDate)) user.premiumDate = -1;
+          if (!isNumber(user.regTime)) user.regTime = -1;
+          if (!isNumber(user.semangka)) user.semangka = 0;
+          if (!isNumber(user.stroberi)) user.stroberi = 0;
+        }
+        if (!isNumber(user.afk)) user.afk = -1;
+	        if (!('autolevelup' in user)) user.autolevelup = true;
+	        if (!('role' in user)) user.role = 'Novato';
+        if (!isNumber(user.agility)) user.agility = 0;
+        if (!isNumber(user.anakanjing)) user.anakanjing = 0;
+        if (!isNumber(user.anakcentaur)) user.anakcentaur = 0;
+        if (!isNumber(user.anakgriffin)) user.anakgriffin = 0;
+        if (!isNumber(user.anakkucing)) user.anakkucing = 0;
+        if (!isNumber(user.anakkuda)) user.anakkuda = 0;
+        if (!isNumber(user.anakkyubi)) user.anakkyubi = 0;
+        if (!isNumber(user.anaknaga)) user.anaknaga = 0;
+        if (!isNumber(user.anakpancingan)) user.anakpancingan = 0;
+        if (!isNumber(user.anakphonix)) user.anakphonix = 0;
+        if (!isNumber(user.anakrubah)) user.anakrubah = 0;
+        if (!isNumber(user.anakserigala)) user.anakserigala = 0;
+        if (!isNumber(user.anggur)) user.anggur = 0;
+        if (!isNumber(user.anjing)) user.anjing = 0;
+        if (!isNumber(user.anjinglastclaim)) user.anjinglastclaim = 0;
+        if (!isNumber(user.antispam)) user.antispam = 0;
+        if (!isNumber(user.antispamlastclaim)) user.antispamlastclaim = 0;
+        if (!isNumber(user.apel)) user.apel = 0;
+        if (!isNumber(user.aqua)) user.aqua = 0;
+        if (!isNumber(user.arc)) user.arc = 0;
+        if (!isNumber(user.arcdurability)) user.arcdurability = 0;
+        if (!isNumber(user.arlok)) user.arlok = 0;
+        if (!isNumber(user.armor)) user.armor = 0;
+        if (!isNumber(user.armordurability)) user.armordurability = 0;
+        if (!isNumber(user.armormonster)) user.armormonster = 0;
+        if (!isNumber(user.as)) user.as = 0;
+        if (!isNumber(user.atm)) user.atm = 0;
+        if (!isNumber(user.axe)) user.axe = 0;
+        if (!isNumber(user.axedurability)) user.axedurability = 0;
+        if (!isNumber(user.ayam)) user.ayam = 0;
+        if (!isNumber(user.ayamb)) user.ayamb = 0;
+        if (!isNumber(user.ayambakar)) user.ayambakar = 0;
+        if (!isNumber(user.ayamg)) user.ayamg = 0;
+        if (!isNumber(user.ayamgoreng)) user.ayamgoreng = 0;
+        if (!isNumber(user.babi)) user.babi = 0;
+        if (!isNumber(user.babihutan)) user.babihutan = 0;
+        if (!isNumber(user.babipanggang)) user.babipanggang = 0;
+        if (!isNumber(user.bandage)) user.bandage = 0;
+        if (!isNumber(user.bank)) user.bank = 0;
+        if (!isNumber(user.banteng)) user.banteng = 0;
+        if (!isNumber(user.batu)) user.batu = 0;
+        if (!isNumber(user.bawal)) user.bawal = 0;
+        if (!isNumber(user.bawalbakar)) user.bawalbakar = 0;
+        if (!isNumber(user.bayam)) user.bayam = 0;
+	if (!isNumber(user.juegos)) user.juegos = 0;
+        if (!isNumber(user.crime)) user.crime = 0;
+        if (!isNumber(user.berlian)) user.berlian = 10;
+        if (!isNumber(user.bibitanggur)) user.bibitanggur = 0;
+        if (!isNumber(user.bibitapel)) user.bibitapel = 0;
+        if (!isNumber(user.bibitjeruk)) user.bibitjeruk = 0;
+        if (!isNumber(user.bibitmangga)) user.bibitmangga = 0;
+        if (!isNumber(user.bibitpisang)) user.bibitpisang = 0;
+        if (!isNumber(user.botol)) user.botol = 0;
+        if (!isNumber(user.bow)) user.bow = 0;
+        if (!isNumber(user.bowdurability)) user.bowdurability = 0;
+        if (!isNumber(user.boxs)) user.boxs = 0;
+        if (!isNumber(user.brick)) user.brick = 0;
+        if (!isNumber(user.brokoli)) user.brokoli = 0;
+        if (!isNumber(user.buaya)) user.buaya = 0;
+        if (!isNumber(user.buntal)) user.buntal = 0;
+        if (!isNumber(user.cat)) user.cat = 0;
+        if (!isNumber(user.catexp)) user.catexp = 0;
+        if (!isNumber(user.catlastfeed)) user.catlastfeed = 0;
+        if (!isNumber(user.centaur)) user.centaur = 0;
+        if (!isNumber(user.centaurexp)) user.centaurexp = 0;
+        if (!isNumber(user.centaurlastclaim)) user.centaurlastclaim = 0;
+        if (!isNumber(user.centaurlastfeed)) user.centaurlastfeed = 0;
+        if (!isNumber(user.clay)) user.clay = 0;
+        if (!isNumber(user.coal)) user.coal = 0;
+        if (!isNumber(user.coin)) user.coin = 0;
+        if (!isNumber(user.common)) user.common = 0;
+        if (!isNumber(user.crystal)) user.crystal = 0;
+        if (!isNumber(user.cumi)) user.cumi = 0;
+        if (!isNumber(user.cupon)) user.cupon = 0;
+        if (!isNumber(user.diamond)) user.diamond = 3;
+        if (!isNumber(user.dog)) user.dog = 0;
+        if (!isNumber(user.dogexp)) user.dogexp = 0;
+        if (!isNumber(user.doglastfeed)) user.doglastfeed = 0;
+        if (!isNumber(user.dory)) user.dory = 0;
+        if (!isNumber(user.dragon)) user.dragon = 0;
+        if (!isNumber(user.dragonexp)) user.dragonexp = 0;
+        if (!isNumber(user.dragonlastfeed)) user.dragonlastfeed = 0;
+        if (!isNumber(user.emas)) user.emas = 0;
+        if (!isNumber(user.emerald)) user.emerald = 0;
+        if (!isNumber(user.enchant)) user.enchant = 0;
+        if (!isNumber(user.esteh)) user.esteh = 0;
+        if (!isNumber(user.exp)) user.exp = 0;
+        if (!isNumber(user.expg)) user.expg = 0;
+        if (!isNumber(user.exphero)) user.exphero = 0;
+	        if (!isNumber(user.eleksirb)) user.eleksirb = 0;
+	        if (!isNumber(user.emasbatang)) user.emasbatang = 0;
+	        if (!isNumber(user.emasbiasa)) user.emasbiasa = 0;
+	        if (!isNumber(user.fideos)) user.fideos = 0;
+        if (!isNumber(user.fishingrod)) user.fishingrod = 0;
+        if (!isNumber(user.fishingroddurability)) user.fishingroddurability = 0;
+        if (!isNumber(user.fortress)) user.fortress = 0;
+        if (!isNumber(user.fox)) user.fox = 0;
+        if (!isNumber(user.foxexp)) user.foxexp = 0;
+        if (!isNumber(user.foxlastfeed)) user.foxlastfeed = 0;
+        if (!isNumber(user.fullatm)) user.fullatm = 0;
+        if (!isNumber(user.gadodado)) user.gadodado = 0;
+        if (!isNumber(user.gajah)) user.gajah = 0;
+        if (!isNumber(user.gamemines)) user.gamemines = false;
+        if (!isNumber(user.ganja)) user.ganja = 0;
+        if (!isNumber(user.gardenboxs)) user.gardenboxs = 0;
+        if (!isNumber(user.gems)) user.gems = 0;
+        if (!isNumber(user.glass)) user.glass = 0;
+        if (!isNumber(user.glimit)) user.glimit = 20;
+        if (!isNumber(user.glory)) user.glory = 0;
+        if (!isNumber(user.gold)) user.gold = 0;
+        if (!isNumber(user.griffin)) user.griffin = 0;
+        if (!isNumber(user.griffinexp)) user.griffinexp = 0;
+        if (!isNumber(user.griffinlastclaim)) user.griffinlastclaim = 0;
+        if (!isNumber(user.griffinlastfeed)) user.griffinlastfeed = 0;
+        if (!isNumber(user.gulai)) user.gulai = 0;
+        if (!isNumber(user.gurita)) user.gurita = 0;
+        if (!isNumber(user.harimau)) user.harimau = 0;
+        if (!isNumber(user.haus)) user.haus = 100;
+        if (!isNumber(user.healt)) user.healt = 100;
+        if (!isNumber(user.health)) user.health = 100;
+        if (!isNumber(user.healthmonster)) user.healthmonster = 0;
+        if (!isNumber(user.healtmonster)) user.healtmonster = 0;
+        if (!isNumber(user.hero)) user.hero = 1;
+        if (!isNumber(user.herolastclaim)) user.herolastclaim = 0;
+        if (!isNumber(user.hiu)) user.hiu = 0;
+        if (!isNumber(user.horse)) user.horse = 0;
+        if (!isNumber(user.horseexp)) user.horseexp = 0;
+        if (!isNumber(user.horselastfeed)) user.horselastfeed = 0;
+        if (!isNumber(user.ikan)) user.ikan = 0;
+        if (!isNumber(user.ikanbakar)) user.ikanbakar = 0;
+        if (!isNumber(user.intelligence)) user.intelligence = 0;
+        if (!isNumber(user.iron)) user.iron = 0;
+        if (!isNumber(user.jagung)) user.jagung = 0;
+        if (!isNumber(user.jagungbakar)) user.jagungbakar = 0;
+        if (!isNumber(user.jeruk)) user.jeruk = 0;
+        if (!isNumber(user.joinlimit)) user.joinlimit = 1;
+        if (!isNumber(user.judilast)) user.judilast = 0;
+        if (!isNumber(user.kaleng)) user.kaleng = 0;
+        if (!isNumber(user.kambing)) user.kambing = 0;
+        if (!isNumber(user.kangkung)) user.kangkung = 0;
+        if (!isNumber(user.kapak)) user.kapak = 0;
+        if (!isNumber(user.kardus)) user.kardus = 0;
+        if (!isNumber(user.katana)) user.katana = 0;
+        if (!isNumber(user.katanadurability)) user.katanadurability = 0;
+        if (!isNumber(user.kayu)) user.kayu = 0;
+        if (!isNumber(user.kentang)) user.kentang = 0;
+        if (!isNumber(user.kentanggoreng)) user.kentanggoreng = 0;
+        if (!isNumber(user.kepiting)) user.kepiting = 0;
+        if (!isNumber(user.kepitingbakar)) user.kepitingbakar = 0;
+        if (!isNumber(user.kerbau)) user.kerbau = 0;
+        if (!isNumber(user.kerjadelapan)) user.kerjadelapan = 0;
+        if (!isNumber(user.kerjadelapanbelas)) user.kerjadelapanbelas = 0;
+        if (!isNumber(user.kerjadua)) user.kerjadua = 0;
+        if (!isNumber(user.kerjaduabelas)) user.kerjaduabelas = 0;
+        if (!isNumber(user.kerjaduadelapan)) user.kerjaduadelapan = 0;
+        if (!isNumber(user.kerjaduadua)) user.kerjaduadua = 0;
+        if (!isNumber(user.kerjaduaempat)) user.kerjaduaempat = 0;
+        if (!isNumber(user.kerjaduaenam)) user.kerjaduaenam = 0;
+        if (!isNumber(user.kerjadualima)) user.kerjadualima = 0;
+        if (!isNumber(user.kerjaduapuluh)) user.kerjaduapuluh = 0;
+        if (!isNumber(user.kerjaduasatu)) user.kerjaduasatu = 0;
+        if (!isNumber(user.kerjaduasembilan)) user.kerjaduasembilan = 0;
+        if (!isNumber(user.kerjaduatiga)) user.kerjaduatiga = 0;
+        if (!isNumber(user.kerjaduatujuh)) user.kerjaduatujuh = 0;
+        if (!isNumber(user.kerjaempat)) user.kerjaempat = 0;
+        if (!isNumber(user.kerjaempatbelas)) user.kerjaempatbelas = 0;
+        if (!isNumber(user.kerjaenam)) user.kerjaenam = 0;
+        if (!isNumber(user.kerjaenambelas)) user.kerjaenambelas = 0;
+        if (!isNumber(user.kerjalima)) user.kerjalima = 0;
+        if (!isNumber(user.kerjalimabelas)) user.kerjalimabelas = 0;
+        if (!isNumber(user.kerjasatu)) user.kerjasatu = 0;
+        if (!isNumber(user.kerjasebelas)) user.kerjasebelas = 0;
+        if (!isNumber(user.kerjasembilan)) user.kerjasembilan = 0;
+        if (!isNumber(user.kerjasembilanbelas)) user.kerjasembilanbelas = 0;
+        if (!isNumber(user.kerjasepuluh)) user.kerjasepuluh = 0;
+        if (!isNumber(user.kerjatiga)) user.kerjatiga = 0;
+        if (!isNumber(user.kerjatigabelas)) user.kerjatigabelas = 0;
+        if (!isNumber(user.kerjatigapuluh)) user.kerjatigapuluh = 0;
+        if (!isNumber(user.kerjatujuh)) user.kerjatujuh = 0;
+        if (!isNumber(user.kerjatujuhbelas)) user.kerjatujuhbelas = 0;
+        if (!isNumber(user.korbanngocok)) user.korbanngocok = 0;
+        if (!isNumber(user.kubis)) user.kubis = 0;
+        if (!isNumber(user.kucing)) user.kucing = 0;
+        if (!isNumber(user.kucinglastclaim)) user.kucinglastclaim = 0;
+        if (!isNumber(user.kuda)) user.kuda = 0;
+        if (!isNumber(user.kudalastclaim)) user.kudalastclaim = 0;
+        if (!isNumber(user.kyubi)) user.kyubi = 0;
+        if (!isNumber(user.kyubiexp)) user.kyubiexp = 0;
+        if (!isNumber(user.kyubilastclaim)) user.kyubilastclaim = 0;
+        if (!isNumber(user.kyubilastfeed)) user.kyubilastfeed = 0;
+        if (!isNumber(user.labu)) user.labu = 0;
+        if (!isNumber(user.laper)) user.laper = 100;
+        if (!isNumber(user.lastadventure)) user.lastadventure = 0;
+        if (!isNumber(user.lastbansos)) user.lastbansos = 0;
+        if (!isNumber(user.lastberbru)) user.lastberbru = 0;
+        if (!isNumber(user.lastberkebon)) user.lastberkebon = 0;
+        if (!isNumber(user.lastbunga)) user.lastbunga = 0;
+        if (!isNumber(user.lastbunuhi)) user.lastbunuhi = 0;
+	        if (!isNumber(user.lastcoins)) user.lastcoins = 0;
+        if (!isNumber(user.lastclaim)) user.lastclaim = 0;
+        if (!isNumber(user.lastcode)) user.lastcode = 0;
+	        if (!isNumber(user.lastcofre)) user.lastcofre = 0;
+        if (!isNumber(user.lastcodereg)) user.lastcodereg = 0;
+        if (!isNumber(user.lastcrusade)) user.lastcrusade = 0;
+        if (!isNumber(user.lastdagang)) user.lastdagang = 0;
+	        if (!isNumber(user.lastdiamantes)) user.lastdiamantes = 0;
+        if (!isNumber(user.lastduel)) user.lastduel = 0;
+        if (!isNumber(user.lastdungeon)) user.lastdungeon = 0;
+        if (!isNumber(user.lasteasy)) user.lasteasy = 0;
+        if (!isNumber(user.lastfight)) user.lastfight = 0;
+        if (!isNumber(user.lastfishing)) user.lastfishing = 0;
+        if (!isNumber(user.lastgift)) user.lastgift = 0;
+        if (!isNumber(user.lastgojek)) user.lastgojek = 0;
+        if (!isNumber(user.lastgrab)) user.lastgrab = 0;
+        if (!isNumber(user.lasthourly)) user.lasthourly = 0;
+        if (!isNumber(user.lasthunt)) user.lasthunt = 0;
+        if (!isNumber(user.lastIstigfar)) user.lastIstigfar = 0;
+        if (!isNumber(user.lastjb)) user.lastjb = 0;
+        if (!isNumber(user.lastkill)) user.lastkill = 0;
+        if (!isNumber(user.lastlink)) user.lastlink = 0;
+        if (!isNumber(user.lastlumber)) user.lastlumber = 0;
+        if (!isNumber(user.lastmancingeasy)) user.lastmancingeasy = 0;
+        if (!isNumber(user.lastmancingextreme)) user.lastmancingextreme = 0;
+        if (!isNumber(user.lastmancinghard)) user.lastmancinghard = 0;
+        if (!isNumber(user.lastmancingnormal)) user.lastmancingnormal = 0;
+        if (!isNumber(user.lastmining)) user.lastmining = 0;
+        if (!isNumber(user.lastmisi)) user.lastmisi = 0;
+        if (!isNumber(user.lastmonthly)) user.lastmonthly = 0;
+        if (!isNumber(user.lastmulung)) user.lastmulung = 0;
+        if (!isNumber(user.lastnambang)) user.lastnambang = 0;
+        if (!isNumber(user.lastnebang)) user.lastnebang = 0;
+        if (!isNumber(user.lastngocok)) user.lastngocok = 0;
+        if (!isNumber(user.lastngojek)) user.lastngojek = 0;
+        if (!isNumber(user.lastopen)) user.lastopen = 0;
+        if (!isNumber(user.lastpekerjaan)) user.lastpekerjaan = 0;
+	        if (!isNumber(user.lastpago)) user.lastpago = 0;
+        if (!isNumber(user.lastpotionclaim)) user.lastpotionclaim = 0;
+        if (!isNumber(user.lastrampok)) user.lastrampok = 0;
+        if (!isNumber(user.lastramuanclaim)) user.lastramuanclaim = 0;
+        if (!isNumber(user.lastrob)) user.lastrob = 0;
+        if (!isNumber(user.lastroket)) user.lastroket = 0;
+        if (!isNumber(user.lastsda)) user.lastsda = 0;
+        if (!isNumber(user.lastseen)) user.lastseen = 0;
+        if (!isNumber(user.lastSetStatus)) user.lastSetStatus = 0;
+	        if (!isNumber(user.lastspam)) user.lastspam = 0;
+        if (!isNumber(user.lastsironclaim)) user.lastsironclaim = 0;
+        if (!isNumber(user.lastsmancingclaim)) user.lastsmancingclaim = 0;
+        if (!isNumber(user.laststringclaim)) user.laststringclaim = 0;
+        if (!isNumber(user.lastswordclaim)) user.lastswordclaim = 0;
+        if (!isNumber(user.lastturu)) user.lastturu = 0;
+        if (!isNumber(user.lastwar)) user.lastwar = 0;
+        if (!isNumber(user.lastwarpet)) user.lastwarpet = 0;
+        if (!isNumber(user.lastweaponclaim)) user.lastweaponclaim = 0;
+        if (!isNumber(user.lastweekly)) user.lastweekly = 0;
+        if (!isNumber(user.lastwork)) user.lastwork = 0;
+        if (!isNumber(user.legendary)) user.legendary = 0;
+        if (!isNumber(user.lele)) user.lele = 0;
+        if (!isNumber(user.leleb)) user.leleb = 0;
+        if (!isNumber(user.lelebakar)) user.lelebakar = 0;
+        if (!isNumber(user.leleg)) user.leleg = 0;
+        if (!isNumber(user.level)) user.level = 0;
+        if (!isNumber(user.limit)) user.limit = 20;
+        if (!isNumber(user.limitjoinfree)) user.limitjoinfree = 1;
+        if (!isNumber(user.lion)) user.lion = 0;
+        if (!isNumber(user.lionexp)) user.lionexp = 0;
+        if (!isNumber(user.lionlastfeed)) user.lionlastfeed = 0;
+        if (!isNumber(user.lobster)) user.lobster = 0;
+        if (!isNumber(user.lumba)) user.lumba = 0;
+        if (!isNumber(user.magicwand)) user.magicwand = 0;
+        if (!isNumber(user.magicwanddurability)) user.magicwanddurability = 0;
+        if (!isNumber(user.makanancentaur)) user.makanancentaur = 0;
+        if (!isNumber(user.makanangriffin)) user.makanangriffin = 0;
+        if (!isNumber(user.makanankyubi)) user.makanankyubi = 0;
+        if (!isNumber(user.makanannaga)) user.makanannaga = 0;
+        if (!isNumber(user.makananpet)) user.makananpet = 0;
+        if (!isNumber(user.makananphonix)) user.makananphonix = 0;
+        if (!isNumber(user.makananserigala)) user.makananserigala = 0;
+        if (!isNumber(user.mana)) user.mana = 0;
+        if (!isNumber(user.mangga)) user.mangga = 0;
+        if (!isNumber(user.money)) user.money = 15;
+        if (!isNumber(user.monyet)) user.monyet = 0;
+        if (!isNumber(user.mythic)) user.mythic = 0;
+        if (!isNumber(user.naga)) user.naga = 0;
+        if (!isNumber(user.nagalastclaim)) user.nagalastclaim = 0;
+        if (!isNumber(user.net)) user.net = 0;
+        if (!isNumber(user.nila)) user.nila = 0;
+        if (!isNumber(user.nilabakar)) user.nilabakar = 0;
+        if (!isNumber(user.note)) user.note = 0;
+        if (!isNumber(user.ojekk)) user.ojekk = 0;
+        if (!isNumber(user.oporayam)) user.oporayam = 0;
+        if (!isNumber(user.orca)) user.orca = 0;
+        if (!isNumber(user.pancing)) user.pancing = 0;
+        if (!isNumber(user.pancingan)) user.pancingan = 1;
+        if (!isNumber(user.panda)) user.panda = 0;
+        if (!isNumber(user.paus)) user.paus = 0;
+        if (!isNumber(user.pausbakar)) user.pausbakar = 0;
+        if (!isNumber(user.pc)) user.pc = 0;
+        if (!isNumber(user.pepesikan)) user.pepesikan = 0;
+        if (!isNumber(user.pertambangan)) user.pertambangan = 0;
+        if (!isNumber(user.pertanian)) user.pertanian = 0;
+        if (!isNumber(user.pet)) user.pet = 0;
+        if (!isNumber(user.petFood)) user.petFood = 0;
+        if (!isNumber(user.phonix)) user.phonix = 0;
+        if (!isNumber(user.phonixexp)) user.phonixexp = 0;
+        if (!isNumber(user.phonixlastclaim)) user.phonixlastclaim = 0;
+        if (!isNumber(user.phonixlastfeed)) user.phonixlastfeed = 0;
+        if (!isNumber(user.pickaxe)) user.pickaxe = 0;
+        if (!isNumber(user.pickaxedurability)) user.pickaxedurability = 0;
+        if (!isNumber(user.pillhero)) user.pillhero= 0;
+        if (!isNumber(user.pisang)) user.pisang = 0;
+        if (!isNumber(user.pointxp)) user.pointxp = 0;
+        if (!isNumber(user.potion)) user.potion = 0;
+        if (!isNumber(user.psenjata)) user.psenjata = 0;
+        if (!isNumber(user.psepick)) user.psepick = 0;
+        if (!isNumber(user.ramuan)) user.ramuan = 0;
+        if (!isNumber(user.ramuancentaurlast)) user.ramuancentaurlast = 0;
+        if (!isNumber(user.ramuangriffinlast)) user.ramuangriffinlast = 0;
+        if (!isNumber(user.ramuanherolast)) user.ramuanherolast = 0;
+        if (!isNumber(user.ramuankucinglast)) user.ramuankucinglast = 0;
+        if (!isNumber(user.ramuankudalast)) user.ramuankudalast = 0;
+        if (!isNumber(user.ramuankyubilast)) user.ramuankyubilast = 0;
+        if (!isNumber(user.ramuannagalast)) user.ramuannagalast = 0;
+        if (!isNumber(user.ramuanphonixlast)) user.ramuanphonixlast = 0;
+        if (!isNumber(user.ramuanrubahlast)) user.ramuanrubahlast = 0;
+        if (!isNumber(user.ramuanserigalalast)) user.ramuanserigalalast = 0;
+        if (!isNumber(user.reglast)) user.reglast = 0;
+        if (!isNumber(user.rendang)) user.rendang = 0;
+        if (!isNumber(user.rhinoceros)) user.rhinoceros = 0;
+        if (!isNumber(user.rhinocerosexp)) user.rhinocerosexp = 0;
+        if (!isNumber(user.rhinoceroslastfeed)) user.rhinoceroslastfeed = 0;
+        if (!isNumber(user.robo)) user.robo = 0;
+        if (!isNumber(user.roboxp)) user.roboxp = 0;
+        if (!isNumber(user.rock)) user.rock = 0;
+        if (!isNumber(user.roket)) user.roket = 0;
+        if (!isNumber(user.roti)) user.roti = 0;
+        if (!isNumber(user.rubah)) user.rubah = 0;
+        if (!isNumber(user.rubahlastclaim)) user.rubahlastclaim = 0;
+        if (!isNumber(user.rumahsakit)) user.rumahsakit = 0;
+        if (!isNumber(user.sampah)) user.sampah = 0;
+        if (!isNumber(user.sand)) user.sand = 0;
+        if (!isNumber(user.sapi)) user.sapi = 0;
+        if (!isNumber(user.sapir)) user.sapir = 0;
+        if (!isNumber(user.seedbayam)) user.seedbayam = 0;
+        if (!isNumber(user.seedbrokoli)) user.seedbrokoli = 0;
+        if (!isNumber(user.seedjagung)) user.seedjagung = 0;
+        if (!isNumber(user.seedkangkung)) user.seedkangkung = 0;
+        if (!isNumber(user.seedkentang)) user.seedkentang = 0;
+        if (!isNumber(user.seedkubis)) user.seedkubis = 0;
+        if (!isNumber(user.seedlabu)) user.seedlabu = 0;
+        if (!isNumber(user.seedtomat)) user.seedtomat = 0;
+        if (!isNumber(user.seedwortel)) user.seedwortel = 0;
+        if (!isNumber(user.serigala)) user.serigala = 0;
+        if (!isNumber(user.serigalalastclaim)) user.serigalalastclaim = 0;
+        if (!isNumber(user.shield)) user.shield = false;
+        if (!isNumber(user.skillexp)) user.skillexp = 0;
+        if (!isNumber(user.snlast)) user.snlast = 0;
+        if (!isNumber(user.soda)) user.soda = 0;
+        if (!isNumber(user.sop)) user.sop = 0;
+        if (!isNumber(user.spammer)) user.spammer = 0;
+        if (!isNumber(user.spinlast)) user.spinlast = 0;
+        if (!isNumber(user.ssapi)) user.ssapi = 0;
+        if (!isNumber(user.stamina)) user.stamina = 100;
+        if (!isNumber(user.steak)) user.steak = 0;
+        if (!isNumber(user.stick)) user.stick = 0;
+        if (!isNumber(user.strength)) user.strength = 0;
+        if (!isNumber(user.string)) user.string = 0;
+        if (!isNumber(user.superior)) user.superior = 0;
+        if (!isNumber(user.suplabu)) user.suplabu = 0;
+        if (!isNumber(user.sushi)) user.sushi = 0;
+        if (!isNumber(user.sword)) user.sword = 0;
+        if (!isNumber(user.sworddurability)) user.sworddurability = 0;
+        if (!isNumber(user.tigame)) user.tigame = 50;
+        if (!isNumber(user.tiketcoin)) user.tiketcoin = 0;
+        if (!isNumber(user.title)) user.title = 0;
+        if (!isNumber(user.tomat)) user.tomat = 0;
+        if (!isNumber(user.tprem)) user.tprem = 0;
+        if (!isNumber(user.trash)) user.trash = 0;
+        if (!isNumber(user.trofi)) user.trofi = 0;
+        if (!isNumber(user.troopcamp)) user.troopcamp = 0;
+        if (!isNumber(user.tumiskangkung)) user.tumiskangkung = 0;
+        if (!isNumber(user.udang)) user.udang = 0;
+        if (!isNumber(user.udangbakar)) user.udangbakar = 0;
+        if (!isNumber(user.umpan)) user.umpan = 0;
+        if (!isNumber(user.uncoommon)) user.uncoommon = 0;
+        if (!isNumber(user.unreglast)) user.unreglast = 0;
+        if (!isNumber(user.upgrader)) user.upgrader = 0;
+        if (!isNumber(user.vodka)) user.vodka = 0;
+        if (!isNumber(user.wallet)) user.wallet = 0;
+        if (!isNumber(user.warn)) user.warn = 0;
+        if (!isNumber(user.weapon)) user.weapon = 0;
+        if (!isNumber(user.weapondurability)) user.weapondurability = 0;
+        if (!isNumber(user.wolf)) user.wolf = 0;
+        if (!isNumber(user.wolfexp)) user.wolfexp = 0;
+        if (!isNumber(user.wolflastfeed)) user.wolflastfeed = 0;
+        if (!isNumber(user.wood)) user.wood = 0;
+        if (!isNumber(user.wortel)) user.wortel = 0;
+        if (!user.lbars) user.lbars = '[▒▒▒▒▒▒▒▒▒]';
+        if (!user.job) user.job = 'Desempleo';
+        if (!user.premium) user.premium = false;
+        if (!user.premium) user.premiumTime = 0;
+        if (!user.wait) user.wait = 0;
+        if (!user.rtrofi) user.rtrofi = 'Bronce';
+      } else {
+        global.db.data.users[m.sender] = {
+		    afk: -1,
+		    wait: 0,
+          afkReason: '',
+          age: -1,
+          agility: 16,
+          anakanjing: 0,
+          anakcentaur: 0,
+          anakgriffin: 0,
+          anakkucing: 0,
+          anakkuda: 0,
+          anakkyubi: 0,
+          anaknaga: 0,
+          anakpancingan: 0,
+          anakphonix: 0,
+          anakrubah: 0,
+          anakserigala: 0,
+          anggur: 0,
+          anjing: 0,
+          anjinglastclaim: 0,
+          antispam: 0,
+          antispamlastclaim: 0,
+          apel: 0,
+          aqua: 0,
+          arc: 0,
+          arcdurability: 0,
+          arlok: 0,
+          armor: 0,
+          armordurability: 0,
+          armormonster: 0,
+          as: 0,
+          atm: 0,
+          autolevelup: true,
+          axe: 0,
+          axedurability: 0,
+          ayam: 0,
+          ayamb: 0,
+          ayambakar: 0,
+          ayamg: 0,
+          ayamgoreng: 0,
+          babi: 0,
+          babihutan: 0,
+          babipanggang: 0,
+          bandage: 0,
+          bank: 0,
+          banned: false,
+          BannedReason: '',
+          Banneduser: false,
+          banteng: 0,
+          batu: 0,
+          bawal: 0,
+          bawalbakar: 0,
+          bayam: 0,
+          berlian: 10,
+          bibitanggur: 0,
+          bibitapel: 0,
+          bibitjeruk: 0,
+          bibitmangga: 0,
+          bibitpisang: 0,
+          botol: 0,
+          bow: 0,
+          bowdurability: 0,
+          boxs: 0,
+          brick: 0,
+          brokoli: 0,
+          buaya: 0,
+          buntal: 0,
+          cat: 0,
+          catlastfeed: 0,
+          catngexp: 0,
+          centaur: 0,
+          centaurexp: 0,
+          centaurlastclaim: 0,
+          centaurlastfeed: 0,
+          clay: 0,
+          coal: 0,
+          coin: 0,
+          common: 0,
+          crystal: 0,
+          cumi: 0,
+          cupon: 0,
+          diamond: 3,
+          dog: 0,
+          dogexp: 0,
+          doglastfeed: 0,
+          dory: 0,
+          dragon: 0,
+          dragonexp: 0,
+          dragonlastfeed: 0,
+          emas: 0,
+          emerald: 0,
+          esteh: 0,
+          exp: 0,
+          expg: 0,
+          exphero: 0,
+          expired: 0,
+		    eleksirb: 0,
+		    emasbatang: 0,
+		    emasbiasa: 0,
+		    fideos: 0,
+          fishingrod: 0,
+          fishingroddurability: 0,
+          fortress: 0,
+          fox: 0,
+          foxexp: 0,
+          foxlastfeed: 0,
+          fullatm: 0,
+          gadodado: 0,
+          gajah: 0,
+          gamemines: false,
+          ganja: 0,
+          gardenboxs: 0,
+          gems: 0,
+          glass: 0,
+          gold: 0,
+          griffin: 0,
+          griffinexp: 0,
+          griffinlastclaim: 0,
+          griffinlastfeed: 0,
+          gulai: 0,
+          gurita: 0,
+          harimau: 0,
+          haus: 100,
+          healt: 100,
+          health: 100,
+          healtmonster: 100,
+          hero: 1,
+          herolastclaim: 0,
+          hiu: 0,
+          horse: 0,
+          horseexp: 0,
+          horselastfeed: 0,
+          ikan: 0,
+          ikanbakar: 0,
+          intelligence: 10,
+          iron: 0,
+          jagung: 0,
+          jagungbakar: 0,
+          jeruk: 0,
+          job: 'Pengangguran',
+		            joincount: 2,
+          joinlimit: 1,
+          judilast: 0,
+          kaleng: 0,
+          kambing: 0,
+          kangkung: 0,
+          kapak: 0,
+          kardus: 0,
+          katana: 0,
+          katanadurability: 0,
+          kayu: 0,
+          kentang: 0,
+          kentanggoreng: 0,
+          kepiting: 0,
+          kepitingbakar: 0,
+          kerbau: 0,
+          kerjadelapan: 0,
+          kerjadelapanbelas: 0,
+          kerjadua: 0,
+          kerjaduabelas: 0,
+          kerjaduadelapan: 0,
+          kerjaduadua: 0,
+          kerjaduaempat: 0,
+          kerjaduaenam: 0,
+          kerjadualima: 0,
+          kerjaduapuluh: 0,
+          kerjaduasatu: 0,
+          kerjaduasembilan: 0,
+          kerjaduatiga: 0,
+          kerjaduatujuh: 0,
+          kerjaempat: 0,
+          kerjaempatbelas: 0,
+          kerjaenam: 0,
+          kerjaenambelas: 0,
+          kerjalima: 0,
+          kerjalimabelas: 0,
+          kerjasatu: 0,
+          kerjasebelas: 0,
+          kerjasembilan: 0,
+          kerjasembilanbelas: 0,
+          kerjasepuluh: 0,
+          kerjatiga: 0,
+          kerjatigabelas: 0,
+          kerjatigapuluh: 0,
+          kerjatujuh: 0,
+          kerjatujuhbelas: 0,
+          korbanngocok: 0,
+          kubis: 0,
+          kucing: 0,
+          kucinglastclaim: 0,
+          kuda: 0,
+          kudalastclaim: 0,
+          kumba: 0,
+          kyubi: 0,
+          kyubilastclaim: 0,
+          labu: 0,
+          laper: 100,
+          lastadventure: 0,
+          lastberbru: 0,
+          lastberkebon: 0,
+          lastbunga: 0,
+          lastbunuhi: 0,
+		    lastcoins: 0,
+          lastclaim: 0,
+          lastcode: 0,
+		    lastcofre: 0,
+          lastcrusade: 0,
+          lastdaang: 0,
+          lastdagang: 0,
+		    lastdiamantes: 0,
+          lastduel: 0,
+          lastdungeon: 0,
+          lasteasy: 0,
+          lastfight: 0,
+          lastfishing: 0,
+          lastgojek: 0,
+          lastgrab: 0,
+          lasthourly: 0,
+          lasthunt: 0,
+          lastjb: 0,
+          lastkill: 0,
+          lastlink: 0,
+          lastlumber: 0,
+          lastmancingeasy: 0,
+          lastmancingextreme: 0,
+          lastmancinghard: 0,
+          lastmancingnormal: 0,
+          lastmining: 0,
+          lastmisi: 0,
+          lastmonthly: 0,
+          lastmulung: 0,
+          lastnambang: 0,
+          lastnebang: 0,
+          lastngocok: 0,
+          lastngojek: 0,
+          lastopen: 0,
+          lastpekerjaan: 0,
+		    lastpago: 0,
+          lastpotionclaim: 0,
+          lastramuanclaim: 0,
+	            lastspam: 0,
+          lastrob: 0,
+          lastroket: 0,
+          lastseen: 0,
+          lastSetStatus: 0,
+          lastsironclaim: 0,
+          lastsmancingclaim: 0,
+          laststringclaim: 0,
+          lastswordclaim: 0,
+          lastturu: 0,
+          lastwarpet: 0,
+          lastweaponclaim: 0,
+          lastweekly: 0,
+          lastwork: 0,
+          lbars: '[▒▒▒▒▒▒▒▒▒]',
+          legendary: 0,
+          lele: 0,
+          leleb: 0,
+          lelebakar: 0,
+          leleg: 0,
+          level: 0,
+          limit: 20,
+          limitjoinfree: 1,
+          lion: 0,
+          lionexp: 0,
+          lionlastfeed: 0,
+          lobster: 0,
+          lumba: 0,
+          magicwand: 0,
+          magicwanddurability: 0,
+          makanan: 0,
+          makanancentaur: 0,
+          makanangriffin: 0,
+          makanankyubi: 0,
+          makanannaga: 0,
+          makananpet: 0,
+          makananphonix: 0,
+          makananserigala: 0,
+          mana: 20,
+          mangga: 0,
+          misi: '',
+          money: 15,
+          monyet: 0,
+          mythic: 0,
+          naga: 0,
+          nagalastclaim: 0,
+          name: m.name,
+          net: 0,
+          nila: 0,
+          nilabakar: 0,
+          note: 0,
+          ojekk: 0,
+          oporayam: 0,
+          orca: 0,
+          pancingan: 1,
+          panda: 0,
+          pasangan: '',
+          paus: 0,
+          pausbakar: 0,
+          pc: 0,
+          pepesikan: 0,
+          pet: 0,
+          phonix: 0,
+          phonixexp: 0,
+          phonixlastclaim: 0,
+          phonixlastfeed: 0,
+          pickaxe: 0,
+          pickaxedurability: 0,
+          pillhero: 0,
+          pisang: 0,
+          pointxp: 0,
+          potion: 10,
+          premium: false,
+          premiumTime: 0,
+          ramuan: 0,
+          ramuancentaurlast: 0,
+          ramuangriffinlast: 0,
+          ramuanherolast: 0,
+          ramuankucinglast: 0,
+          ramuankudalast: 0,
+          ramuankyubilast: 0,
+          ramuannagalast: 0,
+          ramuanphonixlast: 0,
+          ramuanrubahlast: 0,
+          ramuanserigalalast: 0,
+          registered: false,
+          reglast: 0,
+          regTime: -1,
+          rendang: 0,
+          rhinoceros: 0,
+          rhinocerosexp: 0,
+          rhinoceroslastfeed: 0,
+          rock: 0,
+          roket: 0,
+          role: 'Novato',
+          roti: 0,
+          rtrofi: 'bronce',
+          rubah: 0,
+          rubahlastclaim: 0,
+          rumahsakit: 0,
+          sampah: 0,
+          sand: 0,
+          sapi: 0,
+          sapir: 0,
+          seedbayam: 0,
+          seedbrokoli: 0,
+          seedjagung: 0,
+          seedkangkung: 0,
+          seedkentang: 0,
+          seedkubis: 0,
+          seedlabu: 0,
+          seedtomat: 0,
+          seedwortel: 0,
+          semangka: 0,
+          serigala: 0,
+          serigalalastclaim: 0,
+          sewa: false,
+          shield: 0,
+          skill: '',
+          skillexp: 0,
+          snlast: 0,
+          soda: 0,
+          sop: 0,
+          spammer: 0,
+          spinlast: 0,
+          ssapi: 0,
+          stamina: 100,
+          steak: 0,
+          stick: 0,
+          strength: 30,
+          string: 0,
+          stroberi: 0,
+          superior: 0,
+          suplabu: 0,
+          sushi: 0,
+          sword: 0,
+          sworddurability: 0,
+          tigame: 50,
+          tiketcoin: 0,
+          title: '',
+          tomat: 0,
+          tprem: 0,
+          trash: 0,
+          trofi: 0,
+          troopcamp: 0,
+          tumiskangkung: 0,
+          udang: 0,
+          udangbakar: 0,
+          umpan: 0,
+          uncoommon: 0,
+          unreglast: 0,
+          upgrader: 0,
+          vodka: 0,
+          wallet: 0,
+          warn: 0,
+          weapon: 0,
+          weapondurability: 0,
+          wolf: 0,
+          wolfexp: 0,
+          wolflastfeed: 0,
+          wood: 0,
+          wortel: 0,
+        };
+      }
+      const akinator = global.db.data.users[m.sender].akinator;
+		    if (typeof akinator !== 'object') {
+        global.db.data.users[m.sender].akinator = {};
+      }
+		    if (akinator) {
+        if (!('sesi' in akinator)) akinator.sesi = false;
+        if (!('server' in akinator)) akinator.server = null;
+        if (!('frontaddr' in akinator)) akinator.frontaddr = null;
+        if (!('session' in akinator)) akinator.session = null;
+        if (!('signature' in akinator)) akinator.signature = null;
+        if (!('question' in akinator)) akinator.question = null;
+        if (!('progression' in akinator)) akinator.progression = null;
+        if (!('step' in akinator)) akinator.step = null;
+        if (!('soal' in akinator)) akinator.soal = null;
+	            } else {
+        global.db.data.users[m.sender].akinator = {
+          sesi: false,
+          server: null,
+          frontaddr: null,
+          session: null,
+          signature: null,
+          question: null,
+          progression: null,
+          step: null,
+          soal: null,
+        };
+      }
+      const chat = global.db.data.chats[m.chat];
+      if (typeof chat !== 'object') {
+        global.db.data.chats[m.chat] = {};
+      }
+      if (chat) {
+        if (!('isBanned' in chat)) chat.isBanned = false;
+        if (!('welcome' in chat)) chat.welcome = true;
+        if (!('detect' in chat)) chat.detect = true;
+        if (!('detect2' in chat)) chat.detect2 = false;
+        if (!('sWelcome' in chat)) chat.sWelcome = '';
+        if (!('sBye' in chat)) chat.sBye = '';
+        if (!('sPromote' in chat)) chat.sPromote = '';
+        if (!('sDemote' in chat)) chat.sDemote = '';
+        if (!('delete' in chat)) chat.antidelete = false;
+        if (!('modohorny' in chat)) chat.modohorny = false;
+        if (!('autosticker' in chat)) chat.autosticker = false;
+        if (!('audios' in chat)) chat.audios = false;
+        if (!('antiLink' in chat)) chat.antiLink = false;
+        if (!('antiLink2' in chat)) chat.antiLink2 = false;
+        if (!('antiviewonce' in chat)) chat.antiviewonce = false;
+        if (!('antiToxic' in chat)) chat.antiToxic = false;
+        if (!('antiTraba' in chat)) chat.antiTraba = false;
+        if (!('antiArab' in chat)) chat.antiArab = false;
+        if (!('antiArab2' in chat)) chat.antiArab2 = false;
+        if (!('antiporno' in chat)) chat.antiporno = false;
+	if (!('game' in chat)) chat.game = true;
+        if (!('modoadmin' in chat)) chat.modoadmin = false;
+        if (!('simi' in chat)) chat.simi = false;
+        if (!isNumber(chat.expired)) chat.expired = 0;
+      } else {
+        global.db.data.chats[m.chat] = {
+          isBanned: false,
+          welcome: true,
+          detect: true,
+	  detect2: false,
+          sWelcome: '',
+          sBye: '',
+          sPromote: '',
+          sDemote: '',
+          antidelete: false,
+          modohorny: true,
+          autosticker: false,
+          audios: false,
+          antiLink: false,
+          antiLink2: false,
+          antiviewonce: false,
+          antiToxic: false,
+          antiTraba: false,
+          antiArab: false,
+	  antiArab2: false,
+	  antiporno: false,
+	  modoadmin: false,
+	  simi: false,
+	  game: true, 
+          expired: 0,
+        };
+      }
+      const settings = global.db.data.settings[this.user.jid];
+      if (typeof settings !== 'object') global.db.data.settings[this.user.jid] = {};
+      if (settings) {
+        if (!('self' in settings)) settings.self = false;
+        if (!('autoread' in settings)) settings.autoread = false;
+        if (!('autoread2' in settings)) settings.autoread2 = false;
+        if (!('restrict' in settings)) settings.restrict = false;
+        if (!('antiCall' in settings)) settings.antiCall = false;
+        if (!('antiPrivate' in settings)) settings.antiPrivate = false;
+	if (!('modejadibot' in settings)) settings.modejadibot = true;
+        if (!('antispam' in settings)) settings.antispam = false;
+	if (!('audios_bot' in settings)) settings.audios_bot = false;  
+	if (!('modoia' in settings)) settings.modoia = false;      
+      } else {
+        global.db.data.settings[this.user.jid] = {
+          self: false,
+          autoread: false,
+          autoread2: false,
+          restrict: false,
+          antiCall: false,
+          antiPrivate: false,
+	  modejadibot: true,
+          antispam: false,
+	  audios_bot: false,
+	 modoia: false
+        };
+      }
+    } catch (e) {
+      console.error(e);
+    }
+    if (opts['nyimak']) {
+      return;
+    }
+    if (!m.fromMe && opts['self']) {
+      return;
+    }
+    if (opts['pconly'] && m.chat.endsWith('g.us')) {
+      return;
+    }
+    if (opts['gconly'] && !m.chat.endsWith('g.us')) {
+      return;
+    }
+    if (opts['swonly'] && m.chat !== 'status@broadcast') {
+      return;
+    }
+    if (typeof m.text !== 'string') {
+      m.text = '';
+    }
+    const _ownerJids = [conn.decodeJid(global.conn.user.id), ...global.owner.map(([number]) => number)].map((v) => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net');
+    let isROwner = _ownerJids.includes(m.sender) || m.fromMe;
+    const isOwner = isROwner || m.fromMe;
+    const isMods = isOwner || global.mods.map((v) => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender);
+    const isPrems = isROwner || isOwner || isMods || global.db.data.users[m.sender].premiumTime > 0; // || global.db.data.users[m.sender].premium = 'true'
+
+    if (opts['queque'] && m.text && !(isMods || isPrems)) {
+      const queque = this.msgqueque; const time = 1000 * 5;
+      const previousID = queque[queque.length - 1];
+      queque.push(m.id || m.key.id);
+    const _qint = setInterval(async function() {
+        if (queque.indexOf(previousID) === -1) clearInterval(_qint);
+        await delay(time);
+      }, time);
+    }
+
+    if (m.isBaileys) {
+      return;
+    }
+    m.exp += Math.ceil(Math.random() * 10);
+
+    let usedPrefix;
+    const _user = global.db.data && global.db.data.users && global.db.data.users[m.sender];
+
+let groupMetadata = {}
+    if (m.isGroup) {
+      groupMetadata = conn.chats[m.chat]?.metadata || {}
+      if (!groupMetadata?.participants?.length) {
+        groupMetadata = await this.groupMetadata(m.chat).catch(_ => null) || {}
+        // Cachear para que los próximos mensajes del mismo grupo no vuelvan a pedir a WA
+        if (groupMetadata?.participants?.length && conn.chats[m.chat]) {
+          conn.chats[m.chat].metadata = groupMetadata
+        }
+      }
+    }
+    const participants = (groupMetadata.participants || []);
+    const user = participants.find(u =>
+      conn.decodeJid(u.id) === m.sender ||
+      u.id === m.sender ||
+      u.lid === m.sender
+    ) || {};
+    const bot = participants.find(u =>
+      conn.decodeJid(u.id) === this.user.jid ||
+      u.id === this.user.jid
+    ) || {};
+    const _ownerLid = participants.find(u => _ownerJids.includes(conn.decodeJid(u.id)) && u.lid === m.sender);
+    if (_ownerLid) isROwner = true;
+
+    // Helper: convierte un JID/LID a JID real usando la lista de participantes del grupo
+    const _lid2jid = (jid) => {
+      if (!jid) return jid;
+      if (jid.endsWith('@s.whatsapp.net')) return jid;
+      // Buscar por lid exacto
+      const byLid = participants.find(p => p.lid === jid || (p.lid && conn.decodeJid(p.lid) === jid));
+      if (byLid) return conn.decodeJid(byLid.id);
+      // Buscar por número base (ej: "12345" de "12345:67@lid")
+      const num = jid.split('@')[0].split(':')[0];
+      const byNum = participants.find(p => conn.decodeJid(p.id).split('@')[0] === num);
+      if (byNum) return conn.decodeJid(byNum.id);
+      return jid;
+    };
+
+
+
+
+    if (m.isGroup && participants.length > 0) {
+      try {
+        const _u = global.db.data.users;
+        // Solo iterar si realmente hay keys @lid para no recorrer toda la DB en cada mensaje
+        const lidKeys = Object.keys(_u).filter(k => k.endsWith('@lid'));
+        for (const lidKey of lidKeys) {
+          const realJid = _lid2jid(lidKey);
+          if (!realJid || realJid === lidKey || !realJid.endsWith('@s.whatsapp.net')) continue;
+          if (!_u[realJid]) {
+            _u[realJid] = _u[lidKey];
+          } else {
+            for (const field of Object.keys(_u[lidKey])) {
+              if (_u[realJid][field] === undefined) _u[realJid][field] = _u[lidKey][field];
+            }
+          }
+          _u[lidKey] = _u[realJid];
+        }
+      } catch (_) {}
+    }
+
+    const isRAdmin = user?.admin == 'superadmin' || false;
+    const isAdmin = isRAdmin || user?.admin == 'admin' || false;
+    const isBotAdmin = bot?.admin === 'superadmin' || bot?.admin === 'admin' || false;
+    const ___dirname = path.join(path.dirname(fileURLToPath(import.meta.url)), './plugins');
+    for (const name in global.plugins) {
+      const plugin = global.plugins[name];
+      if (!plugin) {
+        continue;
+      }
+      if (plugin.disabled) {
+        continue;
+      }
+      const __filename = join(___dirname, name);
+      if (typeof plugin.all === 'function') {
+        try {
+          await plugin.all.call(this, m, {
+            chatUpdate,
+            __dirname: ___dirname,
+            __filename,
+          });
+        } catch (e) {
+         console.error(e);
+        }
+      }
+      if (!opts['restrict']) {
+        if (plugin.tags && plugin.tags.includes('admin')) {
+        
+          continue;
+        }
+      }
+      const str2Regex = (str) => str.replace(/[|\\{}()[\]^$+*?.]/g, '\\$&');
+      const _prefix = plugin.customPrefix ? plugin.customPrefix : conn.prefix ? conn.prefix : global.prefix;
+      const match = (_prefix instanceof RegExp ? // RegExp Mode?
+                [[_prefix.exec(m.text), _prefix]] :
+                Array.isArray(_prefix) ? // Array?
+                    _prefix.map((p) => {
+                      const re = p instanceof RegExp ? // RegExp in Array?
+                            p :
+                            new RegExp(str2Regex(p));
+                      return [re.exec(m.text), re];
+                    }) :
+                    typeof _prefix === 'string' ? // String?
+                        [[new RegExp(str2Regex(_prefix)).exec(m.text), new RegExp(str2Regex(_prefix))]] :
+                        [[[], new RegExp]]
+      ).find((p) => p[0]);
+      if (typeof plugin.before === 'function') {
+        if (await plugin.before.call(this, m, {
+          match,
+          conn: this,
+          participants,
+          groupMetadata,
+          user,
+          bot,
+          isROwner,
+          isOwner,
+          isRAdmin,
+          isAdmin,
+          isBotAdmin,
+          isPrems,
+          chatUpdate,
+          __dirname: ___dirname,
+          __filename,
+        })) {
+          continue;
+        }
+      }
+      if (typeof plugin !== 'function') {
+        continue;
+      }
+      if (match && (usedPrefix = (match[0] || '')[0])) {
+        const noPrefix = m.text.replace(usedPrefix, '');
+        let [command, ...args] = noPrefix.trim().split` `.filter((v) => v);
+        args = args || [];
+        const _args = noPrefix.trim().split` `.slice(1);
+        let text = _args.join` `;
+        // Normalizar menciones LID en el texto para que plugins que usan text.split('@')[1]
+        // reciban el número real en vez del LID (ej: "12345:67" → "521234567890")
+        if (participants.length > 0 && text.includes('@')) {
+          text = text.replace(/@([0-9][0-9:]*)/g, (match, numPart) => {
+            const baseNum = numPart.split(':')[0];
+            const found = participants.find(p => {
+              if (!p.lid) return false;
+              const lidBase = p.lid.split('@')[0].split(':')[0];
+              return lidBase === baseNum || p.lid.split('@')[0] === numPart;
+            });
+            if (found) return '@' + conn.decodeJid(found.id).split('@')[0];
+            return match;
+          });
+        }
+        command = (command || '').toLowerCase();
+        const fail = plugin.fail || global.dfail; // When failed
+        const isAccept = plugin.command instanceof RegExp ? // RegExp Mode?
+                    plugin.command.test(command) :
+                    Array.isArray(plugin.command) ? // Array?
+                        plugin.command.some((cmd) => cmd instanceof RegExp ? // RegExp in Array?
+                            cmd.test(command) :
+                            cmd === command,
+                        ) :
+                        typeof plugin.command === 'string' ? // String?
+                            plugin.command === command :
+                            false;
+
+        if (!isAccept) {
+          continue;
+        }
+        m.plugin = name;
+        if (m.chat in global.db.data.chats || m.sender in global.db.data.users) {
+          const chat = global.db.data.chats[m.chat];
+          const user = global.db.data.users[m.sender];
+          const botSpam = global.db.data.settings[mconn.conn.user.jid] || {};
+
+          if (!['owner-unbanchat.js', 'info-creator.js'].includes(name) && chat && chat?.isBanned && !isROwner) return; // Except this
+          if (name != 'owner-unbanchat.js' && name != 'owner-exec.js' && name != 'owner-exec2.js' && chat?.isBanned && !isROwner) return; // Except this
+		
+          if (m.text && user.banned && !isROwner) {
+            if (typeof user.bannedMessageCount === 'undefined') {
+              user.bannedMessageCount = 0;
+            }
+
+            if (user.bannedMessageCount < 3) {
+              const messageNumber = user.bannedMessageCount + 1;
+const messageText = `*USUARIO SUSPENDIDO*_\n
+ ▢ *Aviso:* ${messageNumber}/3
+ ${user.bannedReason ? `\n▢ *Motivo:* ${user.bannedReason}` : ' ▢ *Motivo:* Sin especificar'}
+ *[ ℹ️ ] Si consideras que esto es un error y cuentas con pruebas, puedes comunicarte con el propietario(a) del bot para apelar la suspensión.*`.trim();
+              m.reply(messageText);
+              user.bannedMessageCount++;
+            } else if (user.bannedMessageCount === 3) {
+              user.bannedMessageSent = true;
+            } else {
+              return;
+            }
+            return;
+          }
+		
+          if (botSpam.antispam && m.text && user && user.lastCommandTime && (Date.now() - user.lastCommandTime) < 5000 && !isROwner) {
+            if (user.commandCount === 2) {
+              const remainingTime = Math.ceil((user.lastCommandTime + 5000 - Date.now()) / 1000);
+              if (remainingTime > 0) {
+                const messageText = `*[ ℹ️ ] Espera* _${remainingTime} segundos_ *antes de utilizar otro comando.*`;
+                m.reply(messageText);
+                return;
+              } else {
+                user.commandCount = 0;
+              }
+            } else {
+              user.commandCount += 1;
+            }
+          } else {
+            user.lastCommandTime = Date.now();
+            user.commandCount = 1;
+          }
+        }
+	        const hl = _prefix;
+        const adminMode = (global.db.data.chats[m.chat] || {}).modoadmin;
+        const mystica = `${plugin.botAdmin || plugin.admin || plugin.group || plugin || noPrefix || hl || m.text.slice(0, 1) == hl || plugin.command}`;
+        if (adminMode && !isOwner && !isROwner && m.isGroup && !isAdmin && mystica) return;
+
+        if (plugin.rowner && plugin.owner && !(isROwner || isOwner)) { // Both Owner
+          fail('owner', m, this);
+          continue;
+        }
+        if (plugin.rowner && !isROwner) { // Real Owner
+          fail('rowner', m, this);
+          continue;
+        }
+        if (plugin.owner && !isOwner) { // Number Owner
+          fail('owner', m, this);
+          continue;
+        }
+        if (plugin.mods && !isMods) { // Moderator
+          fail('mods', m, this);
+          continue;
+        }
+        if (plugin.premium && !isPrems) { // Premium
+          fail('premium', m, this);
+          continue;
+        }
+        if (plugin.group && !m.isGroup) { // Group Only
+          fail('group', m, this);
+          continue;
+        } else if (plugin.botAdmin && !isBotAdmin) { // You Admin
+          fail('botAdmin', m, this);
+          continue;
+        } else if (plugin.admin && !isAdmin) { // User Admin
+          fail('admin', m, this);
+          continue;
+        }
+        if (plugin.private && m.isGroup) { // Private Chat Only
+          fail('private', m, this);
+          continue;
+        }
+        if (plugin.register == true && _user.registered == false) { // Butuh daftar?
+          fail('unreg', m, this);
+          continue;
+        }
+        m.isCommand = true;
+        const xp = 'exp' in plugin ? parseInt(plugin.exp) : 17; // XP Earning per command
+        if (xp > 200) {
+          m.reply('Ngecit -_-');
+        } // Hehehe
+        else {
+          m.exp += xp;
+        }
+        if (!isPrems && plugin.limit && global.db.data.users[m.sender].limit < plugin.limit * 1) {
+          mconn.conn.reply(m.chat, `✨ᴴᵒˡᵃ ᵉˢᵗⁱᵐᵃᵈᵒ ˡᵒ ˢⁱᵉⁿᵗᵒ ᵖᵉʳᵒ ᵗᵘˢ 💎ᵈⁱᵃᵐᵃⁿᵗᵉˢ ˢᵉ ᵗᵉ ʰᵃⁿ ᵃᵍᵒᵗᵃᵈᵒ ˢⁱ ᵈᵉˢᵉᵃˢ ˢᵉᵍᵘⁱʳ ᵘˢᵃⁿᵈᵒ ᵉˡ ᵇᵒᵗ ᵖᵘᵉᵈᵉˢ ⁱʳ ᵃ ˡᵃ 🛒ᵗⁱᵉⁿᵈᵃ ᵈᵉ 💎ᵈⁱᵃᵐᵃⁿᵗᵉˢ ᶜᵒⁿ ᵉˡ ᶜᵒᵐᵃⁿᵈᵒ\n🛒/ˢʰᵒᵖ\n\n✨ˢⁱ ᵗᵉ ⁱⁿᵗᵉʳᵉˢᵃ ᶜᵒᵐᵖʳᵃʳ ᵘⁿ ᵖᵉʳᵐⁱᵘᵐ ᵖᵃʳᵃ qᵘᵉ ᵉˡ ᵇᵒᵗ ⁿᵒ ᵗᵉ ᶜᵒᵇʳᵉ 💎ᵈⁱᵃᵐᵃⁿᵗᵉˢ ᵖᵘᵉᵈᵉˢ ⁱʳ ᵃˡ 🪙ᵗⁱᵉⁿᵈᵃ ᶜᵒⁿ ᵉˡ ᶜᵒᵐᵃⁿᵈᵒ\n🛒/ˢᵉˡˡ`, m);
+          continue; 
+        }
+        if (plugin.level > _user.level) {
+          mconn.conn.reply(m.chat, `*[ ℹ️ ] Se require tener el nivel ${plugin.level} para poder utilizar el comando. Tú nivel actual es ${_user.level}, usa el comando ${usedPrefix}lvl para subir tu nivel con XP.*`, m);
+          continue; 
+        }
+        const extra = {
+          match,
+          usedPrefix,
+          noPrefix,
+          _args,
+          args,
+          command,
+          text,
+          conn: this,
+          participants,
+          groupMetadata,
+          user,
+          bot,
+          isROwner,
+          isOwner,
+          isRAdmin,
+          isAdmin,
+          isBotAdmin,
+          isPrems,
+          chatUpdate,
+          __dirname: ___dirname,
+          __filename,
+        };
+        try {
+          // Proxy sobre m: solo intercepta mentionedJid para convertir LID a JID real.
+          // Usa Reflect.get para no romper getters ni closures de reply, etc.
+          const _mProxy = (participants.length > 0) ? new Proxy(m, {
+            get(target, prop, receiver) {
+              if (prop === 'mentionedJid') {
+                const raw = target[prop] || [];
+                return raw.map(_lid2jid);
+              }
+              return Reflect.get(target, prop, target);
+            }
+          }) : m;
+          await plugin.call(this, _mProxy, extra);
+          if (!isPrems) {
+            m.limit = m.limit || plugin.limit || false;
+          }
+        } catch (e) {
+          m.error = e;
+          console.error(e);
+          // Si el plugin lanzó un string con throw 'mensaje', mandarlo a WhatsApp
+          if (typeof e === 'string' && e.trim()) {
+            try { m.reply(e); } catch (_) {}
+          }
+        } finally {
+          if (typeof plugin.after === 'function') {
+            try {
+              await plugin.after.call(this, m, extra);
+            } catch (e) {
+              console.error(e);
+            }
+          }
+          if (m.limit) {
+            m.reply('𝐃𝐈𝐀𝐌𝐀𝐍𝐓𝐄 ' + +m.limit + '💎 𝐔𝐒𝐀𝐃𝐎');
+          }
+        }
+        break;
+      }
+    }
+  } catch (e) {
+    console.error(e);
+  } finally {
+    if (opts['queque'] && m.text) {
+      const quequeIndex = this.msgqueque.indexOf(m.id || m.key.id);
+      if (quequeIndex !== -1) {
+        this.msgqueque.splice(quequeIndex, 1);
+      }
+    }
+    let user; const stats = global.db.data.stats;
+    if (m) {
+      if (m.sender && (user = global.db.data.users[m.sender])) {
+        user.exp += m.exp;
+        user.limit -= m.limit * 1;
+      }
+
+      let stat;
+      if (m.plugin) {
+        const now = +new Date;
+        if (m.plugin in stats) {
+          stat = stats[m.plugin];
+          if (!isNumber(stat.total)) {
+            stat.total = 1;
+          }
+          if (!isNumber(stat.success)) {
+            stat.success = m.error != null ? 0 : 1;
+          }
+          if (!isNumber(stat.last)) {
+            stat.last = now;
+          }
+          if (!isNumber(stat.lastSuccess)) {
+            stat.lastSuccess = m.error != null ? 0 : now;
+          }
+        } else {
+          stat = stats[m.plugin] = {
+            total: 1,
+            success: m.error != null ? 0 : 1,
+            last: now,
+            lastSuccess: m.error != null ? 0 : now,
+          };
+        }
+        stat.total += 1;
+        stat.last = now;
+        if (m.error == null) {
+          stat.success += 1;
+          stat.lastSuccess = now;
+        }
+      }
+    }
+
+    try {
+      if (!opts['noprint']) await (await import(`./lib/print.js`)).default(m, this);
+    } catch (e) {
+      console.log(m, m.quoted, e);
+    }
+    try {
+      const settingsREAD = global.db.data.settings[mconn.conn.user.jid] || {};
+      if (opts['autoread']) await mconn.conn.readMessages([m.key]);
+      if (settingsREAD.autoread2) await mconn.conn.readMessages([m.key]);
+      this.sendPresenceUpdate('recording', m.chat);
+    } catch (_) {}
+  }
+}
+
+export async function participantsUpdate({id, participants, action}) {
+  try {
+    const m = mconn
+    const conn = m.conn
+
+    if (opts['self']) return
+    if (global.db.data == null) await loadDatabase()
+
+    const chat = global.db.data.chats[id] || {}
+    const botTt = global.db.data.settings[conn.user.jid] || {}
+    const normalizedAction = action === 'leave' ? 'remove' : action
+
+    const participantsList = (Array.isArray(participants) ? participants : [participants]).map(p => {
+      let jid = ''
+      if (typeof p === 'object' && p !== null) {
+        jid = p.phoneNumber || p.id || ''
+      } else if (typeof p === 'string') {
+        try { jid = JSON.parse(p).phoneNumber || JSON.parse(p).id || p } catch { jid = p }
+      } else {
+        jid = String(p)
+      }
+      if (typeof jid === 'object') jid = jid.phoneNumber || jid.id || ''
+      const decoded = conn.decodeJid(jid) || jid
+      return { id: decoded }
+    })
+
+    const participantIds = participantsList.map(p => p.id).filter(Boolean).sort().join(',')
+    const deduplicateKey = `${id}_${normalizedAction}_${participantIds}`
+    if (actionDeduplicator.has(deduplicateKey)) return
+    actionDeduplicator.set(deduplicateKey, true)
+    setTimeout(() => actionDeduplicator.delete(deduplicateKey), 5000)
+
+    if (normalizedAction === 'add' || normalizedAction === 'remove') {
+      const botNumber = (conn.user.jid || '').replace(/[^0-9]/g, '')
+      const botWasRemoved = normalizedAction === 'remove' && participantsList.some(p =>
+        (p.id || '').replace(/[^0-9]/g, '') === botNumber
+      )
+      if (botWasRemoved) return
+
+      if (!chat.welcome || chat?.isBanned) return
+
+      let groupMetadata = conn.chats?.[id]?.metadata || {}
+      try {
+        if (!groupMetadata?.participants?.length) groupMetadata = await conn.groupMetadata(id) || groupMetadata
+      } catch (_) {}
+
+      const totalMembers = groupMetadata?.participants?.length || 0
+      const groupName = groupMetadata?.subject || 'el grupo'
+      const groupDesc = groupMetadata?.desc?.toString() || 'Sin descripción'
+      const botPart = (groupMetadata?.participants || []).find(u => conn.decodeJid(u.id) === conn.decodeJid(conn.user.jid)) || {}
+      const isBotAdmin = botPart?.admin === 'admin' || botPart?.admin === 'superadmin'
+
+      for (const participant of participantsList) {
+        try {
+          const userJid = participant.id
+          if (!userJid) continue
+          const userNum = userJid.split('@')[0]
+
+          let antiArab = []
+          try {
+            if (fs.existsSync('./lib/img/antiArab.json')) antiArab = JSON.parse(fs.readFileSync('./lib/img/antiArab.json'))
+          } catch (_) {}
+          const userPrefix = antiArab.length > 0 && antiArab.some(prefix => userJid.startsWith(prefix))
+
+          if (userPrefix && chat.antiArab && botTt.restrict && isBotAdmin && normalizedAction === 'add') {
+            try {
+              const responseb = await conn.groupParticipantsUpdate(id, [userJid], 'remove')
+              if (responseb?.[0]?.status === '404') continue
+              const fkontak2 = {key: {participants: '0@s.whatsapp.net', remoteJid: 'status@broadcast', fromMe: false, id: 'Halo'}, message: {contactMessage: {vcard: `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${userNum}:${userNum}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}, participant: '0@s.whatsapp.net'}
+              await conn.sendMessage(id, {text: `*[❗] @${userNum} ᴇɴ ᴇsᴛᴇ ɢʀᴜᴘᴏ ɴᴏ sᴇ ᴘᴇʀᴍɪᴛᴇɴ ɴᴜᴍᴇʀᴏs ᴀʀᴀʙᴇs ᴏ ʀᴀʀᴏs, ᴘᴏʀ ʟᴏ ϙᴜᴇ sᴇ ᴛᴇ sᴀᴄᴀʀᴀ ᴅᴇʟ ɢʀᴜᴘᴏ*`, mentions: [userJid]}, {quoted: fkontak2})
+            } catch (_) {}
+            continue
+          }
+
+          const ppDefault = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png'
+          let ppUrl = ppDefault
+          try { ppUrl = await conn.profilePictureUrl(userJid, 'image') } catch (_) {}
+          const apii = await conn.getFile(ppUrl).catch(() => ({}))
+
+          let text
+          if (normalizedAction === 'add') {
+            text = (chat.sWelcome && chat.sWelcome.trim())
+              ? chat.sWelcome
+              : `╔═══ ◈ ʜᴀᴅᴇs ʙᴏᴛ ᴍᴅ ◈ ═══╗\n¡ʙɪᴇɴᴠᴇɴɪᴅᴏ ᴀʟ ɢʀᴜᴘᴏ! ${groupName}\n👋 @user ᴇsᴛᴀ́s ɪɴᴛᴇʀᴀᴄᴛᴜᴀɴᴅᴏ ᴄᴏɴ ʜᴀᴅᴇs ʙᴏᴛ ᴍᴅ, ᴜɴᴀ ɪɴᴛᴇʟɪɢᴇɴᴄɪᴀ ᴀʀᴛɪꜰɪᴄɪᴀʟ ᴅᴇ ᴇ́ʟɪᴛᴇ. 🤖✨\n📌 ɪɴɪᴄɪᴀ ᴀǫᴜɪ́:\n⌨️ ᴇsᴄʀɪʙᴇ: /menu ᴘᴀʀᴀ ᴠᴇʀ ᴍɪs ꜰᴜɴᴄɪᴏɴᴇs.\nᴀʙᴀᴊᴏ ᴇɴᴄᴏɴᴛʀᴀʀᴀ́s ɪɴꜰᴏʀᴍᴀᴄɪᴏ́ɴ ɪᴍᴘᴏʀᴛᴀɴᴛᴇ sᴏʙʀᴇ ᴇʟ ɢʀᴜᴘᴏ.\n👇 ¡ᴇxᴘʟᴏʀᴀ ʏ ᴀᴘʀᴏᴠᴇᴄʜᴀ ᴛᴏᴅᴏ! 📑\n${totalMembers}\n📖 _${groupDesc}_\n⚠️ ¡ᴀᴛᴇɴᴄɪᴏ́ɴ! ⚠️\nʟᴀ ᴅᴇsᴄʀɪᴘᴄɪᴏ́ɴ ᴅᴇʟ ɢʀᴜᴘᴏ ᴇs ᴠɪᴛᴀʟ. 📢 ʟᴇ́ᴇʟᴀ ᴘᴀʀᴀ ᴇᴠɪᴛᴀʀ ᴄᴜᴀʟǫᴜɪᴇʀ ɪɴᴄᴏɴᴠᴇɴɪᴇɴᴛᴇ ᴄᴏɴ ᴇʟ ᴄʀᴇᴀᴅᴏʀ. ⚖️\n¡ᴛᴜ ᴇxᴘᴇʀɪᴇɴᴄɪᴀ ᴇs ɴᴜᴇsᴛʀᴀ ᴘʀɪᴏʀɪᴅᴀᴅ! 🛡️💎\n╚═══ ◈ sʏsᴛᴇᴍ ᴀᴄᴛɪᴠᴇ ◈ ═══╝`
+          } else {
+            const remaining = Math.max(0, totalMembers - 1)
+            text = (chat.sBye && chat.sBye.trim())
+              ? chat.sBye
+              : `╔═══ ◈ ʜᴀᴅᴇs ʙᴏᴛ ᴍᴅ ◈ ═══╗\nʟᴀᴍᴇɴᴛᴀᴍᴏs ᴛᴜ ᴘᴀʀᴛɪᴅᴀ... 🥀 ᴜɴ ᴜsᴜᴀʀɪᴏ ʜᴀ sɪᴅᴏ ᴅᴇsᴄᴏɴᴇᴄᴛᴀᴅᴏ ᴅᴇʟ sɪsᴛᴇᴍᴀ. 📡🚫\n📌 ᴜsᴜᴀʀɪᴏ ʀᴇɢɪsᴛʀᴀᴅᴏ: ${remaining}\n👤 @user\nᴇsᴘᴇʀᴀᴍᴏs ǫᴜᴇ ᴛᴜ ᴇsᴛᴀɴᴄɪᴀ ʜᴀʏᴀ sɪᴅᴏ ɢʀᴀᴛᴀ. ɴᴜᴇsᴛʀᴀs ᴘᴜᴇʀᴛᴀs sɪᴇᴍᴘʀᴇ ᴇsᴛᴀʀᴀ́ɴ ᴀʙɪᴇʀᴛᴀs sɪ ᴅᴇᴄɪᴅᴇs ʀᴇɢʀᴇsᴀʀ. 🚪✨\n⚠️ ᴀᴠɪsᴏ: sɪ ꜰᴜɪsᴛᴇ ᴇʟɪᴍɪɴᴀᴅᴏ ᴘᴏʀ ɪɴᴄᴜᴍᴘʟɪʀ ʟᴀs ʀᴇɢʟᴀs, ᴛᴜ ʀᴇɪɴɢʀᴇsᴏ ᴇsᴛᴀ́ sᴜᴊᴇᴛᴏ ᴀ ᴀᴘʀᴏʙᴀᴄɪᴏ́ɴ. ⚖️👤\n╚══ ◈ ᴜsᴇʀ ᴅɪsᴄᴏɴɴᴇᴄᴛ ◈ ═══╝`
+          }
+
+          text = text
+            .replace(/@user/g, '@' + userNum)
+            .replace(/@group/g, groupName)
+            .replace(/@desc/g, groupDesc)
+            .replace(/@total/g, totalMembers.toString())
+
+          try {
+            if (apii?.data) {
+              await conn.sendMessage(id, {
+                image: apii.data,
+                caption: text,
+                mentions: [userJid]
+              }).catch(async () => {
+                try { await conn.sendMessage(id, {text, mentions: [userJid]}) } catch (_) {}
+              })
+            } else {
+              await conn.sendMessage(id, {text, mentions: [userJid]})
+            }
+          } catch (_) {
+            try { await conn.sendMessage(id, {text, mentions: [userJid]}) } catch (_) {}
+          }
+        } catch (e) {
+          console.error('[participantsUpdate] error en participante:', e.message)
+        }
+      }
+
+    } else if (['promote','demote','daradmin','darpoder','quitaradmin','quitarpoder'].includes(normalizedAction)) {
+      const isPromote = ['promote','daradmin','darpoder'].includes(normalizedAction)
+      const text = isPromote
+        ? (chat.sPromote || '*@user 𝚂𝙴 𝚂𝚄𝙼𝙰 𝙰𝙻 𝙶𝚁𝚄𝙿𝙾 𝙳𝙴 𝙰𝙳𝙼𝙸𝙽𝚂*')
+        : (chat.sDemote  || '*@user 𝙰𝙱𝙰𝙽𝙳𝙾𝙽𝙰 𝙴𝙻 𝙶𝚁𝚄𝙿𝙾 𝙳𝙴 𝙰𝙳𝙼𝙸𝙽𝚂*')
+
+      const p = participantsList[0]
+      if (!p) return
+      const finalText = text.replace(/@user/g, '@' + p.id.split('@')[0])
+      if (chat.detect && !chat?.isBanned) {
+        conn.sendMessage(id, {text: finalText, mentions: conn.parseMention(finalText)}).catch(() => {})
+      }
+    }
+  } catch (e) {
+    console.error('[participantsUpdate] error crítico:', e.message)
+  }
+}
+
+
+export async function groupsUpdate(groupsUpdate) {
+  if (opts['self']) {
+    return;
+  }
+  for (const groupUpdate of groupsUpdate) {
+    const id = groupUpdate.id;
+    if (!id) continue;
+    if (groupUpdate.size == NaN) continue;
+    if (groupUpdate.subjectTime) continue;
+    const chats = global.db.data.chats[id]; let text = '';
+    if (!chats?.detect) continue;
+    if (groupUpdate.desc) text = (chats.sDesc || this.sDesc || conn.sDesc || '*𝚂𝙴 𝙷𝙰 𝙼𝙾𝙳𝙸𝙵𝙸𝙲𝙰𝙳𝙾 𝙻𝙰 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾*\n\n *GROUP DESCRIPTION HAS BEEN CHANGED*\n*𝙽𝚄𝙴𝚅𝙰 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽:* @desc').replace('@desc', groupUpdate.desc);
+    if (groupUpdate.subject) text = (chats.sSubject || this.sSubject || conn.sSubject || '*𝚂𝙴 𝙷𝙰 𝙼𝙾𝙳𝙸𝙵𝙸𝙲𝙰𝙳𝙾 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾\n\n*THE NAME OF THE GROUP HAS BEEN CHANGED*\n*𝙽𝚄𝙴𝚅𝙾 𝙽𝙾𝙼𝙱𝚁𝙴:* @subject').replace('@subject', groupUpdate.subject);
+    if (groupUpdate.icon) text = (chats.sIcon || this.sIcon || conn.sIcon || '*𝚂𝙴 𝙷𝙰 𝙲𝙰𝙼𝙱𝙸𝙰𝙳𝙾 𝙻𝙰 𝙵𝙾𝚃𝙾 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾!!*\n\n\n*GROUP PHOTO HAS BEEN CHANGED*').replace('@icon', groupUpdate.icon);
+    if (groupUpdate.revoke) text = (chats.sRevoke || this.sRevoke || conn.sRevoke || '*𝚂𝙴 𝙷𝙰 𝙰𝙲𝚃𝚄𝙰𝙻𝙸𝚉𝙰𝙳𝙾 𝙴𝙻 𝙻𝙸𝙽𝙺 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾!!\n\n*THE GROUP LINK HAS BEEN UPDATED*\n*𝙻𝙸𝙽𝙺 𝙽𝚄𝙴𝚅𝙾:* @revoke').replace('@revoke', groupUpdate.revoke);
+    if (!text) continue;
+    await mconn.conn.sendMessage(id, {text, mentions: mconn.conn.parseMention(text)});
+  }
+}
+
+export async function callUpdate(callUpdate) {
+  const isAnticall = (global.db.data.settings[mconn.conn.user.jid] || {}).antiCall;
+  if (!isAnticall) return;
+  for (const nk of callUpdate) {
+    if (nk.isGroup == false) {
+      if (nk.status == 'offer') {
+        const callmsg = await mconn.conn.reply(nk.from, `Hola *@${nk.from.split('@')[0]}*, las ${nk.isVideo ? 'videollamadas' : 'llamadas'} no están permitidas, serás bloqueado.\n-\nSi accidentalmente llamaste póngase en contacto con mi creador para que te desbloquee!`, false, {mentions: [nk.from]});
+        
+        const vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍;;;\nFN:⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍\nORG:⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍\nTITLE:\nitem1.TEL;waid=5212412377467:+521 241 237 7467\nitem1.X-ABLabel:⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍\nX-WA-BIZ-DESCRIPTION:[❗] ᴄᴏɴᴛᴀᴄᴛᴀ ᴀ ᴇsᴛᴇ ɴᴜᴍ ᴘᴀʀᴀ ᴄᴏsᴀs ɪᴍᴘᴏʀᴛᴀɴᴛᴇs.\nX-WA-BIZ-NAME:⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍\nEND:VCARD`;
+        await mconn.conn.sendMessage(nk.from, {contacts: {displayName: '⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍', contacts: [{vcard}]}}, {quoted: callmsg});
+        await mconn.conn.updateBlockStatus(nk.from, 'block');
+      }
+    }
+  }
+}
+
+export async function deleteUpdate(message) {
+let d = new Date(new Date + 3600000)
+let date = d.toLocaleDateString('es', { day: 'numeric', month: 'long', year: 'numeric' })
+ let time = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
+    try {
+        const { fromMe, id, participant } = message
+        if (fromMe) return 
+        let msg = mconn.conn.serializeM(mconn.conn.loadMessage(id))
+	let chat = global.db.data.chats[msg?.chat] || {}
+	if (!chat?.antidelete) return 
+        if (!msg) return 
+	if (!msg?.isGroup) return 
+	const antideleteMessage = `━⬣𝘼𝙉𝙏𝙄 𝘿𝙀𝙇𝙀𝙏𝙀⬣━
+❏̸̷̸̷ִִْْNombre:* @${participant.split`@`[0]}
+❏̸̷̸̷ִִْْEnviando el mensaje..*
+❏̸̷̸̷ִִْْ*Hora:* ${time}
+❏̸̷̸̷ִִْْFecha:* ${date}
+*[ ℹ️ ] Para desactivar la función* _antidelete_*, envia el siguiente comando:* _/disable antidelete_`.trim();
+        await mconn.conn.sendMessage(msg.chat, {text: antideleteMessage, mentions: [participant]}, {quoted: msg})
+        mconn.conn.copyNForward(msg.chat, msg).catch(e => console.log(e, msg))
+    } catch (e) {
+        console.error(e)
+    }
+}
+
+global.dfail = (type, m, conn) => {
+  const msg = {
+       rowner: '📑 ɪɴғᴏʀᴍᴇ ᴅᴇ ᴄᴜᴍᴘʟɪᴍɪᴇɴᴛᴏ ᴅᴇ sᴇɢᴜʀɪᴅᴀᴅ\n\n──────────────────────────────\nɴúᴄʟᴇᴏ: sɪsᴛᴇᴍᴀ ᴅᴇ ᴄᴏɴᴛʀᴏʟ ᴅᴇ ᴀᴄᴄᴇsᴏ\nᴇᴠᴇɴᴛᴏ: ʀᴇsᴛʀɪᴄᴄɪóɴ ᴅᴇ ᴘʀɪᴠɪʟᴇɢɪᴏs\n──────────────────────────────\n\nᴅᴇᴛᴀʟʟᴇs ᴅᴇ ʟᴀ ᴘᴏʟíᴛɪᴄᴀ:\nᴅᴇ ᴀᴄᴜᴇʀᴅᴏ ᴄᴏɴ ʟᴏs ᴘʀᴏᴛᴏᴄᴏʟᴏs ᴅᴇ sᴇɢᴜʀɪᴅᴀᴅ ᴅᴇ ʟᴀ ᴘʟᴀᴛᴀғᴏʀᴍᴀ, ᴇʟ ᴄᴏᴍᴀɴᴅᴏ sᴏʟɪᴄɪᴛᴀᴅᴏ ᴇsᴛá ᴄʟᴀsɪғɪᴄᴀᴅᴏ ᴄᴏᴍᴏ ɴɪᴠᴇʟ ᴄʀíᴛɪᴄᴏ.\n\nᴇsᴛᴀᴅᴏ ᴅᴇ ᴀᴜᴛᴏʀɪᴢᴀᴄɪóɴ:\n⛔ ᴀᴄᴄᴇsᴏ ᴅᴇɴᴇɢᴀᴅᴏ: ᴄʀᴇᴅᴇɴᴄɪᴀʟᴇs ɪɴsᴜғɪᴄɪᴇɴᴛᴇs.\n👤 ʀᴇǫᴜᴇʀɪᴅᴏ: ғɪʀᴍᴀ ᴅɪɢɪᴛᴀʟ ᴅᴇ ᴏᴡɴᴇʀ (ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ/ᴀ).\n\nᴅɪʀᴇᴄᴛɪᴠᴀ ᴅᴇ ᴜsᴜᴀʀɪᴏ:\nᴘᴏʀ ғᴀᴠᴏʀ, ʀᴇᴍíᴛᴀsᴇ ᴀʟ ᴄᴀᴛáʟᴏɢᴏ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏs ᴘúʙʟɪᴄᴏs ᴘᴀʀᴀ ғᴜɴᴄɪᴏɴᴇs ᴇsᴛáɴᴅᴀʀ. ᴄᴜᴀʟǫᴜɪᴇʀ ɪɴᴛᴇɴᴛᴏ ᴅᴇ ᴀᴄᴄᴇsᴏ ɴᴏ ᴀᴜᴛᴏʀɪᴢᴀᴅᴏ ǫᴜᴇᴅᴀ ʀᴇɢɪsᴛʀᴀᴅᴏ ᴇɴ ᴇʟ ʟᴏɢ ᴅᴇʟ sɪsᴛᴇᴍᴀ.\n─────────────────────────────\n\n🛡️ sᴇɢᴜʀɪᴅᴀᴅ ɢᴀʀᴀɴᴛɪᴢᴀᴅᴀ ᴘᴏʀ ʜᴀᴅᴇs ʙᴏᴛ ᴍᴅ',
+       owner: '📑 ɪɴғᴏʀᴍᴇ ᴅᴇ ᴄᴜᴍᴘʟɪᴍɪᴇɴᴛᴏ ᴅᴇ sᴇɢᴜʀɪᴅᴀᴅ\n\n──────────────────────────────\nɴúᴄʟᴇᴏ: sɪsᴛᴇᴍᴀ ᴅᴇ ᴄᴏɴᴛʀᴏʟ ᴅᴇ ᴀᴄᴄᴇsᴏ\nᴇᴠᴇɴᴛᴏ: ʀᴇsᴛʀɪᴄᴄɪóɴ ᴅᴇ ᴘʀɪᴠɪʟᴇɢɪᴏs\n──────────────────────────────\n\nᴅᴇᴛᴀʟʟᴇs ᴅᴇ ʟᴀ ᴘᴏʟíᴛɪᴄᴀ:\nᴅᴇ ᴀᴄᴜᴇʀᴅᴏ ᴄᴏɴ ʟᴏs ᴘʀᴏᴛᴏᴄᴏʟᴏs ᴅᴇ sᴇɢᴜʀɪᴅᴀᴅ ᴅᴇ ʟᴀ ᴘʟᴀᴛᴀғᴏʀᴍᴀ, ᴇʟ ᴄᴏᴍᴀɴᴅᴏ sᴏʟɪᴄɪᴛᴀᴅᴏ ᴇsᴛá ᴄʟᴀsɪғɪᴄᴀᴅᴏ ᴄᴏᴍᴏ ɴɪᴠᴇʟ ᴄʀíᴛɪᴄᴏ.\n\nᴇsᴛᴀᴅᴏ ᴅᴇ ᴀᴜᴛᴏʀɪᴢᴀᴄɪóɴ:\n⛔ ᴀᴄᴄᴇsᴏ ᴅᴇɴᴇɢᴀᴅᴏ: ᴄʀᴇᴅᴇɴᴄɪᴀʟᴇs ɪɴsᴜғɪᴄɪᴇɴᴛᴇs.\n👤 ʀᴇǫᴜᴇʀɪᴅᴏ: ғɪʀᴍᴀ ᴅɪɢɪᴛᴀʟ ᴅᴇ ᴏᴡɴᴇʀ (ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ/ᴀ).\n\nᴅɪʀᴇᴄᴛɪᴠᴀ ᴅᴇ ᴜsᴜᴀʀɪᴏ:\nᴘᴏʀ ғᴀᴠᴏʀ, ʀᴇᴍíᴛᴀsᴇ ᴀʟ ᴄᴀᴛáʟᴏɢᴏ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏs ᴘúʙʟɪᴄᴏs ᴘᴀʀᴀ ғᴜɴᴄɪᴏɴᴇs ᴇsᴛáɴᴅᴀʀ. ᴄᴜᴀʟǫᴜɪᴇʀ ɪɴᴛᴇɴᴛᴏ ᴅᴇ ᴀᴄᴄᴇsᴏ ɴᴏ ᴀᴜᴛᴏʀɪᴢᴀᴅᴏ ǫᴜᴇᴅᴀ ʀᴇɢɪsᴛʀᴀᴅᴏ ᴇɴ ᴇʟ ʟᴏɢ ᴅᴇʟ sɪsᴛᴇᴍᴀ.\n─────────────────────────────\n\n🛡️ sᴇɢᴜʀɪᴅᴀᴅ ɢᴀʀᴀɴᴛɪᴢᴀᴅᴀ ᴘᴏʀ ʜᴀᴅᴇs ʙᴏᴛ ᴍᴅ',
+       mods: '📑 ɪɴғᴏʀᴍᴇ ᴅᴇ ᴄᴜᴍᴘʟɪᴍɪᴇɴᴛᴏ ᴅᴇ sᴇɢᴜʀɪᴅᴀᴅ\n\n──────────────────────────────\nɴúᴄʟᴇᴏ: sɪsᴛᴇᴍᴀ ᴅᴇ ᴄᴏɴᴛʀᴏʟ ᴅᴇ ᴀᴄᴄᴇsᴏ\nᴇᴠᴇɴᴛᴏ: ʀᴇsᴛʀɪᴄᴄɪóɴ ᴅᴇ ᴘʀɪᴠɪʟᴇɢɪᴏs\n──────────────────────────────\n\nᴅᴇᴛᴀʟʟᴇs ᴅᴇ ʟᴀ ᴘᴏʟíᴛɪᴄᴀ:\nᴅᴇ ᴀᴄᴜᴇʀᴅᴏ ᴄᴏɴ ʟᴏs ᴘʀᴏᴛᴏᴄᴏʟᴏs ᴅᴇ sᴇɢᴜʀɪᴅᴀᴅ ᴅᴇ ʟᴀ ᴘʟᴀᴛᴀғᴏʀᴍᴀ, ᴇʟ ᴄᴏᴍᴀɴᴅᴏ sᴏʟɪᴄɪᴛᴀᴅᴏ ᴇsᴛá ᴄʟᴀsɪғɪᴄᴀᴅᴏ ᴄᴏᴍᴏ ɴɪᴠᴇʟ ᴄʀíᴛɪᴄᴏ.\n\nᴇsᴛᴀᴅᴏ ᴅᴇ ᴀᴜᴛᴏʀɪᴢᴀᴄɪóɴ:\n⛔ ᴀᴄᴄᴇsᴏ ᴅᴇɴᴇɢᴀᴅᴏ: ᴄʀᴇᴅᴇɴᴄɪᴀʟᴇs ɪɴsᴜғɪᴄɪᴇɴᴛᴇs.\n👤 ʀᴇǫᴜᴇʀɪᴅᴏ: ғɪʀᴍᴀ ᴅɪɢɪᴛᴀʟ ᴅᴇ ᴏᴡɴᴇʀ (ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ/ᴀ).\n\nᴅɪʀᴇᴄᴛɪᴠᴀ ᴅᴇ ᴜsᴜᴀʀɪᴏ:\nᴘᴏʀ ғᴀᴠᴏʀ, ʀᴇᴍíᴛᴀsᴇ ᴀʟ ᴄᴀᴛáʟᴏɢᴏ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏs ᴘúʙʟɪᴄᴏs ᴘᴀʀᴀ ғᴜɴᴄɪᴏɴᴇs ᴇsᴛáɴᴅᴀʀ. ᴄᴜᴀʟǫᴜɪᴇʀ ɪɴᴛᴇɴᴛᴏ ᴅᴇ ᴀᴄᴄᴇsᴏ ɴᴏ ᴀᴜᴛᴏʀɪᴢᴀᴅᴏ ǫᴜᴇᴅᴀ ʀᴇɢɪsᴛʀᴀᴅᴏ ᴇɴ ᴇʟ ʟᴏɢ ᴅᴇʟ sɪsᴛᴇᴍᴀ.\n─────────────────────────────\n\n🛡️ sᴇɢᴜʀɪᴅᴀᴅ ɢᴀʀᴀɴᴛɪᴢᴀᴅᴀ ᴘᴏʀ ʜᴀᴅᴇs ʙᴏᴛ ᴍᴅ',
+       premium: '[⚠️ᵃᵛⁱˢᵒ ⁱᵐᵖᵒʳᵗᵃⁿᵗᵉ⚠️]\nᴱˢᵗᵉ ᶜᵒᵐᵃⁿᵈᵒ ˢᵒˡᵒ ᴾᵘᵉᵈᵉ ˢᵉʳ ᵁᵗⁱˡⁱᶻᵃᵈᵒ ᴾᵒʳ ᴸᵒˢ ᵁˢᵘᵃʳⁱᵒˢ ᴾʳᵉᵐⁱᵘᵐ ʸ ᴱˡ/ᴸᵃ ᴾʳᵒᵖⁱᵉᵗᵃʳⁱᵒ/ᴬ (ᵒʷⁿᵉʳ) ᴰᵉˡ ᴮᵒᵗ',
+       group: '✨ ¡ʜᴏʟᴀ! ᴇsᴛᴏs sᴏɴ ɴᴜᴇsᴛʀᴏs ᴇsᴘᴀᴄɪᴏs ✨\nᴀϙᴜɪ́ ᴛɪᴇɴᴇs ʟᴏs ʟᴜɢᴀʀᴇs ᴏғɪᴄɪᴀʟᴇs ᴅᴏɴᴅᴇ ᴘᴜᴇᴅᴇs ᴜsᴀʀ ᴇʟ ʙᴏᴛ, ʀᴇᴄɪʙɪʀ ᴀʏᴜᴅᴀ ʏ ᴇɴᴛᴇʀᴀʀᴛᴇ ᴅᴇ ᴛᴏᴅᴀs ʟᴀs\n\nɴᴏᴠᴇᴅᴀᴅᴇs ᴅᴇ ʜᴀᴅᴇs ʙᴏᴛ ᴍᴅ.\n📂 ɴᴜᴇsᴛʀᴏs ᴇɴʟᴀᴄᴇs:\n👥 ɢʀᴜᴘᴏ ᴅᴇ sᴏᴘᴏʀᴛᴇ\nɪᴅᴇᴀʟ ᴘᴀʀᴀ ᴅᴜᴅᴀs, ʀᴇᴘᴏʀᴛᴇs ʏ ᴀᴘʀᴇɴᴅᴇʀ ᴀ ᴜsᴀʀ ᴇʟ ʙᴏᴛ.\n[https://chat.whatsapp.com/Jhs2WrdiNzY3CML7shPwot?mode=gi_t]\n🧪 ɢʀᴜᴘᴏ ᴅᴇ ᴘʀᴜᴇʙᴀs (ɢʀᴜᴘᴏ 1)\nᴜɴ ᴇsᴘᴀᴄɪᴏ ᴘᴀʀᴀ ɪɴᴛᴇʀᴀᴄᴛᴜᴀʀ ᴄᴏɴ ᴛᴏᴅᴀs ʟᴀs ғᴜɴᴄɪᴏɴᴇs ᴅᴇʟ ʙᴏᴛ.\n[https://chat.whatsapp.com/GC4VWbHOrqw9RXhPdKz6KX?mode=gi_t]\n🧪 ɢʀᴜᴘᴏ ᴅᴇ ᴘʀᴜᴇʙᴀs (ɢʀᴜᴘᴏ2)\n[https://chat.whatsapp.com/EQPVxR5cHrn2Fb3flVJHk2?mode=gi_t]\n📢 ᴄᴀɴᴀʟ ᴏғɪᴄɪᴀʟ\nsᴜsᴄʀɪ́ʙᴇᴛᴇ ᴘᴀʀᴀ ᴀᴄᴛᴜᴀʟɪᴢᴀᴄɪᴏɴᴇs, ɴᴏᴛɪᴄɪᴀs ʏ ɴᴜᴇᴠᴏs ᴄᴏᴍᴀɴᴅᴏs.\n[https://whatsapp.com/channel/0029VbANB7sCcW4hhrIL9n3M]\n\n¡ɢʀᴀᴄɪᴀs ᴘᴏʀ sᴇʀ ᴘᴀʀᴛᴇ ᴅᴇ ʟᴀ ᴄᴏᴍᴜɴɪᴅᴀᴅ ᴅᴇ ʜᴀᴅᴇs ʙᴏᴛ ᴍᴅ! 🤖',
+       private: '⚠️ ᴀᴄᴄᴇsᴏ ᴅᴇɴᴇɢᴀᴅᴏ ⚠️\nᴘʀᴏᴛᴏᴄᴏʟᴏ ᴅᴇ sᴇɢᴜʀɪᴅᴀᴅ ᴀᴄᴛɪᴠᴀᴅᴏ. 📡🚫\n🔒 ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ sᴏ́ʟᴏ ᴇsᴛᴀ́ ᴅɪsᴘᴏɴɪʙʟᴇ ᴇɴ ᴇʟ ᴄʜᴀᴛ ᴘʀɪᴠᴀᴅᴏ ᴅᴇʟ ʙᴏᴛ.\nᴘᴏʀ ꜰᴀᴠᴏʀ, ᴇɴᴠɪ́ᴀ ᴛᴜ sᴏʟɪᴄɪᴛᴜᴅ ᴅɪʀᴇᴄᴛᴀᴍᴇɴᴛᴇ ᴀ ᴍɪ ᴄʜᴀᴛ ᴘᴇʀsᴏɴᴀʟ ᴘᴀʀᴀ ᴘᴏᴅᴇʀ ᴘʀᴏᴄᴇsᴀʀʟᴀ ᴄᴏʀʀᴇᴄᴛᴀᴍᴇɴᴛᴇ. 🤖✨',
+       admin: '[⚠️ᵃᵛⁱˢᵒ ⁱᵐᵖᵒʳᵗᵃⁿᵗᵉ⚠️]\nᴱˢᵗᵉ ᶜᵒᵐᵃⁿᵈᵒ ˢᵒˡᵒ ᴾᵘᵉᵈᵉ ˢᵉʳ ᵁᵗⁱˡⁱᶻᵃᵈᵒ ᴾᵃʳᵃ ˢᵒˡᵒ ᴬᵈᵐⁱⁿⁱˢᵗʳᵃᵈᵒʳᵉˢ ᴰᵉˡ ᴳʳᵘᵖᵒˢ',
+       botAdmin: '━━━━━ 🔱 ʜᴀᴅᴇs ʙᴏᴛ ᴍᴅ ━━━━━\n📑 ᴛɪᴘᴏ ᴅᴇ ᴇʀʀᴏʀ: ᴀᴄᴄᴇsᴏ ᴅᴇɴᴇɢᴀᴅᴏ\n🛡️ ʀᴇǫᴜɪsɪᴛᴏ: ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟᴇɢᴇs\nsɪsᴛᴇᴍᴀ: ᴇʟ ʙᴏᴛ ɴᴏ ᴘᴏsᴇᴇ ʟᴏs ᴘᴇʀᴍɪsᴏs ɴᴇᴄᴇsᴀʀɪᴏs ᴘᴀʀᴀ ᴇᴊᴇᴄᴜᴛᴀʀ ᴇsᴛᴀ ᴏʀᴅᴇɴ ᴇɴ ᴇsᴛᴇ ɢʀᴜᴘᴏ.\n━━━━━━━━━━━━━━━━━━━━━━━',
+       unreg: '💠 ▰▱▰ ᴴᴬᴰᴱˢ-ᴮᴼᵀ-ᴹᴰ ▰▱▰ 💠\n\n🔲 ɴᴏᴅᴏ: ʀᴇɢɪsᴛʀᴏ ʀᴇǫᴜᴇʀɪᴅᴏ\n🔲 ʟɪɴᴋ: ᴇɴ ᴇsᴘᴇʀᴀ...\n\n┌─  ◈  ───  ᴵᴺᵀᴱᴿᶠᴬᶻ ᶜᴼᴿᴱ  ───  ◈  ─┐\n¡ʜᴏʟᴀ! ᴘᴀʀᴀ sɪɴᴄʀᴏɴɪᴢᴀʀ ᴛᴜ ɪᴅᴇɴᴛɪᴅᴀᴅ ᴄᴏɴ ᴍɪ ɴúᴄʟᴇᴏ ʏ ʜᴀʙɪʟɪᴛᴀʀ ᴇʟ ᴀᴄᴄᴇsᴏ ᴛᴏᴛᴀʟ, ᴄᴏᴍᴘʟᴇᴛᴀ ᴇʟ sɪɢᴜɪᴇɴᴛᴇ ᴘʀᴏᴛᴏᴄᴏʟᴏ:\n🌐 ᴠɪɴᴄᴜʟᴀᴄɪóɴ ᴅᴇ ᴅᴀᴛᴏs\n\n━━━━━━━━━━━━━━━━━━━━━\n◈ ᴇsᴄʀɪʙᴀ: /reg nombre.edad\n◈ ᴇᴊᴇᴍᴘʟᴏ: /reg Hades.22\n━━━━━━━━━━━━━━━━━━━━━\n\n⚠️ ᴘʀᴏᴛᴏᴄᴏʟᴏ ᴅᴇ ᴅᴇsʙʟᴏǫᴜᴇᴏ\n▰▱ ᴛʀᴀs ʟᴀ ᴠᴀʟɪᴅᴀᴄɪóɴ ᴅᴇʟ sɪsᴛᴇᴍᴀ,\n▰▱ ʟᴀs ʜᴇʀʀᴀᴍɪᴇɴᴛᴀs ᴅᴇ ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ\n▰▱ sᴇ ᴀᴄᴛɪᴠᴀʀáɴ ᴅᴇ ғᴏʀᴍᴀ ᴀᴜᴛóɴᴏᴍᴀ.\n└─  ◈  ───  ¡ᴅɪsғʀᴜᴛᴀ!  ───  ◈  ─┘\n\n💠 ▰▱▰ ᴴᴬᴰᴱˢ-ᴮᴼᵀ-ᴹᴰ ▰▱▰ 💠 🪀',
+       restrict: '📑 ɪɴғᴏʀᴍᴇ ᴅᴇ ᴄᴜᴍᴘʟɪᴍɪᴇɴᴛᴏ ᴅᴇ sᴇɢᴜʀɪᴅᴀᴅ\n\n──────────────────────────────\nɴúᴄʟᴇᴏ: sɪsᴛᴇᴍᴀ ᴅᴇ ᴄᴏɴᴛʀᴏʟ ᴅᴇ ᴀᴄᴄᴇsᴏ\nᴇᴠᴇɴᴛᴏ: ʀᴇsᴛʀɪᴄᴄɪóɴ ᴅᴇ ᴘʀɪᴠɪʟᴇɢɪᴏs\n──────────────────────────────\n\nᴅᴇᴛᴀʟʟᴇs ᴅᴇ ʟᴀ ᴘᴏʟíᴛɪᴄᴀ:\nᴅᴇ ᴀᴄᴜᴇʀᴅᴏ ᴄᴏɴ ʟᴏs ᴘʀᴏᴛᴏᴄᴏʟᴏs ᴅᴇ sᴇɢᴜʀɪᴅᴀᴅ ᴅᴇ ʟᴀ ᴘʟᴀᴛᴀғᴏʀᴍᴀ, ᴇʟ ᴄᴏᴍᴀɴᴅᴏ sᴏʟɪᴄɪᴛᴀᴅᴏ ᴇsᴛá ᴄʟᴀsɪғɪᴄᴀᴅᴏ ᴄᴏᴍᴏ ɴɪᴠᴇʟ ᴄʀíᴛɪᴄᴏ.\n\nᴇsᴛᴀᴅᴏ ᴅᴇ ᴀᴜᴛᴏʀɪᴢᴀᴄɪóɴ:\n⛔ ᴀᴄᴄᴇsᴏ ᴅᴇɴᴇɢᴀᴅᴏ: ᴄʀᴇᴅᴇɴᴄɪᴀʟᴇs ɪɴsᴜғɪᴄɪᴇɴᴛᴇs.\n👤 ʀᴇǫᴜᴇʀɪᴅᴏ: ғɪʀᴍᴀ ᴅɪɢɪᴛᴀʟ ᴅᴇ ᴏᴡɴᴇʀ (ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ/ᴀ).\n\nᴅɪʀᴇᴄᴛɪᴠᴀ ᴅᴇ ᴜsᴜᴀʀɪᴏ:\nᴘᴏʀ ғᴀᴠᴏʀ, ʀᴇᴍíᴛᴀsᴇ ᴀʟ ᴄᴀᴛáʟᴏɢᴏ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏs ᴘúʙʟɪᴄᴏs ᴘᴀʀᴀ ғᴜɴᴄɪᴏɴᴇs ᴇsᴛáɴᴅᴀʀ. ᴄᴜᴀʟǫᴜɪᴇʀ ɪɴᴛᴇɴᴛᴏ ᴅᴇ ᴀᴄᴄᴇsᴏ ɴᴏ ᴀᴜᴛᴏʀɪᴢᴀᴅᴏ ǫᴜᴇᴅᴀ ʀᴇɢɪsᴛʀᴀᴅᴏ ᴇɴ ᴇʟ ʟᴏɢ ᴅᴇʟ sɪsᴛᴇᴍᴀ.\n─────────────────────────────\n\n🛡️ sᴇɢᴜʀɪᴅᴀᴅ ɢᴀʀᴀɴᴛɪᴢᴀᴅᴀ ᴘᴏʀ ʜᴀᴅᴇs ʙᴏᴛ ᴍᴅ'
+  }[type];
+  const aa = {quoted: m, userJid: conn.user.jid};
+  const prep = generateWAMessageFromContent(m.chat, {extendedTextMessage: {text: msg, contextInfo: {externalAdReply: {title: '*[ ⚠ ] Advertencia*', body: 'ʜᴀᴅᴇs ʙᴏᴛ ᴍᴅ', thumbnail: imagen1, sourceUrl: 'https://github.com/OFC-YOVANI/HADES-BOT-OMEGA'}}}}, aa);
+  if (msg) return conn.relayMessage(m.chat, prep.message, {messageId: prep.key.id});
+};
+
+const file = global.__filename(import.meta.url, true);
+unwatchFile(file); // NO TOCAR: Esto asegura que no haya oyentes antiguos antes de crear uno nuevo.
+
+watchFile(file, async () => {
+    unwatchFile(file);
+    console.log(chalk.redBright('Update \'handler.js\''));
+    if (global.reloadHandler) {
+        await global.reloadHandler();
+    }
+});
