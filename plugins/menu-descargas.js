@@ -1,1 +1,66 @@
-const _0x3044e1=_0x1da9;(function(_0x4f8891,_0x34dfbd){const _0x196aca=_0x1da9,_0x2f23f4=_0x4f8891();while(!![]){try{const _0x1eaf4a=-parseInt(_0x196aca(0x170))/0x1*(-parseInt(_0x196aca(0x169))/0x2)+parseInt(_0x196aca(0x18a))/0x3*(parseInt(_0x196aca(0x18c))/0x4)+parseInt(_0x196aca(0x18d))/0x5*(-parseInt(_0x196aca(0x167))/0x6)+parseInt(_0x196aca(0x177))/0x7*(parseInt(_0x196aca(0x16f))/0x8)+-parseInt(_0x196aca(0x165))/0x9*(-parseInt(_0x196aca(0x17a))/0xa)+parseInt(_0x196aca(0x189))/0xb*(-parseInt(_0x196aca(0x17f))/0xc)+-parseInt(_0x196aca(0x18f))/0xd*(parseInt(_0x196aca(0x16c))/0xe);if(_0x1eaf4a===_0x34dfbd)break;else _0x2f23f4['push'](_0x2f23f4['shift']());}catch(_0x68b6e0){_0x2f23f4['push'](_0x2f23f4['shift']());}}}(_0x1972,0x479ad));import _0x4f2115 from'node-fetch';function _0x1da9(_0x5283bd,_0x1b0f7c){_0x5283bd=_0x5283bd-0x163;const _0x1972b2=_0x1972();let _0x1da9b7=_0x1972b2[_0x5283bd];return _0x1da9b7;}function _0x1972(){const _0x5645a3=['312MODsqg','55qnjnUM','@g.us','data','endsWith','jid','chats','length','61418FgqOIk','arrayBuffer','/menu','430gXZvdh','isChats','chat','sendMessage','uptime','12cVuyfO','settings','user','\x20cómo\x20estás?\x0a「\x20⚡\x20」\x20ᴘʀᴇғɪxᴏ:\x20#\x0a╭───\x20\x20📥\x20\x20ᴅᴇsᴄᴀʀɢᴀs\x20\x20───╮\x0a┝\x20#play\x20❯\x20nombre\x0a┝\x20#Spotify\x20❯\x20nombre\x0a┝\x20#apk\x20❯\x20nombre\x0a┝\x20#playstore\x20❯\x20nombre\x0a┝\x20#pelisplus\x20❯\x20nombre\x0a╰──────────────────╯\x0a╭───\x20\x20🔍\x20\x20ʙᴜ́sǫᴜᴇᴅᴀs\x20\x20───╮\x0a┝\x20#Google\x20❯\x20texto\x0a┝\x20#ytsearch\x20❯\x20texto\x0a┝\x20#Wikipedia\x20❯\x20texto\x0a┝\x20#animeinfo\x20❯\x20nombre\x0a┝\x20#githubsearch\x20❯\x20user\x0a┝\x20#lirik\x20❯\x20canción\x0a┝\x20#stickerssearch\x20❯\x20tema\x0a┝\x20#stickerssearch2\x20❯\x20tema\x0a╰──────────────────╯\x0a╭──\x20🌐\x20\x20ʀᴇᴅᴇs\x20sᴏᴄɪᴀʟᴇs\x20──╮\x0a┝\x20#Facebook\x20❯\x20enlace\x0a┝\x20#Instagram\x20❯\x20enlace\x0a┝\x20#tiktok\x20❯\x20enlace\x0a┝\x20#Twitter\x20❯\x20enlace\x0a╰──────────────────╯\x0aʜᴀᴅᴇs\x20-\x20ʙᴏᴛ\x20-\x20ᴍᴅ\x20•\x20ᴠ3.5\x0a◈\x20━━━━━━━━━━━━━━━━\x20◈','floor','users','filter','🔙\x20ᴍᴇɴᴜ́\x20ᴘʀɪɴᴄɪᴘᴀʟ','toString','padStart','1858769Nzoern','3TARvKn','registered','301960DBgyVW','1585iGzzRz','values','374426mAfBaz','from','now','toFixed','「\x20ᴄʀᴇᴀᴅᴏʀ:\x20ᴏғᴄ:ʏᴏᴠᴀɴɪ\x20」','72720tcKvmV','register','9708aZCOaV','entries','11828bqCtGF','keys','command','56sNiwnS','https://raw.githubusercontent.com/OFC-YOVANI/Api-anime/main/img/menudescargas.jpg','trim'];_0x1972=function(){return _0x5645a3;};return _0x1972();}import{performance}from'perf_hooks';const handler=async(_0x1d17b0,{conn:_0x23dd76,usedPrefix:_0x39c137})=>{const _0x1d600b=_0x1da9,_0x2a4176=process[_0x1d600b(0x17e)]()*0x3e8,_0x517495=clockString(_0x2a4176),_0x4796e1=Object[_0x1d600b(0x18e)](global['db'][_0x1d600b(0x172)]['users'])[_0x1d600b(0x185)](_0xe4dac7=>_0xe4dac7[_0x1d600b(0x18b)])[_0x1d600b(0x176)],_0xdaa013=Object[_0x1d600b(0x16a)](global['db'][_0x1d600b(0x172)][_0x1d600b(0x184)])[_0x1d600b(0x176)],_0x4b775c=Object[_0x1d600b(0x168)](_0x23dd76[_0x1d600b(0x175)])[_0x1d600b(0x185)](([_0x5df467,_0x119921])=>_0x5df467&&_0x119921[_0x1d600b(0x17b)]),_0x563f1e=_0x4b775c[_0x1d600b(0x185)](([_0x2e1327])=>_0x2e1327[_0x1d600b(0x173)](_0x1d600b(0x171))),{restrict:_0x4792ed,antiCall:_0x2bccdc,antiprivado:_0x15e3b4,modejadibot:_0x4974a}=global['db'][_0x1d600b(0x172)][_0x1d600b(0x180)][_0x23dd76[_0x1d600b(0x181)][_0x1d600b(0x174)]]||{},{autoread:_0x475025,gconly:_0x12bb6b,pconly:_0x449caf,self:_0x3250bc}=global['opts']||{};let _0x401ba0=await _0x23dd76['getName'](_0x1d17b0['sender']);const _0x5b7b0b=(performance['now']()-performance[_0x1d600b(0x191)]())[_0x1d600b(0x163)](0x7),_0x4ec405=('◈\x20〔⚡︎\x20ʜᴀᴅᴇs\x20-\x20ʙᴏᴛ\x20-\x20ᴍᴅ\x20⚡︎〕\x20◈\x0a「\x20👤\x20」Hola\x20'+_0x401ba0+_0x1d600b(0x182))[_0x1d600b(0x16e)](),_0x18dcb4=_0x1d600b(0x16d),_0x376a10=await _0x4f2115(_0x18dcb4),_0x166e80=Buffer[_0x1d600b(0x190)](await _0x376a10[_0x1d600b(0x178)]());await _0x23dd76[_0x1d600b(0x17d)](_0x1d17b0[_0x1d600b(0x17c)],{'image':_0x166e80,'caption':_0x4ec405,'footer':_0x1d600b(0x164),'buttons':[{'buttonId':_0x1d600b(0x179),'buttonText':{'displayText':_0x1d600b(0x186)},'type':0x1}],'headerType':0x4},{'quoted':_0x1d17b0});};handler[_0x3044e1(0x16b)]=/^(descargas)$/i,handler[_0x3044e1(0x166)]=!![];export default handler;function clockString(_0x16613a){const _0x21e5e1=_0x3044e1,_0x1d4704=Math[_0x21e5e1(0x183)](_0x16613a/0x36ee80),_0x2f4ae6=Math['floor'](_0x16613a/0xea60)%0x3c,_0x571494=Math[_0x21e5e1(0x183)](_0x16613a/0x3e8)%0x3c;return[_0x1d4704,_0x2f4ae6,_0x571494]['map'](_0xf384a0=>_0xf384a0[_0x21e5e1(0x187)]()[_0x21e5e1(0x188)](0x2,0x0))['join'](':');}
+import fetch from 'node-fetch'
+import { performance } from 'perf_hooks'
+const handler = async (m, { conn, usedPrefix }) => {
+const uptimeMs = process.uptime() * 1000
+const uptime = clockString(uptimeMs)
+const totalreg = Object.values(global.db.data.users).filter(v => v.registered).length
+const totalusers = Object.keys(global.db.data.users).length
+const chats = Object.entries(conn.chats).filter(([id, data]) => id && data.isChats)
+const groups = chats.filter(([id]) => id.endsWith('@g.us'))
+const { restrict, antiCall, antiprivado, modejadibot } = global.db.data.settings[conn.user.jid] || {}
+const { autoread, gconly, pconly, self } = global.opts || {}
+let name = await conn.getName(m.sender)
+const ping = (performance.now() - performance.now()).toFixed(7)
+const text = `◈ 〔⚡︎ ʜᴀᴅᴇs - ʙᴏᴛ - ᴍᴅ ⚡︎〕 ◈
+「 👤 」Hola ${name} cómo estás?
+「 ⚡ 」 ᴘʀᴇғɪxᴏ: #
+╭───  📥  ᴅᴇsᴄᴀʀɢᴀs  ───╮
+┝ #play ❯ nombre para audio
+┝ #play2 ❯ nombre para video 
+┝ #Spotify ❯ nombre
+┝ #apk ❯ nombre
+┝ #playstore ❯ nombre
+┝ #pelisplus ❯ nombre
+╰──────────────────╯
+╭───  🔍  ʙᴜ́sǫᴜᴇᴅᴀs  ───╮
+┝ #Google ❯ texto
+┝ #ytsearch ❯ texto
+┝ #Wikipedia ❯ texto
+┝ #animeinfo ❯ nombre
+┝ #githubsearch ❯ user
+┝ #lirik ❯ canción
+┝ #stickerssearch ❯ tema
+┝ #stickerssearch2 ❯ tema
+╰──────────────────╯
+╭── 🌐  ʀᴇᴅᴇs sᴏᴄɪᴀʟᴇs ──╮
+┝ #Facebook ❯ enlace
+┝ #Instagram ❯ enlace
+┝ #tiktok ❯ enlace
+┝ #Twitter ❯ enlace
+╰──────────────────╯
+ʜᴀᴅᴇs - ʙᴏᴛ - ᴍᴅ • ᴠ3.5
+◈ ━━━━━━━━━━━━━━━━ ◈`.trim()
+const imageUrl = 'https://raw.githubusercontent.com/OFC-YOVANI/Api-anime/main/img/menudescargas.jpg'
+const res = await fetch(imageUrl)
+const buffer = Buffer.from(await res.arrayBuffer())
+await conn.sendMessage(m.chat, {
+image: buffer,
+caption: text,
+footer: '「 ᴄʀᴇᴀᴅᴏʀ: ᴏғᴄ:ʏᴏᴠᴀɴɪ 」',
+buttons: [
+{ buttonId: '/menu', buttonText: { displayText: '🔙 ᴍᴇɴᴜ́ ᴘʀɪɴᴄɪᴘᴀʟ' }, type: 1 }
+],
+headerType: 4
+}, { quoted: m })
+
+}
+handler.command = /^(descargas)$/i
+handler.register = true
+export default handler
+
+function clockString(ms){
+const h = Math.floor(ms/3600000)
+const m = Math.floor(ms/60000)%60
+const s = Math.floor(ms/1000)%60
+return [h,m,s].map(v=>v.toString().padStart(2,0)).join(':')
+}
