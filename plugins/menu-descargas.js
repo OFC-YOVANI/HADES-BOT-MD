@@ -15,8 +15,7 @@ const text = `◈ 〔⚡︎ ʜᴀᴅᴇs - ʙᴏᴛ - ᴍᴅ ⚡︎〕 ◈
 「 👤 」Hola ${name} cómo estás?
 「 ⚡ 」 ᴘʀᴇғɪxᴏ: #
 ╭───  📥  ᴅᴇsᴄᴀʀɢᴀs  ───╮
-┝ #play ❯ nombre para audio
-┝ #play2 ❯ nombre para video 
+┝ #play ❯ nombre
 ┝ #Spotify ❯ nombre
 ┝ #apk ❯ nombre
 ┝ #playstore ❯ nombre

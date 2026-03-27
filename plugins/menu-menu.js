@@ -1,1 +1,141 @@
-function _0x260e(_0x3560a1,_0x2d150d){_0x3560a1=_0x3560a1-0x15b;const _0x17decf=_0x17de();let _0x260ec2=_0x17decf[_0x3560a1];return _0x260ec2;}const _0x492df6=_0x260e;(function(_0x1cf492,_0x46f30b){const _0x4e5709=_0x260e,_0x47ed0f=_0x1cf492();while(!![]){try{const _0x39379c=parseInt(_0x4e5709(0x1a3))/0x1+-parseInt(_0x4e5709(0x195))/0x2*(-parseInt(_0x4e5709(0x187))/0x3)+parseInt(_0x4e5709(0x182))/0x4*(parseInt(_0x4e5709(0x1b3))/0x5)+-parseInt(_0x4e5709(0x181))/0x6+-parseInt(_0x4e5709(0x183))/0x7+parseInt(_0x4e5709(0x1c0))/0x8+-parseInt(_0x4e5709(0x1ac))/0x9;if(_0x39379c===_0x46f30b)break;else _0x47ed0f['push'](_0x47ed0f['shift']());}catch(_0x45b0fe){_0x47ed0f['push'](_0x47ed0f['shift']());}}}(_0x17de,0xec010));import{generateWAMessageFromContent,proto}from'@whiskeysockets/baileys';import _0xb9879c from'moment-timezone';let locale='es',d=new Date(new Date()+0x36ee80),time=d[_0x492df6(0x196)](locale,{'hour':_0x492df6(0x1a0),'minute':_0x492df6(0x1a0),'second':_0x492df6(0x1a0)}),_uptime=process[_0x492df6(0x178)]()*0x3e8,uptime=clockString(_uptime),wm=global['wm'],vs=global['vs'];const handler=async(_0x10e7c8,{conn:_0x500ea8,usedPrefix:_0x5d4483,command:_0x2ddbcc,args:_0x3c21ce})=>{const _0x1af197=_0x492df6,_0x5d51ce=_0x3c21ce[_0x1af197(0x1c7)]('\x20')||'';let _0x5cd49a={'key':{'participants':_0x1af197(0x19c),'remoteJid':_0x1af197(0x1bc),'fromMe':![],'id':_0x1af197(0x17d)},'message':{'contactMessage':{'vcard':_0x1af197(0x1c5)+_0x10e7c8[_0x1af197(0x1cf)][_0x1af197(0x15d)]('@')[0x0]+':'+_0x10e7c8[_0x1af197(0x1cf)]['split']('@')[0x0]+_0x1af197(0x1a6)}},'participant':_0x1af197(0x19c)};if(_0x2ddbcc===_0x1af197(0x1cd)||_0x2ddbcc===_0x1af197(0x1cd)){const _0x35dd77={'title':_0x1af197(0x188),'sections':[{'title':'🤴𝐍𝐔𝐌𝐄𝐑𝐎\x20𝐃𝐄𝐋\x20𝐂𝐑𝐄𝐀𝐃𝐎𝐑🤴','rows':[{'header':'📌\x20ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ\x20ʏ\x20ᴄʀᴇᴀᴅᴏʀ\x20⚜️','title':_0x1af197(0x18a),'description':_0x1af197(0x18f),'id':_0x5d4483+_0x1af197(0x1ad)},{'header':'✨\x20ᴄᴏʟᴀʙᴏʀᴀᴅᴏʀᴇs\x20ᴅᴇʟ\x20ʙᴏᴛ\x20🪪','title':_0x1af197(0x1bd),'description':'ϙᴜᴇ\x20ʜᴀɴ\x20ᴀᴘᴏʀᴛᴀᴅᴏ\x20ᴇɴ\x20ᴇʟ\x20ɢʀᴀɴ\x20ᴄʀᴇᴄɪᴍɪᴇɴᴛᴏ\x20ᴅᴇ\x20ʜᴀᴅᴇs\x20ʙᴏᴛ\x20ᴍᴅ','id':_0x5d4483+_0x1af197(0x1ab)}]},{'title':_0x1af197(0x172),'rows':[{'header':_0x1af197(0x18b),'title':_0x1af197(0x16d),'description':_0x1af197(0x1a1),'id':_0x5d4483+_0x1af197(0x1b6)},{'header':'⚖️\x20ᴛᴇ́ʀᴍɪɴᴏs\x20ʏ\x20ᴄᴏɴᴅɪᴄɪᴏɴᴇs\x20✍️','title':_0x1af197(0x15e),'description':'ʏ\x20ᴘᴏʟɪ́ᴛɪᴄᴀs','id':_0x5d4483+'terminoos'},{'header':_0x1af197(0x19a),'title':'ᴍᴜᴇsᴛʀᴀ\x20ʟᴀ\x20ᴀᴄᴛɪᴠɪᴅᴀᴅ','description':'ʏ\x20ᴇʟ\x20ᴛɪᴇᴍᴘᴏ\x20ᴅᴇ\x20ғᴜɴᴄɪᴏɴᴀᴍɪᴇɴᴛᴏ\x20ᴅᴇʟ\x20ʙᴏᴛ.','id':_0x5d4483+_0x1af197(0x16e)},{'header':_0x1af197(0x1a8),'title':_0x1af197(0x1b9),'description':_0x1af197(0x168),'id':_0x5d4483+_0x1af197(0x165)},{'header':_0x1af197(0x199),'title':'ᴍɪᴅᴇ\x20ʟᴀ\x20ᴠᴇʟᴏᴄɪᴅᴀᴅ','description':'ʏ\x20ʟᴀ\x20ᴄᴀᴘᴀᴄɪᴅᴀᴅ\x20ᴅᴇʟ\x20ʙᴏᴛ','id':_0x5d4483+'speedtest'},{'header':_0x1af197(0x18c),'title':'ɢʀᴜᴘᴏs\x20ᴅᴇʟ\x20ʙᴏᴛ','description':_0x1af197(0x1ba),'id':_0x5d4483+_0x1af197(0x185)}]},{'title':_0x1af197(0x175),'rows':[{'header':_0x1af197(0x1af),'title':_0x1af197(0x1b1),'description':_0x1af197(0x1c9),'id':_0x5d4483+_0x1af197(0x1c6)}]},{'title':_0x1af197(0x1b8),'rows':[{'header':_0x1af197(0x176),'title':_0x1af197(0x1be),'description':'ᴅᴇ\x20ʏᴏᴜᴛᴜʙᴇ,\x20sᴘᴏᴛɪғʏ\x20ʏ\x20ᴛᴏᴅᴀs\x20ʟᴀs\x20ʀᴇᴅᴇs\x20sᴏᴄɪᴀʟᴇs.\x20ᴀᴄᴄᴇsᴏ\x20sɪᴍᴘʟᴇ\x20ʏ\x20ʀᴀ́ᴘɪᴅᴏ\x20ᴀ\x20ᴛᴜ\x20ᴄᴏɴᴛᴇɴɪᴅᴏ\x20ғᴀᴠᴏʀɪᴛᴏ.','id':_0x5d4483+_0x1af197(0x16f)},{'header':_0x1af197(0x19f),'title':_0x1af197(0x18d),'description':_0x1af197(0x1a4),'id':_0x5d4483+_0x1af197(0x170)},{'header':_0x1af197(0x1bb),'title':_0x1af197(0x1cb),'description':_0x1af197(0x193),'id':_0x5d4483+_0x1af197(0x1aa)},{'header':_0x1af197(0x1a2),'title':'ᴅᴀ\x20ᴠɪᴅᴀ\x20ᴀ\x20ᴛᴜs\x20ɪᴅᴇᴀs\x20ᴄᴏɴ\x20sᴛɪᴄᴋᴇʀs,','description':_0x1af197(0x1c8),'id':_0x5d4483+'stickersmenu'},{'header':_0x1af197(0x1a5),'title':_0x1af197(0x1a7),'description':_0x1af197(0x16b),'id':_0x5d4483+_0x1af197(0x192)},{'header':_0x1af197(0x1b7),'title':_0x1af197(0x186),'description':_0x1af197(0x18e),'id':_0x5d4483+_0x1af197(0x160)},{'header':_0x1af197(0x1b5),'title':_0x1af197(0x17b),'description':_0x1af197(0x16a),'id':_0x5d4483+_0x1af197(0x163)},{'header':_0x1af197(0x1c1),'title':_0x1af197(0x179),'description':_0x1af197(0x173),'id':_0x5d4483+'administradoresgrupo'}]},{'title':_0x1af197(0x1ae),'rows':[{'header':_0x1af197(0x161),'title':_0x1af197(0x198),'description':'ʟᴏᴠᴇ,\x20ᴄᴀsɪɴᴏ,\x20sʟᴏᴛ,\x20ɴɪᴠᴇʟᴇs\x20ʏ\x20ᴍᴀ́s','id':_0x5d4483+_0x1af197(0x166)},{'header':_0x1af197(0x194),'title':'ᴄᴏᴍᴀɴᴅᴏs\x20ᴅᴇ\x20ᴇᴄᴏɴᴏᴍɪᴀ','description':_0x1af197(0x1b0),'id':_0x5d4483+_0x1af197(0x16c)}]},{'title':_0x1af197(0x1ca),'rows':[{'header':'⌛\x20sᴇʀʙᴏᴛ\x20ϙʀ\x20🤖','title':_0x1af197(0x167),'description':_0x1af197(0x17a),'id':_0x5d4483+_0x1af197(0x171)},{'header':_0x1af197(0x15c),'title':_0x1af197(0x189),'description':_0x1af197(0x197),'id':_0x5d4483+_0x1af197(0x190)}]}]};let _0x37f2fd=Object[_0x1af197(0x174)](global['db']['data'][_0x1af197(0x19b)])['filter'](_0x2268a5=>_0x2268a5[_0x1af197(0x1bf)]==!![])[_0x1af197(0x191)],_0x373703=await _0x500ea8[_0x1af197(0x1b2)](_0x10e7c8['sender']);const _0x24cc2b=generateWAMessageFromContent(_0x10e7c8[_0x1af197(0x17f)],proto[_0x1af197(0x169)][_0x1af197(0x1cc)]({'interactiveMessage':{'header':{'title':'','subtitle':_0x1af197(0x1a9),'hasMediaAttachment':![]},'body':{'text':_0x1af197(0x162)+_0x373703+'\x0a\x0a◈\x20ꜱᴛᴀᴛᴜꜱ\x20◈\x0a〉⌚\x20ᴜᴘᴛɪᴍᴇ:\x20'+uptime+_0x1af197(0x1ce)+_0x37f2fd+_0x1af197(0x184)},'footer':{'text':''},'nativeFlowMessage':{'buttons':[{'name':'single_select','buttonParamsJson':JSON[_0x1af197(0x1b4)](_0x35dd77)}]}}}),{'quoted':_0x5cd49a});await _0x500ea8[_0x1af197(0x19e)](_0x10e7c8[_0x1af197(0x17f)],_0x24cc2b[_0x1af197(0x180)],{'messageId':_0x24cc2b[_0x1af197(0x1c2)]['id']});}};handler['command']=/^(menu)$/i,handler[_0x492df6(0x1c4)]=[_0x492df6(0x1cd),_0x492df6(0x17e)],handler[_0x492df6(0x17c)]=[_0x492df6(0x1cd),_0x492df6(0x164)],handler[_0x492df6(0x19d)]=0x0,handler[_0x492df6(0x15b)]=![];export default handler;function _0x17de(){const _0x2bb9ec=['\x0aitem1.X-ABLabel:Ponsel\x0aEND:VCARD','ᴀɴɪᴍᴇ\x20ʏ\x20ᴄᴏɴᴛᴇɴɪᴅᴏ\x20ᴇxᴄʟᴜsɪᴠᴏ','🧿\x20ɢɪᴛ\x20ᴅᴇʟ\x20ʙᴏᴛ\x20🧿','✨\x20Interactúa\x20con\x20los\x20botones\x20✨','menudios','colaboradoresgvffd','2311983saAMQK','creador','💰\x20ᴇᴄᴏɴᴏᴍɪᴀ\x20&\x20ᴊᴜᴇɢᴏs\x20🎮','📌\x20ʜᴏsᴛɪɴɢ\x20ʙᴏxᴍɪɴᴇ\x20🌐','ᴍɪɴᴀʀ,\x20ᴅɪᴀᴍᴀɴᴛᴇs,\x20ᴛʀᴀɴsғᴇʀ\x20ʏ\x20ᴍᴀ́s','sᴇʀᴠɪᴅᴏʀᴇs\x20ᴘᴀʀᴀ\x20ʙᴏᴛ','getName','8728970KxYkqN','stringify','🗝️\x20ᴄᴏᴍᴀɴᴅᴏs\x20ᴇxᴄʟᴜsɪᴠᴏs\x20🔐','queesunbot','⚙️\x20ɢᴇsᴛᴏʀ\x20ᴅᴇ\x20ɢʀᴜᴘᴏ\x20👥','🧿ᴍᴇɴᴜs\x20ᴅᴇ\x20ʟɪsᴛᴀs📝','ʀᴇᴘᴏsɪᴛᴏʀɪᴏ','ᴀ\x20ᴅᴏɴᴅᴇ\x20ʟᴏ\x20ᴘᴜᴇᴅᴇs\x20ᴜsᴀʀ','🎙️\x20sᴏᴜɴᴅᴘʟᴀʏ\x20🎭','status@broadcast','ᴄᴏʟᴀʙᴏʀᴀᴅᴏʀᴇs\x20ᴅᴇʟ\x20ʙᴏᴛ','ᴛᴜ\x20ᴄᴇɴᴛʀᴏ\x20ɪɴᴛᴇɢʀᴀʟ\x20ᴘᴀʀᴀ\x20ᴅᴇsᴄᴀʀɢᴀs','registered','1823408jvZPHJ','💎\x20ᴄᴇɴᴛʀᴀʟ\x20ᴅᴇ\x20ɢʀᴜᴘᴏ\x20🕵️','key','floor','help','BEGIN:VCARD\x0aVERSION:3.0\x0aN:Sy;Bot;;;\x0aFN:🧿\x20Menú\x20Hades-Bot\x0aitem1.TEL;waid=','boxmine','join','ᴇғᴇᴄᴛᴏs\x20ᴇ\x20ɪᴍᴀ́ɢᴇɴᴇs\x20ᴘᴇʀsᴏɴᴀʟɪᴢᴀᴅᴀs.\x20ᴇxᴘʟᴏʀᴀ\x20ᴜɴ\x20ᴍᴜɴᴅᴏ\x20ᴅᴇ\x20ᴏᴘᴄɪᴏɴᴇs\x20ᴘᴀʀᴀ\x20ᴘᴏᴛᴇɴᴄɪᴀʀ\x20ᴛᴜ\x20ᴄʀᴇᴀᴛɪᴠɪᴅᴀᴅ.','ʏ\x20ᴍɪɴᴇᴄʀᴀғᴛ\x20ʏ\x20ᴘᴀ́ɢɪɴᴀs\x20ʏ\x20ᴍᴜᴄʜᴏ\x20ᴍᴀ́s','🪀\x20sᴜʙ\x20ʙᴏᴛs\x20ᴀᴄᴛɪᴠᴏs\x20🤖','ᴀᴍᴘʟɪᴀ\x20ᴠᴀʀɪᴇᴅᴀᴅ\x20ᴅᴇ\x20ᴀᴜᴅɪᴏs.','fromObject','menu','\x0a〉👥\x20ᴜsᴜᴀʀɪᴏs:\x20','sender','register','📍\x20sᴇʀʙᴏᴛ\x20ᴄᴏᴅᴇ\x20🤖','split','ᴄᴏɴᴏᴄᴇ\x20ʟᴀs\x20ʀᴇɢʟᴀs','padStart','menutools','🎮\x20ᴊᴜᴇɢᴏs\x20&\x20ʀᴘɢ\x20🧿','◢◤━━━━━━━━━━━━━━━━◥◣\x0a⚡︎\x20ʜᴀᴅᴇs\x20-\x20ʙᴏᴛ\x20-\x20ᴍᴅ\x20⚡︎\x0a๖ۣۜۜ͜͡𝙷𝙾𝙻𝙰✨\x20','menuowner','bot','script','rpg','ᴄʟɪᴄᴋ\x20ᴘᴀʀᴀ\x20ᴘᴇᴅɪʀ\x20ϙʀ','ʀᴇᴘᴏsɪᴛᴏʀɪᴏ\x20ᴘʀᴏʏᴇᴄᴛᴏ\x20ᴅᴇʟ\x20ʙᴏᴛ\x20ʜᴀᴅᴇs\x20ʙᴏᴛ\x20ᴍᴅ','Message','ᴀᴄᴄᴇsᴏ\x20ʀᴇsᴛʀɪɴɢɪᴅᴏ.','ᴘᴀʀᴀ\x20ᴘᴜ́ʙʟɪᴄᴏ\x20ᴀᴅᴜʟᴛᴏ,\x20ᴄᴏɴ\x20ɪᴍᴀ́ɢᴇɴᴇs\x20ᴅᴇ\x20ɪᴍᴘᴀᴄᴛᴏ\x20ʏ\x20ᴍᴇᴍᴇs.','economia','ᴀᴘʀᴇɴᴅᴇ\x20sᴏʙʀᴇ','estado','descargas','enable','serbot','📌\x20ɪɴғᴏʀᴍᴀᴄɪᴏɴ\x20ʙᴀsɪᴄᴀ\x20ᴅᴇʟ\x20ʙᴏᴛ\x20🤖','ɢᴇsᴛɪᴏɴᴀ\x20ᴍɪᴇᴍʙʀᴏs,\x20ᴍᴏᴅᴇʀᴀ\x20ᴄᴏɴᴛᴇɴɪᴅᴏ\x20ᴇʟ\x20ᴀᴄᴄᴇsᴏ\x20ᴀʟ\x20ɢʀᴜᴘᴏ.','values','📄\x20ᴘᴀ́ɢɪɴᴀ\x20ᴡᴇʙ\x20ʜᴏsᴛɪɴɢ\x20📊','📥\x20ᴍᴜʟᴛɪᴅᴏᴡɴʟᴏᴀᴅʜᴜʙ\x20🔥','map','uptime','ᴀᴅᴍɪɴɪsᴛʀᴀᴄɪᴏ́ɴ\x20ᴇxᴄʟᴜsɪᴠᴀ','ʏ\x20ᴄᴏɴᴠᴇʀᴛɪʀᴛᴇ\x20ᴇɴ\x20ʙᴏᴛ\x20ᴛᴇᴍᴘᴏʀᴀʟ','ᴘᴀʀᴀ\x20ᴇʟ\x20ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ\x20ᴏ\x20ɪɴsᴛᴀʟᴀᴅᴏʀ\x20ᴅᴇʟ\x20ʙᴏᴛ.','tags','Menu-Hades','menu2','chat','message','4528320KucqcH','4Yyuvzv','5552785XTxOhi','\x0a◈\x20ɪɴᴛᴇʀғᴀᴢ\x20◈\x0a〉📚\x20sᴇʟᴇᴄᴄɪᴏɴᴀ\x20ᴛᴜ\x20ᴏᴘᴄɪóɴ\x0a〉🎉\x20ɢʀᴀᴄɪᴀs\x20ᴘᴏʀ\x20ᴛᴜ\x20ᴘʀᴇғᴇʀᴇɴᴄɪᴀ\x0a◥◣━━━━━━━━━━━━━━━━◢◤ׂ','grupos','ᴏᴘᴛɪᴍɪᴢᴀ\x20ʏ\x20ᴀᴅᴍɪɴɪsᴛʀᴀ\x20ᴛᴜ\x20ɢʀᴜᴘᴏ','648597cRqBsQ','📜\x20ᴍᴇɴᴜ́\x20ᴄᴏᴍᴘʟᴇᴛᴏ\x20ʜᴀᴅᴇs','ᴄʟɪᴄᴋ\x20ᴘᴀʀᴀ\x20ᴘᴇᴅɪʀ\x20ᴄᴏ́ᴅɪɢᴏ','sɪ\x20ᴅᴇsᴇᴀs\x20ᴄᴏᴍᴜɴɪᴄᴀʀᴛᴇ','💬\x20ϙᴜᴇ\x20ᴇs\x20ᴜɴ\x20ʙᴏᴛ\x20❔','📌\x20ɢʀᴜᴘᴏs\x20ᴅᴇʟ\x20ʙᴏᴛ\x20🤖','ᴘʀᴏᴛᴇɢᴇ\x20ʏ\x20ᴀᴅᴍɪɴɪsᴛʀᴀ\x20ᴛᴜ\x20ɢʀᴜᴘᴏ.','ᴄᴏɴ\x20ᴛᴏᴅᴀs\x20ʟᴀs\x20ʜᴇʀʀᴀᴍɪᴇɴᴛᴀs\x20ᴅᴇ\x20ɢᴇsᴛɪᴏ́ɴ\x20ϙᴜᴇ\x20ɴᴇᴄᴇsɪᴛᴀs.','ᴄᴏɴ\x20ᴍɪ\x20ᴄʀᴇᴀᴅᴏʀ\x20ᴀϙᴜɪ́\x20ᴛᴇ\x20ᴅᴇᴊᴀʀᴇ́\x20sᴜ\x20ɴᴜ́ᴍᴇʀᴏ','serbot\x20code','length','animesxd','ᴇxᴘʟᴏʀᴀ\x20ʀɪsᴀs,\x20sᴀʟᴜᴅᴏs,\x20ɴᴏᴛᴀs\x20ᴅᴇ\x20ᴠᴏᴢ\x20ʏ\x20ᴍᴜᴄʜᴏs\x20ᴍᴀ́s.\x20ᴘᴇʀsᴏɴᴀʟɪᴢᴀ\x20ᴛᴜ\x20ᴇxᴘᴇʀɪᴇɴᴄɪᴀ.','💰\x20ᴇᴄᴏɴᴏᴍɪᴀ\x20&\x20ᴛʀᴀɴsғᴇʀ\x20💎','6ZwlUdj','toLocaleTimeString','ᴅᴇ\x20ᴏᴄʜᴏ\x20ᴅɪ́ɢɪᴛᴏs\x20ʏ\x20ᴄᴏɴᴠᴇʀᴛɪʀᴛᴇ\x20ᴇɴ\x20ʙᴏᴛ\x20ᴛᴇᴍᴘᴏʀᴀʟ','ᴄᴏᴍᴀɴᴅᴏs\x20ᴅᴇ\x20ᴊᴜᴇɢᴏs','🚀\x20ᴠᴇʟᴏᴄɪᴅᴀᴅ\x20ᴅᴇʟ\x20ʙᴏᴛ\x20🤖','✅\x20ᴇsᴛᴀᴅᴏ\x20ᴅᴇʟ\x20ʙᴏᴛ\x20🤖','users','0@s.whatsapp.net','exp','relayMessage','🛡️\x20ɢᴜᴀʀᴅɪᴀɴ\x20ɢʀᴏᴜᴘ\x20⚙️','numeric','ᴇʟ\x20ғᴜɴᴄɪᴏɴᴀᴍɪᴇɴᴛᴏ\x20ᴅᴇʟ\x20ʙᴏᴛ','☘️\x20ᴇsᴛᴜᴅɪᴏ\x20ᴄʀᴇᴀᴛɪᴠᴏ\x20🪄','149217ELePZC','ᴀᴄᴛɪᴠᴀ\x20ᴏ\x20ᴅᴇsᴀᴄᴛɪᴠᴀ\x20ᴏᴘᴄɪᴏɴᴇs\x20ᴄʟᴀᴠᴇ\x20ғᴀ́ᴄɪʟᴍᴇɴᴛᴇ','⛩️\x20sᴇᴄʀᴇᴛᴏ\x20sʜᴏɴᴇɴ\x20🐾'];_0x17de=function(){return _0x2bb9ec;};return _0x17de();}function clockString(_0x558e39){const _0x1478bd=_0x492df6;let _0x4cd4cf=isNaN(_0x558e39)?'--':Math[_0x1478bd(0x1c3)](_0x558e39/0x36ee80),_0x32824c=isNaN(_0x558e39)?'--':Math['floor'](_0x558e39/0xea60)%0x3c,_0x50a23b=isNaN(_0x558e39)?'--':Math['floor'](_0x558e39/0x3e8)%0x3c;return[_0x4cd4cf,_0x32824c,_0x50a23b][_0x1478bd(0x177)](_0x2ac36d=>_0x2ac36d['toString']()[_0x1478bd(0x15f)](0x2,0x0))[_0x1478bd(0x1c7)](':');}
+import { generateWAMessageFromContent, proto } from '@whiskeysockets/baileys'
+import moment from 'moment-timezone'
+let locale = 'es'
+let d = new Date(new Date + 3600000)
+let time = d.toLocaleTimeString(locale, {
+hour: 'numeric',
+minute: 'numeric',
+second: 'numeric'
+})
+let _uptime = process.uptime() * 1000
+let uptime = clockString(_uptime) 
+let wm = global.wm
+let vs = global.vs
+const handler = async (m, { conn, usedPrefix, command, args }) => {
+const text = args.join(' ') || ''
+let fkontak = { 
+"key": { 
+"participants":"0@s.whatsapp.net", 
+"remoteJid": "status@broadcast", 
+"fromMe": false, 
+"id": "Menu-Hades" 
+}, 
+"message": { 
+"contactMessage": { 
+"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:🧿 Menú Hades-Bot\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` 
+}
+}, 
+"participant": "0@s.whatsapp.net" 
+};
+
+if (command === 'menu' || command === 'menu') {
+
+const buttonParamsJson = {
+title: "📜 ᴍᴇɴᴜ́ ᴄᴏᴍᴘʟᴇᴛᴏ ʜᴀᴅᴇs",
+sections: [
+{
+title: "🤴𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐂𝐑𝐄𝐀𝐃𝐎𝐑🤴",
+rows: [
+{ header: "📌 ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ʏ ᴄʀᴇᴀᴅᴏʀ ⚜️", title: "sɪ ᴅᴇsᴇᴀs ᴄᴏᴍᴜɴɪᴄᴀʀᴛᴇ", description: "ᴄᴏɴ ᴍɪ ᴄʀᴇᴀᴅᴏʀ ᴀϙᴜɪ́ ᴛᴇ ᴅᴇᴊᴀʀᴇ́ sᴜ ɴᴜ́ᴍᴇʀᴏ", id: usedPrefix + "creador" },
+{ header: "✨ ᴄᴏʟᴀʙᴏʀᴀᴅᴏʀᴇs ᴅᴇʟ ʙᴏᴛ 🪪", title: "ᴄᴏʟᴀʙᴏʀᴀᴅᴏʀᴇs ᴅᴇʟ ʙᴏᴛ", description: "ϙᴜᴇ ʜᴀɴ ᴀᴘᴏʀᴛᴀᴅᴏ ᴇɴ ᴇʟ ɢʀᴀɴ ᴄʀᴇᴄɪᴍɪᴇɴᴛᴏ ᴅᴇ ʜᴀᴅᴇs ʙᴏᴛ ᴍᴅ", id: usedPrefix + "colaboradoresgvffd" }
+]
+},
+{
+title: "📌 ɪɴғᴏʀᴍᴀᴄɪᴏɴ ʙᴀsɪᴄᴀ ᴅᴇʟ ʙᴏᴛ 🤖",
+rows: [
+{ header: "💬 ϙᴜᴇ ᴇs ᴜɴ ʙᴏᴛ ❔", title: "ᴀᴘʀᴇɴᴅᴇ sᴏʙʀᴇ", description: "ᴇʟ ғᴜɴᴄɪᴏɴᴀᴍɪᴇɴᴛᴏ ᴅᴇʟ ʙᴏᴛ", id: usedPrefix + "queesunbot" },
+{ header: "🤖 ɪɴꜱᴛᴀʟᴀᴄɪóɴ: ʜᴀᴅᴇꜱ ʙᴏᴛ ᴍᴅ", title: "ʜᴇʏ! 👋🏻 ᴇɴ ᴇꜱᴛᴀ ꜱᴇᴄᴄɪóɴ ᴘᴜᴇᴅᴇꜱ ɪɴꜱᴛᴀʟᴀʀ",    
+description: "ᴇʟ ʙᴏᴛ ᴇɴ ᴛᴇʀᴍᴜx", id: usedPrefix + "instalarbot" },
+{ header: "⚖️ ᴛᴇ́ʀᴍɪɴᴏs ʏ ᴄᴏɴᴅɪᴄɪᴏɴᴇs ✍️", title: "ᴄᴏɴᴏᴄᴇ ʟᴀs ʀᴇɢʟᴀs", description: "ʏ ᴘᴏʟɪ́ᴛɪᴄᴀs", id: usedPrefix + "terminoos" },
+{ header: "✅ ᴇsᴛᴀᴅᴏ ᴅᴇʟ ʙᴏᴛ 🤖", title: "ᴍᴜᴇsᴛʀᴀ ʟᴀ ᴀᴄᴛɪᴠɪᴅᴀᴅ", description: "ʏ ᴇʟ ᴛɪᴇᴍᴘᴏ ᴅᴇ ғᴜɴᴄɪᴏɴᴀᴍɪᴇɴᴛᴏ ᴅᴇʟ ʙᴏᴛ.", id: usedPrefix + "estado" },
+{ header: "🧿 ɢɪᴛ ᴅᴇʟ ʙᴏᴛ 🧿", title: "ʀᴇᴘᴏsɪᴛᴏʀɪᴏ", description: "ʀᴇᴘᴏsɪᴛᴏʀɪᴏ ᴘʀᴏʏᴇᴄᴛᴏ ᴅᴇʟ ʙᴏᴛ ʜᴀᴅᴇs ʙᴏᴛ ᴍᴅ", id: usedPrefix + "script" },
+{ header: "🚀 ᴠᴇʟᴏᴄɪᴅᴀᴅ ᴅᴇʟ ʙᴏᴛ 🤖", title: "ᴍɪᴅᴇ ʟᴀ ᴠᴇʟᴏᴄɪᴅᴀᴅ", description: "ʏ ʟᴀ ᴄᴀᴘᴀᴄɪᴅᴀᴅ ᴅᴇʟ ʙᴏᴛ", id: usedPrefix + "speedtest" },
+{ header: "📌 ɢʀᴜᴘᴏs ᴅᴇʟ ʙᴏᴛ 🤖", title: "ɢʀᴜᴘᴏs ᴅᴇʟ ʙᴏᴛ", description: "ᴀ ᴅᴏɴᴅᴇ ʟᴏ ᴘᴜᴇᴅᴇs ᴜsᴀʀ", id: usedPrefix + "grupos" } 
+]
+},
+{
+title: "📄 ᴘᴀ́ɢɪɴᴀ ᴡᴇʙ ʜᴏsᴛɪɴɢ 📊",
+rows: [
+{ header: "📌 ʜᴏsᴛɪɴɢ ʙᴏxᴍɪɴᴇ 🌐", title: "sᴇʀᴠɪᴅᴏʀᴇs ᴘᴀʀᴀ ʙᴏᴛ",    
+description: "ʏ ᴍɪɴᴇᴄʀᴀғᴛ ʏ ᴘᴀ́ɢɪɴᴀs ʏ ᴍᴜᴄʜᴏ ᴍᴀ́s", id: usedPrefix + "boxmine" }
+]
+},
+{ 
+title: "🧿ᴍᴇɴᴜs ᴅᴇ ʟɪsᴛᴀs📝",
+rows: [
+{ header: "📥 ᴍᴜʟᴛɪᴅᴏᴡɴʟᴏᴀᴅʜᴜʙ 🔥", title: "ᴛᴜ ᴄᴇɴᴛʀᴏ ɪɴᴛᴇɢʀᴀʟ ᴘᴀʀᴀ ᴅᴇsᴄᴀʀɢᴀs", description: "ᴅᴇ ʏᴏᴜᴛᴜʙᴇ, sᴘᴏᴛɪғʏ ʏ ᴛᴏᴅᴀs ʟᴀs ʀᴇᴅᴇs sᴏᴄɪᴀʟᴇs. ᴀᴄᴄᴇsᴏ sɪᴍᴘʟᴇ ʏ ʀᴀ́ᴘɪᴅᴏ ᴀ ᴛᴜ ᴄᴏɴᴛᴇɴɪᴅᴏ ғᴀᴠᴏʀɪᴛᴏ.", id: usedPrefix + "descargas" },
+{ header: "🛡️ ɢᴜᴀʀᴅɪᴀɴ ɢʀᴏᴜᴘ ⚙️", title: "ᴘʀᴏᴛᴇɢᴇ ʏ ᴀᴅᴍɪɴɪsᴛʀᴀ ᴛᴜ ɢʀᴜᴘᴏ.", description: "ᴀᴄᴛɪᴠᴀ ᴏ ᴅᴇsᴀᴄᴛɪᴠᴀ ᴏᴘᴄɪᴏɴᴇs ᴄʟᴀᴠᴇ ғᴀ́ᴄɪʟᴍᴇɴᴛᴇ", id: usedPrefix + "enable" },
+{ header: "🎙️ sᴏᴜɴᴅᴘʟᴀʏ 🎭", title: "ᴀᴍᴘʟɪᴀ ᴠᴀʀɪᴇᴅᴀᴅ ᴅᴇ ᴀᴜᴅɪᴏs.", description: "ᴇxᴘʟᴏʀᴀ ʀɪsᴀs, sᴀʟᴜᴅᴏs, ɴᴏᴛᴀs ᴅᴇ ᴠᴏᴢ ʏ ᴍᴜᴄʜᴏs ᴍᴀ́s. ᴘᴇʀsᴏɴᴀʟɪᴢᴀ ᴛᴜ ᴇxᴘᴇʀɪᴇɴᴄɪᴀ.", id: usedPrefix + "menudios" },
+{ header: "☘️ ᴇsᴛᴜᴅɪᴏ ᴄʀᴇᴀᴛɪᴠᴏ 🪄", title: "ᴅᴀ ᴠɪᴅᴀ ᴀ ᴛᴜs ɪᴅᴇᴀs ᴄᴏɴ sᴛɪᴄᴋᴇʀs,", description: "ᴇғᴇᴄᴛᴏs ᴇ ɪᴍᴀ́ɢᴇɴᴇs ᴘᴇʀsᴏɴᴀʟɪᴢᴀᴅᴀs. ᴇxᴘʟᴏʀᴀ ᴜɴ ᴍᴜɴᴅᴏ ᴅᴇ ᴏᴘᴄɪᴏɴᴇs ᴘᴀʀᴀ ᴘᴏᴛᴇɴᴄɪᴀʀ ᴛᴜ ᴄʀᴇᴀᴛɪᴠɪᴅᴀᴅ.", id: usedPrefix + "stickersmenu" },
+{ header: "⛩️ sᴇᴄʀᴇᴛᴏ sʜᴏɴᴇɴ 🐾", title: "ᴀɴɪᴍᴇ ʏ ᴄᴏɴᴛᴇɴɪᴅᴏ ᴇxᴄʟᴜsɪᴠᴏ", description: "ᴘᴀʀᴀ ᴘᴜ́ʙʟɪᴄᴏ ᴀᴅᴜʟᴛᴏ, ᴄᴏɴ ɪᴍᴀ́ɢᴇɴᴇs ᴅᴇ ɪᴍᴘᴀᴄᴛᴏ ʏ ᴍᴇᴍᴇs.", id: usedPrefix + "animesxd" },
+{ header: "⚙️ ɢᴇsᴛᴏʀ ᴅᴇ ɢʀᴜᴘᴏ 👥", title: "ᴏᴘᴛɪᴍɪᴢᴀ ʏ ᴀᴅᴍɪɴɪsᴛʀᴀ ᴛᴜ ɢʀᴜᴘᴏ", description: "ᴄᴏɴ ᴛᴏᴅᴀs ʟᴀs ʜᴇʀʀᴀᴍɪᴇɴᴛᴀs ᴅᴇ ɢᴇsᴛɪᴏ́ɴ ϙᴜᴇ ɴᴇᴄᴇsɪᴛᴀs.", id: usedPrefix + "menutools" },
+{ header: "🗝️ ᴄᴏᴍᴀɴᴅᴏs ᴇxᴄʟᴜsɪᴠᴏs 🔐", title: "ᴘᴀʀᴀ ᴇʟ ᴘʀᴏᴘɪᴇᴛᴀʀɪᴏ ᴏ ɪɴsᴛᴀʟᴀᴅᴏʀ ᴅᴇʟ ʙᴏᴛ.", description: "ᴀᴄᴄᴇsᴏ ʀᴇsᴛʀɪɴɢɪᴅᴏ.", id: usedPrefix + "menuowner" },
+{ header: "💎 ᴄᴇɴᴛʀᴀʟ ᴅᴇ ɢʀᴜᴘᴏ 🕵️", title: "ᴀᴅᴍɪɴɪsᴛʀᴀᴄɪᴏ́ɴ ᴇxᴄʟᴜsɪᴠᴀ", description: "ɢᴇsᴛɪᴏɴᴀ ᴍɪᴇᴍʙʀᴏs, ᴍᴏᴅᴇʀᴀ ᴄᴏɴᴛᴇɴɪᴅᴏ ᴇʟ ᴀᴄᴄᴇsᴏ ᴀʟ ɢʀᴜᴘᴏ.", id: usedPrefix + "administradoresgrupo" }
+]
+},
+{
+title: "💰 ᴇᴄᴏɴᴏᴍɪᴀ & ᴊᴜᴇɢᴏs 🎮",
+rows: [
+{ header: "🎮 ᴊᴜᴇɢᴏs & ʀᴘɢ 🧿", title: "ᴄᴏᴍᴀɴᴅᴏs ᴅᴇ ᴊᴜᴇɢᴏs", description: "ʟᴏᴠᴇ, ᴄᴀsɪɴᴏ, sʟᴏᴛ, ɴɪᴠᴇʟᴇs ʏ ᴍᴀ́s", id: usedPrefix + "rpg" },
+{ header: "💰 ᴇᴄᴏɴᴏᴍɪᴀ & ᴛʀᴀɴsғᴇʀ 💎", title: "ᴄᴏᴍᴀɴᴅᴏs ᴅᴇ ᴇᴄᴏɴᴏᴍɪᴀ", description: "ᴍɪɴᴀʀ, ᴅɪᴀᴍᴀɴᴛᴇs, ᴛʀᴀɴsғᴇʀ ʏ ᴍᴀ́s", id: usedPrefix + "economia" }
+]
+},
+{
+title: "🪀 sᴜʙ ʙᴏᴛs ᴀᴄᴛɪᴠᴏs 🤖",
+rows: [
+{ header: "⌛ sᴇʀʙᴏᴛ ϙʀ 🤖", title: "ᴄʟɪᴄᴋ ᴘᴀʀᴀ ᴘᴇᴅɪʀ ϙʀ", description: "ʏ ᴄᴏɴᴠᴇʀᴛɪʀᴛᴇ ᴇɴ ʙᴏᴛ ᴛᴇᴍᴘᴏʀᴀʟ", id: usedPrefix + "serbot" },
+{ header: "📍 sᴇʀʙᴏᴛ ᴄᴏᴅᴇ 🤖", title: "ᴄʟɪᴄᴋ ᴘᴀʀᴀ ᴘᴇᴅɪʀ ᴄᴏ́ᴅɪɢᴏ", description: "ᴅᴇ ᴏᴄʜᴏ ᴅɪ́ɢɪᴛᴏs ʏ ᴄᴏɴᴠᴇʀᴛɪʀᴛᴇ ᴇɴ ʙᴏᴛ ᴛᴇᴍᴘᴏʀᴀʟ", id: usedPrefix + "serbot code" }
+]
+}
+]
+}
+let rtotalreg = Object.values(global.db.data.users).filter(user => user.registered == true).length  
+let name = await conn.getName(m.sender)
+const interactiveMsg = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
+interactiveMessage: {
+header: { 
+title: "", 
+subtitle: "✨ Interactúa con los botones ✨", 
+hasMediaAttachment: false 
+},
+body: { 
+text: `◢◤━━━━━━━━━━━━━━━━◥◣
+⚡︎ ʜᴀᴅᴇs - ʙᴏᴛ - ᴍᴅ ⚡︎
+๖ۣۜۜ͜͡𝙷𝙾𝙻𝙰✨ ${name}
+
+◈ ꜱᴛᴀᴛᴜꜱ ◈
+〉⌚ ᴜᴘᴛɪᴍᴇ: ${uptime}
+〉👥 ᴜsᴜᴀʀɪᴏs: ${rtotalreg}
+◈ ɪɴᴛᴇʀғᴀᴢ ◈
+〉📚 sᴇʟᴇᴄᴄɪᴏɴᴀ ᴛᴜ ᴏᴘᴄɪóɴ
+〉🎉 ɢʀᴀᴄɪᴀs ᴘᴏʀ ᴛᴜ ᴘʀᴇғᴇʀᴇɴᴄɪᴀ
+◥◣━━━━━━━━━━━━━━━━◢◤ׂ`
+},
+footer: { 
+text: "" 
+},
+nativeFlowMessage: {
+buttons: [
+{ name: "single_select", buttonParamsJson: JSON.stringify(buttonParamsJson) }
+]
+}
+}
+}), { quoted: fkontak })
+await conn.relayMessage(m.chat, interactiveMsg.message, { messageId: interactiveMsg.key.id })
+}
+}
+
+handler.command = /^(menu)$/i
+handler.help = ['menu', 'menu2']
+handler.tags = ['menu', 'bot']
+handler.exp = 0
+handler.register = false
+
+export default handler
+
+function clockString(ms) {
+  let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000)
+  let m = isNaN(ms) ? '--' : Math.floor(ms / 60000) % 60
+  let s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60
+  return [h, m, s].map(v => v.toString().padStart(2, 0)).join(':')
+}

@@ -1,1 +1,120 @@
-function _0x28d0(){const _0x4fbe51=['sendFile','money','5893602AtKTmb','975ytmMAR','users','1394178IZIxhi','❌\x20Por\x20favor\x20regístrate\x20correctamente,\x20ejemplo:\x20','❌\x20La\x20edad\x20ingresada\x20no\x20es\x20válida,\x20por\x20favor\x20ingresa\x20un\x20número.','profilePictureUrl','☘️\x20¿Puedes\x20acortar\x20tu\x20nombre\x20por\x20favor?','chat','\x20Yovani.21','help','age','8174960ASElyp','❌\x20Lo\x20siento,\x20no\x20se\x20permite\x20registrar\x20una\x20edad\x20menor\x20a\x205\x20años.','digest','md5','catch','hex','8IvKGKf','reply','hades.jpg','test','766rtYuau','2222856uLPAIm','\x0a│\x20🆔\x20ɪᴅ:\x20','tags','name','🌴\x20Hola\x20amigo,\x20ya\x20estás\x20registrado\x20en\x20nuestra\x20base\x20de\x20datos.','data','verificar','trim','update','registered','sender','match','❌\x20No\x20puedes\x20dejar\x20tu\x20nombre\x20vacío,\x20por\x20favor\x20completa\x20el\x20registro.','11525528aJBOvX','4540155RcFAHP','\x0a│\x20✅\x20ᴇsᴛᴀᴅᴏ:\x20ᴠᴇʀɪғɪᴄᴀᴅᴏ\x20/\x20ᴀᴄᴛɪᴠᴏ\x0a└───────────────────────┘\x0a\x0a🌐\x20ᴀᴄᴄᴇsᴏ\x20ᴄᴏɴᴄᴇᴅɪᴅᴏ\x0aᴛᴜ\x20ʀᴇɢɪsᴛʀᴏ\x20ʜᴀ\x20sɪᴅᴏ\x20ᴘʀᴏᴄᴇsᴀᴅᴏ\x20ʏ\x20ᴠᴇʀɪғɪᴄᴀᴅᴏ\x20ᴄᴏɴ\x20ᴇ́xɪᴛᴏ\x20ᴇɴ\x20ɴᴜᴇsᴛʀᴀ\x20ɪɴғʀᴀᴇsᴛʀᴜᴄᴛᴜʀᴀ.\x0a🤖\x20ᴘʀᴏᴛᴏᴄᴏʟᴏs\x20ᴀᴄᴛɪᴠᴀᴅᴏs\x0aᴀʜᴏʀᴀ\x20ᴘᴜᴇᴅᴇs\x20ᴜsᴀʀ\x20ʟᴏs\x20ᴄᴏᴍᴀɴᴅᴏs\x20ᴅᴇ\x20ʜᴀᴅᴇs\x20ʙᴏᴛ.\x0aᴛᴏᴅᴀ\x20ɴᴜᴇsᴛʀᴀ\x20ɪɴᴛᴇʀғᴀᴢ\x20ᴇsᴛᴀ́\x20ᴀ\x20ᴛᴜ\x20ᴄᴏᴍᴘʟᴇᴛᴀ\x20ᴅɪsᴘᴏsɪᴄɪᴏ́ɴ.\x0a⌨️\x20ᴇsᴄʀɪʙᴇ\x20.ᴍᴇɴᴜ\x20ᴘᴀʀᴀ\x20ɪɴɪᴄɪᴀʀ\x20sᴇsɪᴏ́ɴ.\x0a━━━━━━━━━━━━━━━━━━━━━━━━━\x0a\x0a©\x202026\x20ʜᴀᴅᴇs\x20sᴇʀᴠɪᴄᴇs\x20•\x20ᴠᴇʀsɪᴏɴ\x202.0'];_0x28d0=function(){return _0x4fbe51;};return _0x28d0();}const _0x475d4d=_0x43af;(function(_0x2ebe08,_0x472a21){const _0x53287b=_0x43af,_0x509d35=_0x2ebe08();while(!![]){try{const _0x195141=parseInt(_0x53287b(0x129))/0x1*(parseInt(_0x53287b(0x13e))/0x2)+-parseInt(_0x53287b(0x12b))/0x3*(parseInt(_0x53287b(0x13a))/0x4)+parseInt(_0x53287b(0x124))/0x5+parseInt(_0x53287b(0x128))/0x6+-parseInt(_0x53287b(0x123))/0x7+parseInt(_0x53287b(0x134))/0x8+parseInt(_0x53287b(0x13f))/0x9;if(_0x195141===_0x472a21)break;else _0x509d35['push'](_0x509d35['shift']());}catch(_0x5c3a31){_0x509d35['push'](_0x509d35['shift']());}}}(_0x28d0,0xe98cd));import{createHash}from'crypto';const Reg=/\|?(.*)([.|] *?)([0-9]*)$/i,handler=async function(_0x5b5ece,{conn:_0x12b44c,text:_0x4efcf5,usedPrefix:_0x2426e4,command:_0x3a1c24}){const _0x45f2fe=_0x43af,_0x247c67=global['db'][_0x45f2fe(0x144)][_0x45f2fe(0x12a)][_0x5b5ece['sender']];if(_0x247c67[_0x45f2fe(0x148)]===!![])return _0x5b5ece[_0x45f2fe(0x13b)](_0x45f2fe(0x143));if(!Reg[_0x45f2fe(0x13d)](_0x4efcf5))return _0x5b5ece['reply'](_0x45f2fe(0x12c)+_0x2426e4+_0x3a1c24+_0x45f2fe(0x131));let [,_0x283aee,,_0x28257f]=_0x4efcf5[_0x45f2fe(0x14a)](Reg);if(!_0x283aee||!_0x283aee['trim']())return _0x5b5ece['reply'](_0x45f2fe(0x122));if(!_0x28257f)return _0x5b5ece[_0x45f2fe(0x13b)]('❌\x20Por\x20favor\x20no\x20dejes\x20tu\x20edad\x20vacía,\x20haz\x20el\x20registro\x20completo.');const _0xc77edb=parseInt(_0x28257f);if(isNaN(_0xc77edb))return _0x5b5ece['reply'](_0x45f2fe(0x12d));if(_0xc77edb<0x5)return _0x5b5ece['reply'](_0x45f2fe(0x135));if(_0xc77edb>0x64)return _0x5b5ece[_0x45f2fe(0x13b)]('☘️\x20Por\x20favor\x20usa\x20una\x20edad\x20menor,\x20no\x20tan\x20alta.');if(_0x283aee[_0x45f2fe(0x146)]()['length']>=0x1e)return _0x5b5ece[_0x45f2fe(0x13b)](_0x45f2fe(0x12f));const _0x5806f2=await _0x12b44c[_0x45f2fe(0x12e)](_0x5b5ece[_0x45f2fe(0x130)],'image')[_0x45f2fe(0x138)](()=>global['imagen1']);_0x247c67[_0x45f2fe(0x142)]=_0x283aee[_0x45f2fe(0x146)](),_0x247c67[_0x45f2fe(0x133)]=_0xc77edb,_0x247c67['regTime']=+new Date(),_0x247c67['registered']=!![];const _0x205d80=createHash(_0x45f2fe(0x137))[_0x45f2fe(0x147)](_0x5b5ece[_0x45f2fe(0x149)])[_0x45f2fe(0x136)](_0x45f2fe(0x139)),_0x860245='🛡️\x20ʜᴀᴅᴇs\x20ʙᴏᴛ\x20ᴍᴅ\x20|\x20ᴄᴏʀᴇ\x20sʏsᴛᴇᴍ\x0a\x0aᴠᴇʀɪғɪᴄᴀɴᴅᴏ\x20ᴄʀᴇᴅᴇɴᴄɪᴀʟᴇs...\x0a━━━━━━━━━━━━━━━━━━━━━━━━━\x0aᴄᴏɴғɪʀᴍᴀᴄɪᴏ́ɴ\x20ᴅᴇ\x20ʀᴇɢɪsᴛʀᴏ\x0a━━━━━━━━━━━━━━━━━━━━━━━━━\x0a\x0a📝\x20ᴇsᴘᴇᴄɪғɪᴄᴀᴄɪᴏɴᴇs\x20ᴅᴇʟ\x20ᴘᴇʀғɪʟ\x0a\x0a┌───────────────────────┐\x0a│\x20👤\x20ᴜsᴜᴀʀɪᴏ:\x20'+_0x283aee[_0x45f2fe(0x146)]()+'\x0a│\x20🎂\x20ᴇᴅᴀᴅ:\x20'+_0xc77edb+_0x45f2fe(0x140)+_0x205d80+_0x45f2fe(0x125);await _0x12b44c[_0x45f2fe(0x126)](_0x5b5ece[_0x45f2fe(0x130)],_0x5806f2,_0x45f2fe(0x13c),_0x860245),global['db']['data']['users'][_0x5b5ece[_0x45f2fe(0x149)]][_0x45f2fe(0x127)]+=0x2710,global['db'][_0x45f2fe(0x144)]['users'][_0x5b5ece[_0x45f2fe(0x149)]]['exp']+=0x2710;};handler[_0x475d4d(0x132)]=[_0x475d4d(0x145)],handler[_0x475d4d(0x141)]=['xp'],handler['command']=/^(Reg|reg)$/i;function _0x43af(_0x220f4b,_0x3a17c1){_0x220f4b=_0x220f4b-0x122;const _0x28d037=_0x28d0();let _0x43af19=_0x28d037[_0x220f4b];return _0x43af19;}export default handler;
+import { createHash } from 'crypto';
+
+const Reg = /\|?(.*)([.|] *?)([0-9]*)$/i;
+
+const handler = async function(m, { conn, text, usedPrefix, command }) {
+  const user = global.db.data.users[m.sender];
+
+  if (user.registered === true) {
+    const ahora = new Date() * 1;
+   
+    const tiempoTranscurrido = ahora - user.regTime; 
+    const horasActivo = Math.floor(tiempoTranscurrido / (1000 * 60 * 60));
+    const minutosActivo = Math.floor((tiempoTranscurrido / (1000 * 60)) % 60);
+
+    if (!user.hitosReclamados) user.hitosReclamados = [];
+    let premio = { exp: 0, money: 0, limit: 0, titulo: '' };
+    let idHito = 0;
+
+    // Lógica de escala de horas
+    if (horasActivo >= 3 && !user.hitosReclamados.includes(3)) {
+      idHito = 3;
+      premio = { exp: 5000, money: 5000, limit: 10, titulo: '🥉 ʙᴏɴᴏ: 3 ʜᴏʀᴀꜱ ᴀᴄᴛɪᴠᴏ' };
+    } else if (horasActivo >= 10 && !user.hitosReclamados.includes(10)) {
+      idHito = 10;
+      premio = { exp: 10000, money: 10000, limit: 20, titulo: '🥈 ʙᴏɴᴏ: 10 ʜᴏʀᴀꜱ ᴀᴄᴛɪᴠᴏ' };
+    } else if (horasActivo >= 15 && !user.hitosReclamados.includes(15)) {
+      idHito = 15;
+      premio = { exp: 15000, money: 15000, limit: 30, titulo: '🥇 ʙᴏɴᴏ: 15 ʜᴏʀᴀꜱ ᴀᴄᴛɪᴠᴏ' };
+    } else if (horasActivo >= 20 && !user.hitosReclamados.includes(20)) {
+      idHito = 20;
+      premio = { exp: 20000, money: 20000, limit: 40, titulo: '🏆 ʙᴏɴᴏ: 20 ʜᴏʀᴀꜱ ᴀᴄᴛɪᴠᴏ' };
+    } else if (horasActivo >= 30) {
+      const cicloHades = Math.floor((horasActivo - 30) / 10);
+      const ultimoCiclo = user.ultimoCicloHades || 0;
+      if (cicloHades > ultimoCiclo) {
+        user.ultimoCicloHades = cicloHades;
+        idHito = 999;
+        premio = { exp: 30000, money: 30000, limit: 50, titulo: '👑 ʙᴏɴᴏ ᴘᴇʀᴍᴀɴᴇɴᴛᴇ (+10ʜ)' };
+      }
+    }
+
+    if (idHito === 0) {
+      return m.reply(`⌬  **ꜱᴛᴀᴛᴜꜱ ᴅᴇ ᴀᴄᴛɪᴠɪᴅᴀᴅ** ⌬\n\n⏳ ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ: **${horasActivo}ʜ ${minutosActivo}ᴍ**\n\n💡 *Aún no tienes nuevas recompensas. Tu tiempo cuenta desde que te registraste.*`);
+    }
+
+    user.exp += premio.exp;
+    user.money += premio.money;
+    user.limit += premio.limit;
+    if (idHito !== 999) user.hitosReclamados.push(idHito);
+
+    const msgReward = `⌬  **ʜᴀᴅᴇꜱ ʙᴏᴛ ᴍᴅ** ⌬\n\n✨ **¡ꜰᴇʟɪᴄɪᴅᴀᴅᴇꜱ!**\n${premio.titulo}\n\n💰 **ᴍᴏɴᴇʏ:** +${premio.money.toLocaleString()}\n✨ **ᴇxᴘ:** +${premio.exp.toLocaleString()}\n💎 **ᴅɪᴀᴍᴀɴᴛᴇꜱ:** +${premio.limit}`;
+    return conn.sendMessage(m.chat, { text: msgReward }, { quoted: m });
+  }
+
+  // --- ESCENARIO B: USUARIO NO REGISTRADO (SOLO PUEDE REGISTRARSE) ---
+  const example = `📑 *ꜰᴏʀᴍᴀᴛᴏ ᴅᴇ ʀᴇɢɪꜱᴛʀᴏ ɪɴᴄᴏʀʀᴇᴄᴛᴏ*\n\n💡 ᴜꜱᴀ: \`${usedPrefix + command} nombre.edad\`\n✨ ᴇᴊ: \`${usedPrefix + command} Yovani.21\`\n\n⚠️ *Nota: Tu tiempo activo para premios empezará a contar después de este registro.*`;
+  
+  if (!Reg.test(text)) return m.reply(example);
+
+  let [, nombre, , edadRaw] = text.match(Reg);
+  const edad = parseInt(edadRaw);
+
+  if (!nombre || !nombre.trim()) return m.reply('❌ No puedes dejar tu nombre vacío.');
+  if (isNaN(edad) || edad < 15 || edad > 50) return m.reply('❌ La edad debe estar entre 15 y 50 años.');
+
+  const pp = await conn.profilePictureUrl(m.sender, 'image').catch(() => 'https://telegra.ph/file/241f050c4bcc0117300c9.jpg');
+
+  // REGISTRO INICIAL
+  user.name = nombre.trim();
+  user.age = edad;
+  user.regTime = +new Date(); 
+  user.registered = true;
+  user.hitosReclamados = []; 
+  user.ultimoCicloHades = 0;
+
+  const codigo = createHash('md5').update(m.sender).digest('hex');
+  const info = `
+⌬  **ʜᴀᴅᴇꜱ ʙᴏᴛ ᴍᴅ** ⌬
+  *ꜱʏꜱᴛᴇᴍ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ*
+
+•─────────────•
+
+👤 **ᴜꜱᴜᴀʀɪᴏ:** ${nombre.trim()}
+🎂 **ᴇᴅᴀᴅ:** ${edad} ᴀñᴏꜱ
+⏳ **ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:** 0ʜ 0ᴍ
+🆔 **ɪᴅ:** \`${codigo.slice(0, 15)}\`
+
+💰 **ᴍᴏɴᴇʏ:** +10,000
+✨ **ᴇxᴘ:** +10,000
+💎 **ᴅɪᴀᴍᴀɴᴛᴇꜱ:** +50 
+
+•─────────────•
+
+🎁 **ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ ᴇxᴛʀᴀ**
+ᴅᴀ ᴄʟɪᴄ ᴇɴ **"ᴀʙʀɪʀ ᴄᴏꜰʀᴇ"** ᴘᴀʀᴀ ᴛᴜꜱ ᴘʀᴇᴍɪᴏꜱ.`;
+
+  const footer = '「 ᴏғᴄ:ʏᴏᴠᴀɴɪ • 2026 」';
+  const buttons = [
+    { buttonId: `${usedPrefix}menu`, buttonText: { displayText: '📋 ᴍᴇɴᴜ ᴘʀɪɴᴄɪᴘᴀʟ' }, type: 1 },
+    { buttonId: `${usedPrefix}coffre`, buttonText: { displayText: '📦 ᴀʙʀɪʀ ᴄᴏꜰʀᴇ' }, type: 1 }
+  ];
+
+  try {
+    await conn.sendMessage(m.chat, { image: { url: pp }, caption: info, footer, buttons, headerType: 4 }, { quoted: m });
+  } catch {
+    await conn.sendMessage(m.chat, { text: info + `\n\n📢 Escribe .menu o .coffre` }, { quoted: m });
+  }
+
+
+  user.money += 10000;
+  user.exp += 10000;
+  user.limit += 50;
+  await conn.sendMessage(m.chat, { react: { text: '✅', key: m.key }});
+};
+
+handler.help = ['reg', 'recompensa'];
+handler.tags = ['xp'];
+handler.command = /^(reg|recompensa|claim|verificar)$/i;
+
+export default handler;

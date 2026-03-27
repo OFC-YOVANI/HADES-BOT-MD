@@ -1,1 +1,142 @@
-const _0x53ed24=_0x4f85;(function(_0x423ff7,_0x789c3a){const _0x2597c3=_0x4f85,_0x321a73=_0x423ff7();while(!![]){try{const _0x3e4a37=parseInt(_0x2597c3(0x116))/0x1*(parseInt(_0x2597c3(0x107))/0x2)+parseInt(_0x2597c3(0x131))/0x3*(-parseInt(_0x2597c3(0x121))/0x4)+-parseInt(_0x2597c3(0x113))/0x5+parseInt(_0x2597c3(0x124))/0x6+parseInt(_0x2597c3(0x137))/0x7+parseInt(_0x2597c3(0x108))/0x8+parseInt(_0x2597c3(0x138))/0x9*(-parseInt(_0x2597c3(0x11d))/0xa);if(_0x3e4a37===_0x789c3a)break;else _0x321a73['push'](_0x321a73['shift']());}catch(_0x212af8){_0x321a73['push'](_0x321a73['shift']());}}}(_0xddee,0xaf4dc));function _0x1612(_0x47920c,_0x51c689){_0x47920c=_0x47920c-0x137;const _0x2e8164=_0x32d8();let _0x5547a1=_0x2e8164[_0x47920c];return _0x5547a1;}const _0x3e97a7=_0x1612;(function(_0x6e927c,_0x1682e5){const _0x36398e=_0x4f85,_0x3e0453=_0x1612,_0x2ece8e=_0x6e927c();while(!![]){try{const _0x432a3c=parseInt(_0x3e0453(0x140))/0x1+parseInt(_0x3e0453(0x14f))/0x2*(-parseInt(_0x3e0453(0x15f))/0x3)+-parseInt(_0x3e0453(0x163))/0x4+-parseInt(_0x3e0453(0x169))/0x5+parseInt(_0x3e0453(0x150))/0x6+-parseInt(_0x3e0453(0x164))/0x7+parseInt(_0x3e0453(0x144))/0x8;if(_0x432a3c===_0x1682e5)break;else _0x2ece8e[_0x36398e(0x132)](_0x2ece8e['shift']());}catch(_0x333a85){_0x2ece8e['push'](_0x2ece8e['shift']());}}}(_0x32d8,0x2c62b));const _0x3ee61b=_0x3a6b;(function(_0x2f0fe7,_0x36162d){const _0x18d03b=_0x4f85,_0x1ed8a3=_0x1612,_0x2421a4=_0x3a6b,_0x20df60=_0x2f0fe7();while(!![]){try{const _0x4c7ee1=parseInt(_0x2421a4(0xa9))/0x1+-parseInt(_0x2421a4(0x9e))/0x2+parseInt(_0x2421a4(0x9d))/0x3+-parseInt(_0x2421a4(0x98))/0x4+parseInt(_0x2421a4(0xa4))/0x5+-parseInt(_0x2421a4(0x94))/0x6*(-parseInt(_0x2421a4(0x99))/0x7)+parseInt(_0x2421a4(0xab))/0x8*(-parseInt(_0x2421a4(0x92))/0x9);if(_0x4c7ee1===_0x36162d)break;else _0x20df60[_0x18d03b(0x132)](_0x20df60[_0x1ed8a3(0x14b)]());}catch(_0x3e5a55){_0x20df60[_0x1ed8a3(0x147)](_0x20df60[_0x1ed8a3(0x14b)]());}}}(_0x53d9,0x4160c));function _0x4f85(_0x334998,_0x323275){_0x334998=_0x334998-0x100;const _0xddee0d=_0xddee();let _0x4f85ad=_0xddee0d[_0x334998];return _0x4f85ad;}import _0x4f58ab from'yt-search';function extractVideoId(_0x43b9d6){const _0x365933=_0x43b9d6['match'](/(?:youtu\.be\/|youtube\.com\/(?:watch\?v=|embed\/|v\/))([^&?\/]+)/);return _0x365933?_0x365933[0x1]:null;}function _0x3a6b(_0x3d3c7d,_0x203c66){_0x3d3c7d=_0x3d3c7d-0x73;const _0x56b2ec=_0x53d9();let _0x185057=_0x56b2ec[_0x3d3c7d];return _0x185057;}function formatViews(_0x1b1bd2){const _0x3d5f20=_0x3a6b;try{return _0x1b1bd2>=0xf4240?(_0x1b1bd2/0xf4240)[_0x3d5f20(0xad)](0x1)+'M':_0x1b1bd2>=0x3e8?(_0x1b1bd2/0x3e8)[_0x3d5f20(0xad)](0x1)+'k':_0x1b1bd2[_0x3d5f20(0x78)]();}catch{return'0';}}function secondString(_0x157ae2){const _0xe850a1=_0x3a6b;_0x157ae2=Number(_0x157ae2);const _0x4187dc=Math[_0xe850a1(0x8e)](_0x157ae2/0xe10),_0x3dcab8=Math[_0xe850a1(0x8e)](_0x157ae2%0xe10/0x3c),_0x16d082=Math[_0xe850a1(0x8e)](_0x157ae2%0x3c);return[_0x4187dc>0x0?_0x4187dc+'h':'',_0x3dcab8>0x0?_0x3dcab8+'m':'',_0x16d082+'s'][_0xe850a1(0x7b)](Boolean)[_0xe850a1(0xa7)]('\x20');}const handler=async(_0x36c9f8,{conn:_0x3e2e78,text:_0x302348,usedPrefix:_0x3a3150,command:_0x555421})=>{const _0x5f3c97=_0x4f85,_0x31398b=_0x1612,_0x362d79=_0x3a6b;let _0xaca4f5={'key':{'participants':_0x362d79(0x93),'remoteJid':_0x362d79(0x85),'fromMe':![],'id':_0x362d79(0x84)},'message':{'contactMessage':{'vcard':_0x362d79(0x77)+_0x36c9f8[_0x362d79(0x82)][_0x362d79(0xac)]('@')[0x0]+':'+_0x36c9f8[_0x362d79(0x82)][_0x362d79(0xac)]('@')[0x0]+_0x31398b(0x16f)}},'participant':_0x362d79(0x93)};if(!_0x302348?.[_0x362d79(0xa3)]())return _0x3e2e78[_0x362d79(0x96)](_0x36c9f8[_0x31398b(0x156)],_0x31398b(0x168)+(_0x3a3150+_0x555421)+_0x362d79(0x83)+(_0x3a3150+_0x555421)+_0x362d79(0x7e),_0xaca4f5,_0x36c9f8);try{const _0x4c2c60=await _0x4f58ab(_0x302348[_0x362d79(0xa3)]());if(!_0x4c2c60[_0x362d79(0x97)]?.[_0x362d79(0xa8)])return _0x36c9f8[_0x362d79(0x96)](_0x362d79(0xaa));const _0x29627c=_0x4c2c60[_0x362d79(0x97)][_0x362d79(0x75)](_0x325160=>!!_0x325160[_0x362d79(0x8c)])||_0x4c2c60[_0x362d79(0x97)][0x0],{title:_0x55a373,thumbnail:_0x1439ce,timestamp:_0x3f27c4,views:_0x14cbfc,ago:_0x3be409,url:_0x288c16}=_0x29627c,_0x89807b=extractVideoId(_0x288c16);if(!_0x89807b)return _0x36c9f8[_0x362d79(0x96)](_0x362d79(0x9a));const _0x56a8d7=_0x362d79(0x7c)+_0x89807b,_0xe8b11c=_0x1439ce?(await _0x3e2e78[_0x362d79(0x8b)](_0x1439ce))?.[_0x362d79(0xa0)]:null,_0x44646f=_0x5f3c97(0x134)+_0x55a373+_0x31398b(0x165)+_0x3f27c4+_0x362d79(0x8d)+formatViews(_0x14cbfc)+_0x362d79(0xa5)+_0x3be409+_0x362d79(0x7d)+_0x56a8d7+'*',_0x5572=[{'buttonId':_0x3a3150+_0x362d79(0x95)+_0x56a8d7,'buttonText':{'displayText':_0x362d79(0x8f)},'type':0x1},{'buttonId':_0x3a3150+_0x362d79(0x9f)+_0x56a8d7,'buttonText':{'displayText':_0x362d79(0x8a)},'type':0x1},{'buttonId':_0x3a3150+_0x362d79(0x86)+_0x56a8d7,'buttonText':{'displayText':_0x362d79(0x91)},'type':0x1}];try{await _0x3e2e78[_0x362d79(0x89)](_0x36c9f8[_0x31398b(0x156)],{'image':_0xe8b11c,'caption':_0x44646f,'footer':_0x362d79(0x80),'buttons':_0x5572,'headerType':0x4},{'quoted':_0xaca4f5});}catch{try{await _0x3e2e78[_0x362d79(0x89)](_0x36c9f8[_0x362d79(0x7f)],{'text':_0x44646f,'footer':_0x362d79(0x80),'buttons':_0x5572,'headerType':0x1},{'quoted':_0xaca4f5});}catch{await _0x3e2e78[_0x31398b(0x13f)](_0x36c9f8[_0x362d79(0x7f)],{'text':_0x44646f+_0x362d79(0x79)+(_0x362d79(0x81)+_0x3a3150+_0x362d79(0x95)+_0x56a8d7+'`\x0a')+(_0x362d79(0x76)+_0x3a3150+_0x362d79(0xa6)+_0x56a8d7+'`\x0a')+(_0x5f3c97(0x10d)+_0x3a3150+_0x362d79(0x88)+_0x56a8d7+'`\x0a')+(_0x362d79(0x73)+_0x3a3150+_0x362d79(0x87)+_0x56a8d7+'`')},{'quoted':_0xaca4f5});}}}catch(_0x39a24a){return console[_0x362d79(0x74)](_0x362d79(0xa1),_0x39a24a[_0x362d79(0x9b)]),_0x36c9f8[_0x5f3c97(0x139)](_0x362d79(0x90)+_0x39a24a[_0x362d79(0x9b)]);}};handler[_0x3ee61b(0xa2)]=[_0x3e97a7(0x151),'yt',_0x3ee61b(0x9c),_0x3e97a7(0x149)],handler[_0x3ee61b(0x7a)]=[_0x53ed24(0x129)],handler[_0x3e97a7(0x15d)]=[_0x53ed24(0x13f)];function _0x32d8(){const _0x4aa2ad=_0x53ed24,_0x3c15ea=['\x20Feid\x20-\x20Pantysito`',_0x4aa2ad(0x11a),'1500308nvOtPe',_0x4aa2ad(0x12c),'join',_0x4aa2ad(0x10c),_0x4aa2ad(0x111),'*\x0a⏱️ᴅᴜʀᴀᴄɪᴏɴ➠\x20*',_0x4aa2ad(0x119),_0x4aa2ad(0x114),_0x4aa2ad(0x120),_0x4aa2ad(0x140),'toString','Halo',_0x4aa2ad(0x123),_0x4aa2ad(0x11b),_0x4aa2ad(0x136),'\x0aitem1.X-ABLabel:Ponsel\x0aEND:VCARD',_0x4aa2ad(0x13c),_0x4aa2ad(0x142),'command',_0x4aa2ad(0x106),'message','mp3doc\x20',_0x4aa2ad(0x10a),'find',_0x4aa2ad(0x13d),_0x4aa2ad(0x118),_0x4aa2ad(0x115),_0x4aa2ad(0x139),'📱ᴍᴀ́ꜱ\x20ʀᴇꜱᴜʟᴛᴀᴅᴏꜱ\x20ɪᴏꜱ',_0x4aa2ad(0x11c),_0x4aa2ad(0x127),_0x4aa2ad(0x117),'push',_0x4aa2ad(0x10f),_0x4aa2ad(0x12b),'error','shift','floor',_0x4aa2ad(0x13e),_0x4aa2ad(0x12d),_0x4aa2ad(0x109),_0x4aa2ad(0x126),_0x4aa2ad(0x13a),'2091987FWaoFo','*\x0a👁️ᴠɪsᴛᴀs➠\x20*',_0x4aa2ad(0x135),_0x4aa2ad(0x12a),'chat',_0x4aa2ad(0x133),_0x4aa2ad(0x10b),_0x4aa2ad(0x11f),_0x4aa2ad(0x125),_0x4aa2ad(0x100),_0x4aa2ad(0x112),_0x4aa2ad(0x143)];return _0x32d8=function(){return _0x3c15ea;},_0x32d8();}export default handler;function _0x53d9(){const _0x991296=_0x53ed24,_0x3cd70a=_0x3e97a7,_0x3c1507=[_0x3cd70a(0x153),_0x3cd70a(0x14c),_0x3cd70a(0x155),_0x3cd70a(0x16c),_0x3cd70a(0x143),_0x3cd70a(0x152),_0x3cd70a(0x137),_0x3cd70a(0x15c),_0x3cd70a(0x16e),_0x3cd70a(0x142),_0x991296(0x130),_0x3cd70a(0x160),_0x991296(0x13b),_0x991296(0x10e),_0x3cd70a(0x13b),_0x3cd70a(0x159),_0x3cd70a(0x15b),_0x3cd70a(0x15a),_0x991296(0x144),_0x991296(0x103),_0x991296(0x102),_0x3cd70a(0x139),_0x3cd70a(0x157),_0x3cd70a(0x158),_0x991296(0x12f),_0x3cd70a(0x13c),_0x3cd70a(0x162),'length',_0x3cd70a(0x154),_0x3cd70a(0x166),_0x3cd70a(0x145),_0x991296(0x11e),_0x991296(0x141),_0x3cd70a(0x146),_0x3cd70a(0x14a),_0x3cd70a(0x13e),_0x3cd70a(0x167),_0x991296(0x110),_0x3cd70a(0x16a),_0x3cd70a(0x14d),_0x3cd70a(0x141),_0x3cd70a(0x138),_0x3cd70a(0x13d),_0x3cd70a(0x14e),_0x3cd70a(0x15e),_0x3cd70a(0x156),_0x3cd70a(0x13a),_0x3cd70a(0x148),_0x991296(0x105),_0x991296(0x122),_0x3cd70a(0x16b),_0x991296(0x128),_0x991296(0x12e),_0x3cd70a(0x16d),'mp4\x20',_0x991296(0x13d),_0x991296(0x101),_0x3cd70a(0x161),_0x991296(0x104)];return _0x53d9=function(){return _0x3c1507;},_0x53d9();}function _0xddee(){const _0x89c00f=['2366553UiPWPi','18fnTmLX','1436890INEkyE','📄\x20Audio\x20Doc\x20→\x20`','tags','762snHRhy','🎞️\x20Video\x20Doc\x20→\x20`','344118ehNUsX','❌\x20No\x20se\x20encontraron\x20resultados.','9xfyKnW','mp4doc\x20','4685960AFGhJY','760RsbotJ','split','audio','❌\x20*Uso:*\x20`','84qeBynR','\x20<nombre\x20o\x20URL>`\x0a\x0a*Ejemplo:*\x0a`','❌\x20*Error:*\x20','6667524qDTkdp','258318AyQFIv','309360NhPMMt','16CDDumQ','status@broadcast','downloader','🎵\x20ᴀᴜᴅɪᴏ\x20ᴍᴘ3','youtube','getFile','*\x0a\x0a📺▼ᴄʟɪᴄᴋ\x20ᴘᴀʀᴀ\x20ᴠᴇʀ\x20ᴇɴ\x20ʏᴏᴜᴛᴜʙᴇ▼\x0a*','prueba\x20','*\x0a📅ғᴇᴄʜᴀ➠\x20*','all','80805ghazRn','push','trim','⇆ㅤㅤ◁ㅤㅤ❚❚ㅤㅤ▷ㅤㅤ↻\x0a👤ᴀʀᴛɪsᴛᴀ➠\x20*','345698OgmouQ','mp3\x20','1633499aJGnrL','240228ADUSzI','reply','play','570157PqRwrp','0@s.whatsapp.net','sendMessage','\x0a\x0a📥\x20*Opciones:*\x0a','play\x20<nombre\x20o\x20URL>','1610545BgCrJj','toFixed','filter','help','playlist\x20','603723TNnlHc','🎶\x20ᴍᴀ́ꜱ\x20ʀᴇꜱᴜʟᴛᴀᴅᴏꜱ\x20','[PLAY]\x20Error:','data','ago','sender','「\x20ᴄʀᴇᴀᴅᴏʀ:\x20ᴏғᴄ:ʏᴏᴠᴀɴɪ\x20」','2972eAtCNz','8981648GBhJyZ','79614zhZVKX','https://youtu.be/','2228090YnngMK','80044RqQYEp','🎬\x20Video\x20MP4\x20→\x20`','❌\x20No\x20se\x20pudo\x20obtener\x20el\x20ID\x20del\x20video.','🎵\x20Audio\x20MP3\x20→\x20`','BEGIN:VCARD\x0aVERSION:3.0\x0aN:Sy;Bot;;;\x0aFN:y\x0aitem1.TEL;waid='];_0xddee=function(){return _0x89c00f;};return _0xddee();}
+import fetch from 'node-fetch'
+import yts from 'yt-search'
+import ffmpeg from 'fluent-ffmpeg'
+import { Readable } from 'stream'
+
+const SERVER_URL = 'http://hno.ofcyovani.com:5050'
+const cache = new Map()
+
+function convertToOgg(mp3Buffer) {
+  return new Promise((resolve, reject) => {
+    const input = new Readable()
+    input.push(mp3Buffer)
+    input.push(null)
+    const chunks = []
+    ffmpeg(input)
+      .inputFormat('mp3')
+      .audioCodec('libopus')
+      .format('ogg')
+      .on('error', (err) => reject(err))
+      .pipe()
+      .on('data', (chunk) => chunks.push(chunk))
+      .on('end', () => resolve(Buffer.concat(chunks)))
+  })
+}
+
+async function descargarMedia(url, type = 'audio') {
+  const format = type === 'video' ? 'mp4' : 'mp3'
+  const quality = type === 'video' ? '&quality=360p' : ''
+  const endpoint = `${SERVER_URL}/download?url=${encodeURIComponent(url)}&format=${format}${quality}`
+  
+  const response = await fetch(endpoint, { timeout: 180000 })
+  if (!response.ok) throw new Error(`Error: ${response.status}`)
+  const buffer = Buffer.from(await response.arrayBuffer())
+  return { buffer, sizeMB: buffer.length / 1024 / 1024 }
+}
+
+const handler = async (m, { conn, text, command, usedPrefix }) => {
+  const user = global.db.data.users[m.sender]
+  const cmd = command.toLowerCase()
+
+  if (!m.isGroup) return m.reply('❌ Solo en grupos.')
+  if (!user.registered) return m.reply(`❌ Regístrate con: ${usedPrefix}reg`)
+  if (!text?.trim()) return m.reply(`❌ Uso: ${usedPrefix + command} <nombre o enlace>`)
+
+  const isVideo = /video|mp4/i.test(cmd)
+  const isDoc = /doc|documento|spotdl/i.test(cmd)
+  const isPTT = /^audio$/i.test(cmd)
+  const isSpotifyAction = /spotify|music|spotdl/i.test(cmd)
+
+  // --- DETECCIÓN Y LIMPIEZA DE URL DE YOUTUBE ---
+  if (/(?:https?:\/\/)?(?:www\.)?(?:youtube\.com|youtu\.be)/.test(text)) {
+    let url = text.trim()
+    
+    // Limpieza profunda de parámetros basura (?si=, &feature=, etc.)
+    if (url.includes('youtu.be/')) {
+        url = 'https://youtu.be/' + url.split('youtu.be/')[1].split('?')[0]
+    } else if (url.includes('youtube.com/watch?v=')) {
+        url = 'https://www.youtube.com/watch?v=' + url.split('v=')[1].split('&')[0]
+    } else if (url.includes('youtube.com/shorts/')) {
+        url = 'https://www.youtube.com/shorts/' + url.split('shorts/')[1].split('?')[0]
+    }
+
+    const label = isSpotifyAction ? 'ꜱᴘᴏᴛɪꜰʏ' : 'ʏᴏᴜᴛᴜʙᴇ'
+    const msgEnviado = await conn.sendMessage(m.chat, { text: `⏳ ᴘʀᴏᴄᴇsᴀɴᴅᴏ ${label}...` }, { quoted: m })
+    
+    try {
+      const resultado = await descargarMedia(url, isVideo ? 'video' : 'audio')
+
+      if (isDoc) {
+        await conn.sendMessage(m.chat, { 
+          document: resultado.buffer, 
+          mimetype: isVideo ? 'video/mp4' : 'audio/mpeg', 
+          fileName: `HadesBot_${Date.now()}.${isVideo ? 'mp4' : 'mp3'}`,
+          caption: `📄 **ᴅᴏᴄᴜᴍᴇɴᴛᴏ ʟɪsᴛᴏ**\n⚙️ **ᴀᴘɪ ᴘʀᴏᴘɪᴀ**`
+        }, { quoted: m })
+      } else if (isVideo) {
+        await conn.sendMessage(m.chat, { 
+          video: resultado.buffer, 
+          mimetype: 'video/mp4', 
+          caption: `🎬 **ʜᴀᴅᴇꜱ ʙᴏᴛ ᴍᴅ**\n⚙️ **ᴀᴘɪ ᴘʀᴏᴘɪᴀ**` 
+        }, { quoted: m })
+      } else if (isPTT) {
+        await conn.sendPresenceUpdate('recording', m.chat)
+        const oggBuffer = await convertToOgg(resultado.buffer)
+        await conn.sendMessage(m.chat, { audio: oggBuffer, mimetype: 'audio/ogg; codecs=opus', ptt: true }, { quoted: m })
+      } else {
+        await conn.sendMessage(m.chat, { audio: resultado.buffer, mimetype: 'audio/mpeg', ptt: false, fileName: `Hades_Music.mp3` }, { quoted: m })
+      }
+      
+      return conn.sendMessage(m.chat, { text: `✅ **ᴇɴᴠɪᴀᴅᴏ ᴄᴏɴ ᴇxɪᴛᴏ**\n📦 ${resultado.sizeMB.toFixed(1)} MB`, edit: msgEnviado.key })
+    } catch (err) {
+      return conn.sendMessage(m.chat, { text: `❌ **ᴇʀʀᴏʀ:** ${err.message}`, edit: msgEnviado.key })
+    }
+  }
+
+  // --- BÚSQUEDA POR TEXTO (SPOTIFY / YOUTUBE) ---
+  try {
+    await conn.sendMessage(m.chat, { react: { text: '⚡', key: m.key }})
+    
+    if (isSpotifyAction && !text.includes('youtube.com')) {
+      const res = await fetch(`${SERVER_URL}/search?q=${encodeURIComponent(text.trim())}`)
+      const data = await res.json()
+      if (!data?.status || !data.resultados?.length) return m.reply('❌ No se encontró nada en Spotify.')
+      
+      const top = data.resultados[0]
+      const videoId = top.link.match(/(?:v=|\/)([0-9A-Za-z_-]{11})/)?.[1]
+      const thumb = videoId ? `https://img.youtube.com/vi/${videoId}/hqdefault.jpg` : null
+
+      const infoSpot = `─── · · 🟢 **ꜱᴘᴏᴛɪꜰʏ** · · ───\n⇆ㅤㅤ◁ㅤㅤ❚❚ㅤㅤ▷ㅤㅤ↻\n\n» 🎵 ᴛíᴛᴜʟᴏ: *${top.titulo}*\n» 👤 ᴀʀᴛɪꜱᴛᴀ: *${top.artista || 'Desconocido'}*\n» ⏱️ ᴅᴜʀᴀᴄɪóɴ: *${top.duracion || '-'}*\n\n── · · ʜᴀᴅᴇs ʙᴏᴛ ᴍᴅ · · ──`
+
+      const buttonsSpot = [
+        { buttonId: `${usedPrefix}spotify ${top.link}`, buttonText: { displayText: '🎵 ꜱᴘᴏᴛɪꜰʏ ᴀᴜᴅɪᴏ' }, type: 1 },
+        { buttonId: `${usedPrefix}spotdl ${top.link}`, buttonText: { displayText: '📄 ꜱᴘᴏᴛɪꜰʏ ᴅᴏᴄ' }, type: 1 }
+      ]
+
+      await conn.sendMessage(m.chat, { image: { url: thumb }, caption: infoSpot, footer: '「 ᴏғᴄ:ʏᴏᴠᴀɴɪ • ᴀᴘɪ ᴘʀᴏᴘɪᴀ 」', buttons: buttonsSpot, headerType: 4 }, { quoted: m })
+
+    } else {
+      let video = cache.get(text.toLowerCase())
+      if (!video) {
+        const search = await yts(text)
+        video = search.videos[0]
+        if (video) cache.set(text.toLowerCase(), video)
+      }
+      if (!video) return m.reply('❌ No se encontró nada en YouTube.')
+
+      const infoYT = `⌬  **ʏᴏᴜᴛᴜʙᴇ ${command.toUpperCase()}** ⌬\n•─────────────•\n✨ **ᴛɪᴛᴜʟᴏ:** ${video.title}\n⏱️ **ᴅᴜʀᴀᴄɪᴏɴ:** ${video.timestamp}\n⚙️ **ᴀᴘɪ:** ᴘʀᴏᴘɪᴀ\n•─────────────•`
+
+      const buttonsYT = [
+        { buttonId: `${usedPrefix + command} ${video.url}`, buttonText: { displayText: `📥 ᴅᴇsᴄᴀʀɢᴀʀ` }, type: 1 },
+        { buttonId: `${usedPrefix}playlist ${text}`, buttonText: { displayText: '📂 ᴍᴀ́s ʀᴇsᴜʟᴛᴀᴅᴏs' }, type: 1 }
+      ]
+
+      await conn.sendMessage(m.chat, { image: { url: video.thumbnail }, caption: infoYT, footer: '「 ᴏғᴄ:ʏᴏᴠᴀɴɪ • ᴀᴘɪ ᴘʀᴏᴘɪᴀ 」', buttons: buttonsYT, headerType: 4 }, { quoted: m })
+    }
+  } catch (e) {
+    m.reply('❌ Error en la búsqueda.')
+  }
+}
+
+handler.command = /^(play|play2|audio|video|yt|yt2|playdoc|audiodoc|videodoc|play2doc|music|spotify|spotdl|musicmp3|musicdoc)$/i
+export default handler

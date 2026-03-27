@@ -1,1 +1,65 @@
-const _0x5bb818=_0x1333;function _0x596f(){const _0x42f477=['2417648QOSmmt','❌\x20Ha\x20ocurrido\x20un\x20error\x20al\x20cargar\x20la\x20imagen.','1501580UjWlJQ','sendMessage','62741yvTmGD','fail','command','6bKQZzq','*𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻\x20𝙱𝙾𝚇𝙼𝙸𝙽𝙴\x20𝙷𝙾𝚂𝚃*\x0a\x20Tutorial:\x20https://youtu.be/JF7E4Dh898c?si=HI6ewQCZpYSHnVC7\x0a\x20Pagina\x20Oficial:\x20https://boxmineworld.com\x0a\x20Dashboard:\x20https://dash.boxmineworld.com/home\x0a\x20Panel:\x20https://panel.boxmineworld.com\x0a\x20Soporte:\x20https://discord.gg/84qsr4v\x20\x0a\x0aTutorial\x20en\x20termux\x0ahttps://youtu.be/AtI8nyBWrZk\x0aNúmero\x20para\x20ayuda➻❥」\x0aWa.me/5212412377467\x0aAPK-TERMUX\x0a\x20https://www.mediafire.com/file/190g4b86nhyof7b/com.termux_118.apk/file?dkey=wfddtbi5jtj98\x0a\x0a𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂\x20𝚃𝙴𝚁𝙼𝚄𝚇\x0aopción\x201\x0atermux-setup-storage\x0apkg\x20update\x20-y\x20&&\x20pkg\x20upgrade\x20-y\x20&&\x20pkg\x20install\x20-y\x20bash\x20&&\x20pkg\x20install\x20-y\x20wget\x20&&\x20pkg\x20install\x20yarn\x0awget\x20-O\x20-\x20https://raw.githubusercontent.com/OFC-YOVANI/HADES-BOT-MD/master/install.sh\x20|\x20bash\x0a\x0a𝙾𝙿𝙲𝙸𝙾𝙽\x202\x0acd\x20&&\x20termux-setup-storage\x0aapt-get\x20update\x20-y\x20&&\x20apt-get\x20upgrade\x20-y\x0apkg\x20install\x20-y\x20git\x20nodejs\x20ffmpeg\x20imagemagick\x20&&\x20pkg\x20install\x20yarn\x20\x0agit\x20clone\x20https://github.com/OFC-YOVANI/HADES-BOT-MD.git\x20&&\x20cd\x20HADES-BOT-MD\x0ayarn\x20\x0anpm\x20install\x0anpm\x20update\x0anpm\x20start\x0a\x0aPara\x20activarlo\x20de\x20nuevo:\x0acd\x20HADES-BOT-MD\x0anpm\x20start\x0a\x0aPara\x20borrar\x20sesión:\x0acd\x20HADES-BOT-MD\x0arm\x20-rf\x20Session-activa\x0anpm\x20start','from','1297322aFFgsv','reply','1192038DGwCSX','2663910pBrKFR','chat','320iPkynF','https://raw.githubusercontent.com/OFC-YOVANI/Api-anime/main/img/menudescargas.jpg','23488350SByGBu','15JrXsbU'];_0x596f=function(){return _0x42f477;};return _0x596f();}(function(_0x85448c,_0x14b550){const _0x432fc8=_0x1333,_0x325718=_0x85448c();while(!![]){try{const _0x32edf7=-parseInt(_0x432fc8(0x158))/0x1+parseInt(_0x432fc8(0x14d))/0x2+parseInt(_0x432fc8(0x14a))/0x3*(-parseInt(_0x432fc8(0x156))/0x4)+-parseInt(_0x432fc8(0x155))/0x5*(-parseInt(_0x432fc8(0x14f))/0x6)+-parseInt(_0x432fc8(0x147))/0x7*(parseInt(_0x432fc8(0x152))/0x8)+parseInt(_0x432fc8(0x150))/0x9+parseInt(_0x432fc8(0x154))/0xa;if(_0x32edf7===_0x14b550)break;else _0x325718['push'](_0x325718['shift']());}catch(_0x13083f){_0x325718['push'](_0x325718['shift']());}}}(_0x596f,0xc8565));import _0x5866df from'node-fetch';const IMAGE_URL=_0x5bb818(0x153),handler=async(_0x2b82c6,{conn:_0x1bbb8d,usedPrefix:_0x371f20})=>{const _0x96c647=_0x5bb818;if(_0x371f20==='a'||_0x371f20==='A')return;try{const _0x3cdad1=await _0x5866df(IMAGE_URL),_0x317f62=Buffer[_0x96c647(0x14c)](await _0x3cdad1['arrayBuffer']()),_0x5cf538=_0x96c647(0x14b)['trim']();await _0x1bbb8d[_0x96c647(0x146)](_0x2b82c6[_0x96c647(0x151)],{'image':_0x317f62,'caption':_0x5cf538},{'quoted':_0x2b82c6});}catch(_0x108ede){await _0x2b82c6[_0x96c647(0x14e)](_0x96c647(0x157));}};function _0x1333(_0x4b5d7b,_0x54417e){_0x4b5d7b=_0x4b5d7b-0x146;const _0x596f42=_0x596f();let _0x1333c9=_0x596f42[_0x4b5d7b];return _0x1333c9;}handler[_0x5bb818(0x149)]=/^(instalarbot)$/i,handler['exp']=0x32,handler['register']=!![],handler[_0x5bb818(0x148)]=null;export default handler;
+const IMAGE_URL = 'https://raw.githubusercontent.com/OFC-YOVANI/Api-anime/main/img/menudescargas.jpg'
+
+const handler = async (m, { conn, usedPrefix }) => {
+  if (usedPrefix === 'a' || usedPrefix === 'A') return
+
+  const text = `
+*─── · · ⚡ ɪɴꜱᴛᴀʟᴀᴄɪóɴ ʜᴀᴅᴇꜱ ʙᴏᴛ · · ───*
+
+*¡ʜᴏʟᴀ ᴜꜱᴜᴀʀɪᴏ! 👋🏻* > ᴀQᴜí ᴛɪᴇɴᴇꜱ ʟᴀ ɢᴜíᴀ ᴄᴏᴍᴘʟᴇᴛᴀ ᴘᴀʀᴀ ɪɴꜱᴛᴀʟᴀʀ ᴇʟ ʙᴏᴛ ᴇɴ ᴛᴜ ʜᴏꜱᴛ ᴏ ᴇɴ ᴛᴇʀᴍᴜx.
+
+*📦 ʙᴏxᴍɪɴᴇ ʜᴏꜱᴛ (ʀᴇᴄᴏᴍᴇɴᴅᴀᴅᴏ)*
+* ◈ ᴛᴜᴛᴏʀɪᴀʟ:* https://youtu.be/JF7E4Dh898c
+* ◈ ᴘáɢɪɴᴀ:* https://boxmineworld.com
+* ◈ ᴘᴀɴᴇʟ:* https://panel.boxmineworld.com
+* ◈ ꜱᴏᴘᴏʀᴛᴇ:* https://discord.gg/84qsr4v
+
+*📱 ɪɴꜱᴛᴀʟᴀᴄɪóɴ ᴇɴ ᴛᴇʀᴍᴜx*
+* ◈ ᴠíᴅᴇᴏ ɢᴜíᴀ:* https://youtu.be/AtI8nyBWrZk
+* ◈ ᴀᴘᴋ ᴛᴇʀᴍᴜx:* https://bit.ly/termux-apk
+* ◈ ᴀʏᴜᴅᴀ:* wa.me/5212412377467
+
+*💻 ᴄᴏᴍᴀɴᴅᴏꜱ ᴘᴀʀᴀ ᴛᴇʀᴍᴜx*
+> _ᴄᴏᴘɪᴀ ʏ ᴘᴇɢᴀ ᴜɴᴏ ᴘᴏʀ ᴜɴᴏ_
+
+\`\`\`pkg update && pkg upgrade -y
+pkg install nodejs git python make clang pkg-config -y
+git clone https://github.com/OFC-YOVANI/HADES-BOT-MD.git
+cd HADES-BOT-MD 
+pkg install yarn
+yarn
+npm install
+npm start\`\`\`
+
+*🔄 ᴍᴀɴᴛᴇɴɪᴍɪᴇɴᴛᴏ ʏ ʀᴇᴄᴏɴᴇxɪóɴ*
+
+*⚙️ ʀᴇᴀᴄᴛɪᴠᴀʀ (ꜱɪ ꜱᴇ ᴀᴘᴀɢó):*
+> ꜱɪ ᴇʟ ʙᴏᴛ ꜱᴇ ᴅᴇᴛɪᴇɴᴇ, ꜱᴏʟᴏ ᴇꜱᴄʀɪʙᴇ:
+\`cd HADES-BOT-MD && npm start\`
+
+*🔑 ᴘᴇᴅɪʀ ᴄóᴅɪɢᴏ ᴅᴇ ɴᴜᴇᴠᴏ:*
+> ꜱɪ ᴅᴇꜱᴇᴀꜱ ᴠɪɴᴄᴜʟᴀʀ ᴏᴛʀᴏ ɴúᴍᴇʀᴏ ᴏ ᴘᴇᴅɪʀ ᴇʟ ᴄóᴅɪɢᴏ ɴᴜᴇᴠᴀᴍᴇɴᴛᴇ, ᴘʀɪᴍᴇʀᴏ ᴅᴇʙᴇꜱ ʙᴏʀʀᴀʀ ʟᴀ ꜱᴇꜱɪóɴ ᴀɴᴛᴇʀɪᴏʀ:
+1. \`rm -rf Session-activa\`
+2. \`npm start\`
+_ᴀʟ ɪɴɪᴄɪᴀʀ, ᴇʟ ʙᴏᴛ ᴛᴇ ᴅᴀʀá ᴜɴ ɴᴜᴇᴠᴏ ᴄóᴅɪɢᴏ._
+
+*「 ᴏғᴄ:ʏᴏᴠᴀɴɪ • ʜᴀᴅᴇꜱ ʙᴏᴛ ᴍᴅ 」*
+*─── · · 🚀 ᴀᴘɪ ᴘʀᴏᴘɪᴀ 🚀 · · ───*`.trim()
+
+  try {
+    await conn.sendMessage(m.chat, {
+      image: { url: IMAGE_URL },
+      caption: text
+    }, { quoted: m })
+    
+    await conn.sendMessage(m.chat, { react: { text: '⚙️', key: m.key }})
+
+  } catch (err) {
+    await conn.sendMessage(m.chat, { text: text }, { quoted: m })
+  }
+}
+
+handler.command = /^(instalarbot|installbot|instalar)$/i
+handler.register = true
+
+export default handler
