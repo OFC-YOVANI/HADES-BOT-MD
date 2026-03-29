@@ -1,1 +1,101 @@
-const _0x592fe9=_0x5b4e;(function(_0x16c842,_0x1b1fa5){const _0x32b0b4=_0x5b4e,_0x453941=_0x16c842();while(!![]){try{const _0x35b4de=-parseInt(_0x32b0b4(0xfc))/0x1*(-parseInt(_0x32b0b4(0x101))/0x2)+-parseInt(_0x32b0b4(0x107))/0x3+parseInt(_0x32b0b4(0xf0))/0x4+parseInt(_0x32b0b4(0xff))/0x5*(parseInt(_0x32b0b4(0x105))/0x6)+parseInt(_0x32b0b4(0xf1))/0x7+-parseInt(_0x32b0b4(0xeb))/0x8*(parseInt(_0x32b0b4(0x104))/0x9)+-parseInt(_0x32b0b4(0xf5))/0xa*(parseInt(_0x32b0b4(0xee))/0xb);if(_0x35b4de===_0x1b1fa5)break;else _0x453941['push'](_0x453941['shift']());}catch(_0x44cb79){_0x453941['push'](_0x453941['shift']());}}}(_0x2657,0x38aa2));function _0x2657(){const _0xcd1064=['263769SIaRha','from','477780hfErAG','3223857LFdJia','\x0a◈\x20━━━━━━━━━━━━━━━━\x20◈','sendMessage','cwd','20ldWpvK','#menu','readFileSync','chat','\x0a「\x20👑\x20」Menú\x20exclusivo\x20de\x20Owner\x0a\x0a╭───\x20\x20🔄\x20\x20sɪsᴛᴇᴍᴀ\x20\x20───╮\x0a┝\x20#actualizar\x20❯\x20Actualiza\x20el\x20bot\x0a┝\x20#restart\x20❯\x20Reinicia\x20el\x20bot\x0a┝\x20#cleartmp\x20❯\x20Limpia\x20archivos\x20temporales\x0a┝\x20#resetprefix\x20❯\x20Restablece\x20el\x20prefijo\x0a┝\x20#setprefix\x20❯\x20Cambia\x20el\x20prefijo\x0a╰──────────────────╯\x0a\x0a╭───\x20\x20👥\x20\x20ᴜsᴜᴀʀɪᴏs\x20\x20───╮\x0a┝\x20#addowner\x20❯\x20Agrega\x20un\x20owner\x0a┝\x20#banuser\x20❯\x20Banea\x20un\x20usuario\x0a┝\x20#unbanuser\x20❯\x20Desbanea\x20un\x20usuario\x0a┝\x20#banlist\x20❯\x20Lista\x20de\x20baneados\x0a┝\x20#block\x20❯\x20Bloquea\x20un\x20usuario\x0a┝\x20#blocklist\x20❯\x20Lista\x20de\x20bloqueados\x0a┝\x20#limitado\x20❯\x20Restringe\x20límites\x0a┝\x20#deletedatauser\x20❯\x20Elimina\x20datos\x20de\x20usuario\x0a╰──────────────────╯\x0a\x0a╭───\x20\x20💬\x20\x20ɢʀᴜᴘᴏs\x20\x20───╮\x0a┝\x20#banchat\x20❯\x20Banea\x20un\x20grupo\x0a┝\x20#unbanchat\x20❯\x20Desbanea\x20un\x20grupo\x0a┝\x20#autoadmin\x20❯\x20Auto\x20admin\x20en\x20grupos\x0a┝\x20#groups\x20❯\x20Lista\x20todos\x20los\x20grupos\x0a┝\x20#join\x20❯\x20Entra\x20a\x20un\x20grupo\x20por\x20enlace\x0a┝\x20#salirdelgrupo\x20❯\x20Sale\x20de\x20un\x20grupo\x0a╰──────────────────╯\x0a\x0a╭───\x20\x20🛠️\x20\x20ᴄᴏᴍᴀɴᴅᴏs\x20\x20───╮\x0a┝\x20#addcmd\x20❯\x20Agrega\x20comando\x20personalizado\x0a┝\x20#listcmd\x20❯\x20Lista\x20comandos\x20personalizados\x0a┝\x20#ds\x20❯\x20Desactiva\x20un\x20comando\x0a┝\x20#dsowner\x20❯\x20Desactiva\x20solo\x20para\x20owners\x0a╰──────────────────╯\x0a\x0a╭───\x20\x20🖼️\x20\x20ɪᴍᴀɢᴇɴᴇs\x20\x20───╮\x0a┝\x20#saveimage\x20❯\x20Guarda\x20una\x20imagen\x0a┝\x20#viewimage\x20❯\x20Ver\x20imagen\x20guardada\x0a╰──────────────────╯\x0a\x0a╭\x20💎\x20ɢᴇsᴛɪᴏ́ɴ\x20ᴅᴇ\x20ᴀᴄᴛɪᴠᴏs\x20─╮\x0a┝\x20#añadirxp\x20❯\x20cantidad\x20@tag\x0a┝\x20#añadirdiamantes\x20❯\x20@tag\x20cantidad\x0a┝\x20#añadirhadescoins\x20❯\x20@tag\x20cantidad\x0a┝\x20#añadirtokens\x20❯\x20@tag\x20cantidad\x0a┝\x20#addprem\x20❯\x20@tag\x20días\x0a╰──────────────────╯\x0a\x0a╭───\x20\x20📋\x20\x20ʀᴇᴘᴏʀᴛᴇs\x20\x20───╮\x0a┝\x20#reportes\x20❯\x20Ver\x20reportes\x20de\x20usuarios\x0a╰──────────────────╯\x0aʜᴀᴅᴇs\x20-\x20ʙᴏᴛ\x20-\x20ᴍᴅ\x20•\x20ᴠ','reply','◈\x20〔⚡︎\x20ʜᴀᴅᴇs\x20-\x20ʙᴏᴛ\x20-\x20ᴍᴅ\x20⚡︎〕\x20◈\x0a「\x20👤\x20」Hola\x20','93430xYvXSD','command','sender','5cDsItj','existsSync','2cmVLSM','error','getName','3187143dzVUef','573744QDkMqb','join','404601Ieojez','🔙\x20ᴍᴇɴᴜ́\x20ᴘʀɪɴᴄɪᴘᴀʟ','lib/img/menuowner.jpg','8hqAchM','trim','「\x20ᴄʀᴇᴀᴅᴏʀ:\x20ᴏғᴄ:ʏᴏᴠᴀɴɪ\x20」'];_0x2657=function(){return _0xcd1064;};return _0x2657();}function _0x5b4e(_0x12f09f,_0x8a23ba){_0x12f09f=_0x12f09f-0xea;const _0x265793=_0x2657();let _0x5b4e89=_0x265793[_0x12f09f];return _0x5b4e89;}import _0x28015f from'fs';import _0xb55293 from'path';import _0x41be77 from'node-fetch';const handler=async(_0x54d632,{conn:_0x1484f4,usedPrefix:_0x54e944})=>{const _0x536249=_0x5b4e;let _0x127a5d=await _0x1484f4[_0x536249(0x103)](_0x54d632[_0x536249(0xfe)]);const _0x296506=_0xb55293[_0x536249(0x106)](process[_0x536249(0xf4)](),_0x536249(0xea)),_0x55f4cd='https://raw.githubusercontent.com/OFC-YOVANI/Api-anime/main/img/owner.jpg';let _0x46ad30;if(_0x28015f[_0x536249(0x100)](_0x296506))_0x46ad30=_0x28015f[_0x536249(0xf7)](_0x296506);else{const _0x2465b3=await _0x41be77(_0x55f4cd);_0x46ad30=Buffer[_0x536249(0xef)](await _0x2465b3['arrayBuffer']());}const _0x44737b=(_0x536249(0xfb)+_0x127a5d+_0x536249(0xf9)+global['vs']+_0x536249(0xf2))[_0x536249(0xec)]();try{await _0x1484f4[_0x536249(0xf3)](_0x54d632[_0x536249(0xf8)],{'image':_0x46ad30,'caption':_0x44737b,'footer':_0x536249(0xed),'buttons':[{'buttonId':_0x536249(0xf6),'buttonText':{'displayText':_0x536249(0x108)},'type':0x1}],'headerType':0x4},{'quoted':_0x54d632});}catch(_0x365310){console[_0x536249(0x102)]('Error\x20en\x20menú\x20owner:',_0x365310),await _0x1484f4[_0x536249(0xfa)](_0x54d632[_0x536249(0xf8)],_0x44737b,_0x54d632);}};handler[_0x592fe9(0xfd)]=/^(menuowner|omenu|ownermenu)$/i,handler['rowner']=!![];export default handler;
+import fs from 'fs'
+import path from 'path'
+import fetch from 'node-fetch'
+
+const handler = async (m, { conn, usedPrefix }) => {
+  let name = await conn.getName(m.sender)
+
+  // 1. RUTA DEL ARCHIVO LOCAL (Donde el Código Maestro guarda la imagen)
+  const localImgPath = path.join(process.cwd(), 'lib/img/menuowner.jpg')
+  const defaultImgUrl = 'https://raw.githubusercontent.com/OFC-YOVANI/Api-anime/main/img/owner.jpg'
+
+  // 2. LÓGICA DE PRIORIDAD: CARPETA LOCAL > GITHUB
+  let fotoFinal
+  if (fs.existsSync(localImgPath)) {
+    // Si ya usaste #setmenu menuowner, lee el archivo del disco
+    fotoFinal = fs.readFileSync(localImgPath)
+  } else {
+    // Si no hay archivo local, descarga la de respaldo
+    const res = await fetch(defaultImgUrl)
+    fotoFinal = Buffer.from(await res.arrayBuffer())
+  }
+
+  const text = `◈ 〔⚡︎ ʜᴀᴅᴇs - ʙᴏᴛ - ᴍᴅ ⚡︎〕 ◈
+「 👤 」Hola ${name}
+「 👑 」Menú exclusivo de Owner
+
+╭───  🔄  sɪsᴛᴇᴍᴀ  ───╮
+┝ #actualizar ❯ Actualiza el bot
+┝ #restart ❯ Reinicia el bot
+┝ #setmenu ❯ cambia la imagen de los menús
+┝ #cleartmp ❯ Limpia archivos temporales
+┝ #resetprefix ❯ Restablece el prefijo
+┝ #setprefix ❯ Cambia el prefijo
+╰──────────────────╯
+
+╭───  👥  ᴜsᴜᴀʀɪᴏs  ───╮
+┝ #addowner ❯ Agrega un owner
+┝ #banuser ❯ Banea un usuario
+┝ #unbanuser ❯ Desbanea un usuario
+┝ #banlist ❯ Lista de baneados
+┝ #block ❯ Bloquea un usuario
+┝ #blocklist ❯ Lista de bloqueados
+┝ #limitado ❯ Restringe límites
+┝ #deletedatauser ❯ Elimina datos de usuario
+╰──────────────────╯
+
+╭───  💬  ɢʀᴜᴘᴏs  ───╮
+┝ #banchat ❯ Banea un grupo
+┝ #unbanchat ❯ Desbanea un grupo
+┝ #autoadmin ❯ Auto admin en grupos
+┝ #groups ❯ Lista todos los grupos
+┝ #join ❯ Entra a un grupo por enlace
+┝ #salirdelgrupo ❯ Sale de un grupo
+╰──────────────────╯
+
+╭───  🛠️  ᴄᴏᴍᴀɴᴅᴏs  ───╮
+┝ #addcmd ❯ Agrega comando personalizado
+┝ #listcmd ❯ Lista comandos personalizados
+┝ #ds ❯ Desactiva un comando
+┝ #dsowner ❯ Desactiva solo para owners
+╰──────────────────╯
+
+╭───  🖼️  ɪᴍᴀɢᴇɴᴇs  ───╮
+┝ #saveimage ❯ Guarda una imagen
+┝ #viewimage ❯ Ver imagen guardada
+╰──────────────────╯
+
+╭ 💎 ɢᴇsᴛɪᴏ́ɴ ᴅᴇ ᴀᴄᴛɪᴠᴏs ─╮
+┝ #añadirxp ❯ cantidad @tag
+┝ #añadirdiamantes ❯ @tag cantidad
+┝ #añadirhadescoins ❯ @tag cantidad
+┝ #añadirtokens ❯ @tag cantidad
+┝ #addprem ❯ @tag días
+╰──────────────────╯
+
+╭───  📋  ʀᴇᴘᴏʀᴛᴇs  ───╮
+┝ #reportes ❯ Ver reportes de usuarios
+╰──────────────────╯
+ʜᴀᴅᴇs - ʙᴏᴛ - ᴍᴅ • ᴠ${global.vs}
+◈ ━━━━━━━━━━━━━━━━ ◈`.trim()
+
+  try {
+    await conn.sendMessage(m.chat, {
+      image: fotoFinal,
+      caption: text,
+      footer: '「 ᴄʀᴇᴀᴅᴏʀ: ᴏғᴄ:ʏᴏᴠᴀɴɪ 」',
+      buttons: [
+        { buttonId: `#menu`, buttonText: { displayText: '🔙 ᴍᴇɴᴜ́ ᴘʀɪɴᴄɪᴘᴀʟ' }, type: 1 }
+      ],
+      headerType: 4
+    }, { quoted: m })
+  } catch (e) {
+    console.error('Error en menú owner:', e)
+    await conn.reply(m.chat, text, m)
+  }
+}
+
+handler.command = /^(menuowner|omenu|ownermenu)$/i
+handler.rowner = true
+
+export default handler
