@@ -51,7 +51,7 @@
     "cheerio": "npm:cheerio@1.0.0-rc.12",
     "colors": "1.4.0",
     "express": "^4.17.3",
-    "fb-downloader-scrapper": "^1.0.1",
+    "fb-downloader-scrapper": "github:OFC-YOVANI/ruhend-scraper",
     "file-type": "^17.1.1",
     "fluent-ffmpeg": "^2.1.2",
     "fluid-spotify.js": "*",
